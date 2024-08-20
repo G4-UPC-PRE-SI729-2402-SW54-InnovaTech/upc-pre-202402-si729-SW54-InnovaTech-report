@@ -25,13 +25,13 @@
 | 0.0 | 20/08/2024 | Grupo 4 | Creación del documento |
 
 
-# Project Report Collaboration Insights
+# **Project Report Collaboration Insights**
 
 **Commits del Informe**
 
 Link del repositorio: 
 
-# Student Outcome
+# **Student Outcome**
 
 **ABET - EAC - Student Outcome 3:** Capacidad de comunicarse efectivamente con un rango de audiencias.
 
@@ -41,6 +41,8 @@ Link del repositorio:
 # Contenido
 
 - [Registro de Versiones](#registro-de-versiones-del-informe)
+- [Project Report Collaboration Insights](#project-report-collaboration-insights)
+- [Student Outcome](#student-outcome)
 1. [Capítulo I: Introducción](#cap1)<br>
    1.1. [Startup Profile](#1.1.)<br>
       1.1.1. [Descripción del startup](#1.1.1.)<br>
