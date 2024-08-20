@@ -43,33 +43,33 @@ Link del repositorio:
 - [Registro de Versiones](#registro-de-versiones-del-informe)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
 - [Student Outcome](#student-outcome)
-1. [Capítulo I: Introducción](#cap1)<br>
-   1.1. [Startup Profile](#1.1.)<br>
-      1.1.1. [Descripción del startup](#1.1.1.)<br>
-      1.1.2. [Perfiles de los integrantes del equipo](#1.1.2.)<br>
-   1.2. [Solution Profile](#1.2.)<br>
-      1.2.1. [Antecedentes y Problemática](#1.2.1.)<br>
-      1.2.2. [Lean UX Process](#1.2.2.)<br>
-        1.2.2.1. [Lean UX Problem Statements](#1.2.2.1.)<br>
-        1.2.2.2. [Lean UX Assumptions](#1.2.2.2.)<br>
-        1.2.2.3. [Lean UX Hypothesis Statements](#1.2.2.3.)<br>
-        1.2.2.4. [Lean UX Canvas](#1.2.2.4.)<br>
-   1.3. [Segmentos objetivo](#1.3.)<br>
-2. [Capítulo II: Requirements Elicitation & Analysis](#cap2)<br>
-   2.1. [Competidores](#2.1.)<br>
-      2.1.1. [Análisis competitivo](#2.1.1.)<br>
-      2.1.2. [Estrategias y tácticas frente a competidores](#2.1.2.)<br>
-   2.2. [Entrevistas](#2.2.)<br>
-      2.2.1. [Diseño de entrevistas](#2.2.1.)<br>
-      2.2.2. [Registro de entrevistas](#2.2.2.)<br>
-      2.2.3. [Análisis de entrevistas](#2.2.3.)<br>
-   2.3. [Needfinding](#2.3.)<br>
-      2.3.1. [User Personas](#2.3.1.)<br>
-      2.3.2. [User Task Matrix](#2.3.2.)<br>
-      2.3.3. [User Journey Mapping](#2.3.3.)<br>
-      2.3.4. [Empathy Mapping](#2.3.4.)<br>
-      2.3.5. [As-is Scenario Mapping](#2.3.5.)<br>
-   2.4. [Ubiquitous Language](#2.4.) <br>
+1. [Capítulo I: Introducción](#capítulo-i-introducción)<br>
+   1.1. [Startup Profile](#11-startup-profile)<br>
+      1.1.1. [Descripción del startup](#111-descripcion-del-startup)<br>
+      1.1.2. [Perfiles de los integrantes del equipo](#112-perfiles-de-los-integrantes-del-equipo)<br>
+   1.2. [Solution Profile](#12-solution-profile)<br>
+      1.2.1. [Antecedentes y Problemática](#121-antecedentes-y-problemática)<br>
+      1.2.2. [Lean UX Process](#122-lean-ux-process)<br>
+        1.2.2.1. [Lean UX Problem Statements](#1221-lean-ux-problem-statements)<br>
+        1.2.2.2. [Lean UX Assumptions](#1222-lean-ux-assumptions)<br>
+        1.2.2.3. [Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)<br>
+        1.2.2.4. [Lean UX Canvas](#1224-lean-ux-canvas)<br>
+   1.3. [Segmentos objetivo](#13-segmentos-objetivo)<br>
+2. [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation-analysis)<br>
+   2.1. [Competidores](#21-competidores)<br>
+      2.1.1. [Análisis competitivo](#211-análisis-competitivo)<br>
+      2.1.2. [Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)<br>
+   2.2. [Entrevistas](#22-entrevistas)<br>
+      2.2.1. [Diseño de entrevistas](#221-diseño-de-entrevistas)<br>
+      2.2.2. [Registro de entrevistas](#222-registro-de-entrevistas)<br>
+      2.2.3. [Análisis de entrevistas](#223-análisis-de-entrevistas)<br>
+   2.3. [Needfinding](#23-needfinding)<br>
+      2.3.1. [User Personas](#231-user-personas)<br>
+      2.3.2. [User Task Matrix](#232-user-task-matrix)<br>
+      2.3.3. [User Journey Mapping](#233-user-journey-mapping)<br>
+      2.3.4. [Empathy Mapping](#234-empathy-mapping)<br>
+      2.3.5. [As-is Scenario Mapping](#235-as-is-scenario-mapping)<br>
+   2.4. [Ubiquitous Language](#24-ubiquitous-language)<br>
 3. [Capítulo III: Requirements Specification](#cap3)<br>
    3.1. [To-Be Scenario Mapping](#3.1.)<br>
    3.2. [User Stories](#3.2.)<br>
@@ -155,55 +155,58 @@ Link del repositorio:
 7. [Bibliografía](#bibliografía)<br>
 8. [Anexos](#anexos)
 
-# Capítulo I: Introducción <a name ="cap1">
+# **Capítulo I: Introducción** 
 
-## 1.1. Startup Profile <a name ="1.1.">
+## **1.1. Startup Profile** 
 
-### 1.1.1. Descripcion de la Startup <a name ="1.1.1.">
+### **1.1.1. Descripcion de la Startup** 
 
-### 1.1.2. Perfiles de los integrantes del equipo <a name ="1.1.2.">
+### **1.1.2. Perfiles de los integrantes del equipo** 
 
-## 1.2. Solution Profile <a name ="1.2.">
+## **1.2. Solution Profile** 
 
-### 1.2.1. Antecedentes y problemáticas <a name ="1.2.1.">
+### **1.2.1. Antecedentes y problemáticas** 
 
-### 1.2.2. Lean UX Process <a name ="1.2.2.">
-#### 1.2.2.1. Lean UX Problem Statments <a name ="1.2.2.1.">
+### **1.2.2. Lean UX Process** 
 
-#### 1.2.2.2. Lean UX Assumptions <a name ="1.2.2.2.">
+#### **1.2.2.1. Lean UX Problem Statments** 
 
-#### 1.2.2.3. Lean UX Hypothesis Statements <a name ="1.2.2.3.">
+#### **1.2.2.2. Lean UX Assumptions** 
 
-#### 1.2.2.4. Lean UX Canvas <a name ="1.2.2.4.">
+#### **1.2.2.3. Lean UX Hypothesis Statements** 
 
-## 1.3. Segmentos objetivo <a name ="1.3.">
+#### **1.2.2.4. Lean UX Canvas** 
 
-# Capítulo II: Requeriments Elicitation & Analysis <a name ="cap2">
+## **1.3. Segmentos objetivo** 
 
-## 2.1. Competidores <a name ="2.1.">
+# **Capítulo II: Requeriments Elicitation & Analysis** 
 
-### 2.1.1. Analisis Competitivo <a name ="2.1.1.">
+## **2.1. Competidores** 
 
-### 2.1.2. Estrategias y tácticas frente a competidores <a name ="2.1.2.">
+### **2.1.1. Analisis Competitivo** 
 
-## 2.2. Entrevistas <a name ="2.2.">
-### 2.2.1. Diseño de Entrevistas <a name ="2.2.1.">
+### **2.1.2. Estrategias y tácticas frente a competidores** 
 
-### 2.2.2. Registro de entrevistas <a name ="2.2.2.">
+## **2.2. Entrevistas** 
 
-### 2.2.3. Ánalisis de entrevistas <a name ="2.2.3.">
+### **2.2.1. Diseño de Entrevistas** 
 
-## 2.3. Needfinding <a name ="2.3.">
-### 2.3.1. User Personas <a name ="2.3.1.">
+### **2.2.2. Registro de entrevistas** 
 
-### 2.3.2. User Task Matrix <a name ="2.3.2.">
+### **2.2.3. Ánalisis de entrevistas** 
 
-### 2.3.3. User Jorney Mapping <a name ="2.3.3.">
+## **2.3. Needfinding** 
 
-### 2.3.4. Empathy Mapping <a name ="2.3.4.">
+### **2.3.1. User Personas** 
 
-### 2.3.5. As-is Scenario Mapping <a name ="2.3.5.">
+### **2.3.2. User Task Matrix** 
 
-## 2.4. Ubiquitous Language <a name ="2.4.">
+### **2.3.3. User Jorney Mapping** 
+
+### **2.3.4. Empathy Mapping** 
+
+### **2.3.5. As-is Scenario Mapping** 
+
+## **2.4. Ubiquitous Language**
 
 
