@@ -9,7 +9,7 @@
 
 ### Integrantes:
 - Javier Murillo, Mathias - U202022211
-- 
+- Macavilca Quispe, Ian - U202121325
 
 ---
 # Registro de versiones del Informe
