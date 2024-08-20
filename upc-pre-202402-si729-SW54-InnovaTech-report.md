@@ -14,6 +14,7 @@
 ---
 # Registro de versiones del Informe
 | Version | Fecha | Autor | Descripcion de Modificacion |
+| ----------- | ------------ | ---------- | ----------- |
 | 0.0 | 20/08/2024 | Grupo 4 | Creación del documento |
 
 
