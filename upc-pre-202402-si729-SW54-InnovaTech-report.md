@@ -1,3 +1,7 @@
+<div align="center">
+
+![image](https://github.com/PetPalORG/PetPal-Informe/assets/164519824/55b272a3-26f7-4c8b-9da7-39b023ceaeb5)
+
 # Universidad Peruana de Ciencias Aplicadas
 
 # INGENIERA DE SOFTWARE
@@ -10,6 +14,8 @@
 ### Integrantes:
 - Javier Murillo, Mathias - U202022211
 - Macavilca Quispe, Ian - U202121325
+
+</div>
 
 ---
 # Registro de versiones del Informe
