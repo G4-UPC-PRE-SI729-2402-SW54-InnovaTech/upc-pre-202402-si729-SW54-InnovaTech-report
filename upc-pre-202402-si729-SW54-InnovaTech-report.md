@@ -155,5 +155,45 @@ Link del repositorio:
 
 ## 1.2. Solution Profile <a name ="1.2.">
 
-### 1.2.1 Antecedentes y problemáticas <a name ="1.2.1.">
+### 1.2.1. Antecedentes y problemáticas <a name ="1.2.1.">
+
+### 1.2.2. Lean UX Process <a name ="1.2.2.">
+#### 1.2.2.1. Lean UX Problem Statments <a name ="1.2.2.1.">
+
+#### 1.2.2.2. Lean UX Assumptions <a name ="1.2.2.2.">
+
+#### 1.2.2.3. Lean UX Hypothesis Statements <a name ="1.2.2.3.">
+
+#### 1.2.2.4. Lean UX Canvas <a name ="1.2.2.4.">
+
+## 1.3. Segmentos objetivo <a name ="1.3.">
+
+# Capítulo II: Requeriments Elicitation & Analysis <a name ="cap2">
+
+## 2.1. Competidores <a name ="2.1.">
+
+### 2.1.1. Analisis Competitivo <a name ="2.1.1.">
+
+### 2.1.2. Estrategias y tácticas frente a competidores <a name ="2.1.2.">
+
+## 2.2. Entrevistas <a name ="2.2.">
+### 2.2.1. Diseño de Entrevistas <a name ="2.2.1.">
+
+### 2.2.2. Registro de entrevistas <a name ="2.2.2.">
+
+### 2.2.3. Ánalisis de entrevistas <a name ="2.2.3.">
+
+## 2.3. Needfinding <a name ="2.3.">
+### 2.3.1. User Personas <a name ="2.3.1.">
+
+### 2.3.2. User Task Matrix <a name ="2.3.2.">
+
+### 2.3.3. User Jorney Mapping <a name ="2.3.3.">
+
+### 2.3.4. Empathy Mapping <a name ="2.3.4.">
+
+### 2.3.5. As-is Scenario Mapping <a name ="2.3.5.">
+
+## 2.4. Ubiquitous Language <a name ="2.4.">
+
 
