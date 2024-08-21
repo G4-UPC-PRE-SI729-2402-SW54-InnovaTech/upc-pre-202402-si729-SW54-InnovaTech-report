@@ -174,8 +174,43 @@ Link del repositorio:
 # **Capítulo II: Requeriments Elicitation & Analysis** 
 
 ## **2.1. Competidores** 
+
+# Coobis
+Coobis es una plataforma de marketing de contenidos que conecta distintas marcas con diferentes medios o tambien con influncers. Coobis llega a difundir el contenido entre mas de 5000 medios clasificados y puntuados, y además, amplifica el mensaje que los influencers o marcas quieran transmitir en diferentes redes sociales.
+
+# Nuntia 
+Nuntia, o anteriormente conocida como Blog on brands, es una empresa que se dedica a conectar bloggers con marcas. Esta empresa se basa en la influencia y la independencia. Por un lado, la influencia, porque un blog es lo que te hace diferente en un mundo virtual y, por otro lado, la independencia, porque es la clave que te convierte en influencer. 
+
+# Brantube
+Brantube se centra en los influences qu puedan contrar en la red social de Youtube. Trabajando de esta manera, tanto con influencers o Youtubers, como con empresas para que éstas contraten a los usuarios mas populares para conseguir que sus campañas sean mas exitosas. 
+
+# Socialpubli
+Socialpubli es una empresa de publicidad social que pone en contacto a empresas con personas influyentes del momento. De esta manera, los mensajes que las empresas quieren transmitir se pueden difundir a través de diferentes plataformas como Twitter, blogs o Facebook.
+
 ### **2.1.1. Analisis Competitivo** 
+
+| Competitive Analysis Landscape | |
+|--------------------------------| - |
+| ¿Por qué llevar a cabo este análisis? | Este análisis es importante para nuestra startup, ya que, de este modo podemos darnos cuenta cuales son nuestras ventajas y desventajas estando dentro del mercado y como poder realizar diferentes estrategias para poder aprovechar nuestras ventajas y poder contrarestar nuestras desventajas. |
+
+| | | Nuestra | Coobis | Nuntia |
+|-|-|-|-|-|
+| Perfil | Overview | | | |
+|  | Ventaja competitiva ¿Qué valor ofrece a los clientes? | | | |
+|  | Mercado Objetivo | | | |
+| Perfil de Marketing | Estategia de Marketing | | | |
+| Perfil de Producto | Productos y servicios | | | |
+|  | Precios y costos | | | |
+|  | Canales de distribución (Web y/o Móvil) | | | | 
+
 ### **2.1.2. Estrategias y tácticas frente a competidores** 
+
+| Competidores | | Nuestra | Coobis | Nuntia |
+|-|-|-|-|-|
+| Análisis SWOT | Fortalezas | | | |
+| | Debilidades | | | |
+| | Oportunidades | | | |
+| | Amenazas | | | |
 
 ## **2.2. Entrevistas** 
 ### **2.2.1. Diseño de Entrevistas** 
