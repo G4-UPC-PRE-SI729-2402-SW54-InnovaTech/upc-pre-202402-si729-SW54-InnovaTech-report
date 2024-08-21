@@ -9,7 +9,7 @@
 # CURSO: SI729 Aplicaciones Open Source | SECCIÓN SW54 | 2024-2
  Profesor: Alberto Wilmer Sanchez Seña
 
-**Startup:** 
+**Startup:** Connex 
 
 ### Integrantes:
 - Javier Murillo, Mathias - U202022211
@@ -193,19 +193,19 @@ Socialpubli es una empresa de publicidad social que pone en contacto a empresas 
 |--------------------------------| - |
 | ¿Por qué llevar a cabo este análisis? | Este análisis es importante para nuestra startup, ya que, de este modo podemos darnos cuenta cuales son nuestras ventajas y desventajas estando dentro del mercado y como poder realizar diferentes estrategias para poder aprovechar nuestras ventajas y poder contrarestar nuestras desventajas. |
 
-| | | Nuestra | Coobis | Nuntia |
+| | | Connex | Coobis | Nuntia |
 |-|-|-|-|-|
-| Perfil | Overview | | | |
-|  | Ventaja competitiva ¿Qué valor ofrece a los clientes? | | | |
-|  | Mercado Objetivo | | | |
-| Perfil de Marketing | Estategia de Marketing | | | |
+| Perfil | Overview | Connex es una plataforma que conecta influencers con empresas generando estadisticas para los usuarios | Coobis es una plataforma de marketing de contenidos que conecta marcas con influencers | Nuntia es una empresa que se dedica a conectar bloggers con marcas |
+|  | Ventaja competitiva ¿Qué valor ofrece a los clientes? | Connex ofrece caracteristica como poder ver tus estadisticas con una marca, poder subir tu alcance en diferentes redes y poder personalizar tu feed, mostrandolo como un portafolio | Facilitan el aumento de visibilidad de los influencers registrados y las marcas con las que trabajan | Genera conversaciones online, promocionan diferentes acciones y escuchan activamente a través de los bloggers que trabajan con ellos día a día |
+|  | Mercado Objetivo | Influnecers y Empresas | Influencer y Empresas | Bloggers y Empresas |
+| Perfil de Marketing | Estategia de Marketing | Segmentación y Posicionamiento, Propuesta de valor para marcas y creadores, SEO, Campañas PPC y Programas de referencia | Marketing de contenidos, Marketplaces de Influencers, Automatitación y Segmentación y Modelo de Monitoreo y Reporting | Distribución de Contenidos y Notas de Prensa, Publicidad Nativa y SEO |
 | Perfil de Producto | Productos y servicios | | | |
 |  | Precios y costos | | | |
-|  | Canales de distribución (Web y/o Móvil) | | | | 
+|  | Canales de distribución (Web y/o Móvil) | Web | Web | Web | 
 
 ### **2.1.2. Estrategias y tácticas frente a competidores** 
 
-| Competidores | | Nuestra | Coobis | Nuntia |
+| Competidores | | Connex | Coobis | Nuntia |
 |-|-|-|-|-|
 | Análisis SWOT | Fortalezas | | | |
 | | Debilidades | | | |
