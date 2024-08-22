@@ -199,10 +199,42 @@ Las principales partes afectadas son las empresas, que necesitan encontrar influ
 
 Connex aborda esta problemática proporcionando una plataforma integral que permite a las empresas y a los influencers conectarse de manera eficiente. A través de Connex, las empresas pueden revisar portafolios de influencers y establecer colaboraciones estratégicas, mientras que los influencers pueden acceder a oportunidades relevantes para potenciar su carrera.
 
-
-
 ### **1.2.2. Lean UX Process** 
 #### **1.2.2.1. Lean UX Problem Statments** 
+**Domain**
+
+Connex opera en el dominio del marketing digital, específicamente en el ámbito de las plataformas de conexión entre empresas e influencers. Este sector se enfoca en facilitar colaboraciones estratégicas entre marcas y creadores de contenido, potenciando el alcance y la efectividad de las campañas de marketing.
+
+**Customer Segments**
+
+Connex se dirige a dos segmentos principales de clientes:
+
+- Empresas de diversos sectores (tecnología, moda, belleza, alimentos, etc.) que buscan incrementar su visibilidad y penetración en el mercado mediante campañas de marketing de influencers.
+
+- Influencers de diferentes niveles (microinfluencers, influencers medianos y grandes) que buscan oportunidades de colaboración con marcas que se alineen con su audiencia y contenido.
+
+**Pain Points**
+
+- Empresas: Dificultad para identificar y seleccionar influencers que verdaderamente representen sus valores y lleguen a la audiencia deseada. Además, la falta de una plataforma confiable complica la gestión de múltiples colaboraciones.
+
+- Influencers: Limitaciones para encontrar oportunidades de colaboración con marcas relevantes y para gestionar sus acuerdos de manera eficiente, lo que a menudo lleva a pérdidas de ingresos y crecimiento limitado.
+
+**Gap**
+
+En el mercado actual, no existe una plataforma centralizada y especializada que simplifique y optimice el proceso de conexión entre empresas e influencers. Las herramientas existentes son fragmentadas, ineficientes y no ofrecen una solución completa para gestionar todas las etapas de la colaboración, desde la búsqueda hasta la ejecución y el seguimiento.
+
+**Vision/Strategy**
+
+La visión de Connex es convertirse en la plataforma líder a nivel mundial que conecta de manera efectiva a empresas e influencers, transformando la forma en que se gestionan las relaciones de marketing digital. Nuestra estrategia se centra en:
+
+- Crear un ecosistema confiable que facilite la identificación, selección y gestión de colaboraciones.
+- Ofrecer herramientas avanzadas que permitan a las empresas analizar el impacto de sus campañas y a los influencers gestionar sus acuerdos de manera profesional.
+- Expandir gradualmente el alcance de la plataforma, comenzando con un enfoque en sectores específicos y ampliando a otros mercados a medida que se establezca la base de usuarios.
+
+**Initial Segment**
+
+Connex se enfocará primero en el mercado peruano, dirigiéndose a empresas medianas del sector del entretenimiento, que son clave en el marketing de influencers. También se centrará en microinfluencers y medianos influencers en Perú, que buscan crecer y encontrar nuevas oportunidades de colaboración. Estos segmentos fueron elegidos por su alto potencial y necesidad de una plataforma eficiente como Connex.
+
 #### **1.2.2.2. Lean UX Assumptions** 
 #### **1.2.2.3. Lean UX Hypothesis Statements** 
 #### **1.2.2.4. Lean UX Canvas** 
