@@ -167,8 +167,8 @@ Connex es una plataforma digital que facilita la interacción y colaboración en
 
 |**Integrantes**|**Descripción del Perfil**|
 | :-: | :-: |
-|**NOMBRE (U)**<img src=" " width="300"/>|Estudiando la carrera de |
-|**Ian Macavilca Quispe (U202121325)**<img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/35f9f27a-549f-4270-980a-209b6e035420" width="300"/>|Como estudiante de Ingeniería de Software, mi destreza en el pensamiento lógico me habilita para abordar desafíos de manera eficaz, optimizar procesos, diseñar software robusto, comunicar de manera clara, ser resiliente ante obstáculos y colaborar efectivamente en equipos, con lo que pienso aportar al éxito y eficiencia de la startup.|
+|**Javier Murillo, Mathias (U202022211)**<img src=" " width="300"/>|Estudiando la carrera de |
+|**Macavilca Quispe, Ian (U202121325)**<img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/35f9f27a-549f-4270-980a-209b6e035420" width="300"/>|Como estudiante de Ingeniería de Software, mi destreza en el pensamiento lógico me habilita para abordar desafíos de manera eficaz, optimizar procesos, diseñar software robusto, comunicar de manera clara, ser resiliente ante obstáculos y colaborar efectivamente en equipos, con lo que pienso aportar al éxito y eficiencia de la startup.|
 |**NOMBRE (U)**<img src=" " width="300"/>|Estudiando la carrera de |
 
 
