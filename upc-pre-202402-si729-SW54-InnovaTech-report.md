@@ -233,9 +233,41 @@ La visión de Connex es convertirse en la plataforma líder a nivel mundial que 
 
 **Initial Segment**
 
-Connex se enfocará primero en el mercado peruano, dirigiéndose a empresas medianas del sector del entretenimiento, que son clave en el marketing de influencers. También se centrará en microinfluencers y medianos influencers en Perú, que buscan crecer y encontrar nuevas oportunidades de colaboración. Estos segmentos fueron elegidos por su alto potencial y necesidad de una plataforma eficiente como Connex.
+Connex se enfocará primero en el mercado peruano, dirigiéndose a empresas medianas, que son clave en el marketing de influencers. También se centrará en microinfluencers y medianos influencers en Perú, que buscan crecer y encontrar nuevas oportunidades de colaboración. Estos segmentos fueron elegidos por su alto potencial y necesidad de una plataforma eficiente como Connex.
 
 #### **1.2.2.2. Lean UX Assumptions** 
+
+**¿Quién es el usuario?**
+
+Los usuarios de Connex son principalmente dos grupos:
+
+- Empresas medianas que buscan conectar con influencers para aumentar su visibilidad y mejorar sus campañas de marketing.
+- Microinfluencers y medianos influencers que desean acceder a oportunidades de colaboración con marcas relevantes para crecer y monetizar su influencia.
+
+**¿Dónde encaja nuestro producto, en su trabajo o en su vida?**
+
+Para las empresas, Connex se integra en su estrategia de marketing digital, facilitando la búsqueda y gestión de influencers para sus campañas. Para los influencers, Connex se convierte en una herramienta esencial en su vida profesional, ayudándolos a encontrar y gestionar colaboraciones que impulsen su carrera.
+
+**¿Qué problema resuelve nuestro producto?**
+
+Connex resuelve la dificultad de encontrar y gestionar colaboraciones eficaces entre empresas e influencers. Simplifica el proceso de identificación, contacto y seguimiento de las campañas, optimizando el tiempo y los recursos de ambas partes.
+
+**¿Cuándo y cómo se utiliza nuestro producto?**
+
+El producto se utiliza durante las fases de planificación, ejecución y seguimiento de campañas de marketing. Las empresas lo usan para buscar y seleccionar influencers, gestionar acuerdos y monitorear el rendimiento de las campañas. Los influencers lo usan para buscar oportunidades de colaboración y gestionar sus acuerdos con las marcas.
+
+**¿Qué características son importantes?**
+
+- Búsqueda avanzada y filtrado para encontrar influencers adecuados según criterios específicos.
+- Portafolios detallados de influencers con métricas de rendimiento.
+- Gestión de campañas para organizar y seguir el progreso de las colaboraciones.
+- Herramientas de comunicación integradas para facilitar la negociación y coordinación.
+- Análisis de rendimiento para medir el éxito de las campañas y la influencia.
+
+**¿Cómo debe verse y comportarse nuestro producto?**
+
+Connex debe tener una interfaz intuitiva y profesional, fácil de usar tanto para empresas como para influencers. El diseño debe ser limpio, moderno y accesible, con una navegación clara que permita a los usuarios encontrar rápidamente lo que necesitan. El comportamiento del producto debe ser fluido, respondiendo rápidamente a las acciones del usuario y proporcionando retroalimentación clara en cada paso.
+
 #### **1.2.2.3. Lean UX Hypothesis Statements** 
 #### **1.2.2.4. Lean UX Canvas** 
 
