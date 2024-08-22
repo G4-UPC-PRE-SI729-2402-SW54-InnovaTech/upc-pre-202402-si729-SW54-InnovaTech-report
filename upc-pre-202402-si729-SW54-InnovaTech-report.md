@@ -157,9 +157,20 @@ Link del repositorio:
 
 # **Capítulo I: Introducción** 
 
-## **1.1. Startup Profile** 
+## **1.1. Startup Profile**
+En un mundo cada vez más digitalizado, donde las relaciones entre marcas e influencers juegan un papel crucial en la estrategia de marketing, surge Connex. Con un enfoque claro en la innovación y un compromiso con la excelencia, nuestro equipo está compuesto por profesionales con experiencia en marketing digital, desarrollo de software, y gestión empresarial, quienes trabajan en sinergia para hacer de Connex una plataforma líder en su sector.
+
+
 ### **1.1.1. Descripcion de la Startup** 
-### **1.1.2. Perfiles de los integrantes del equipo** 
+Connex es una plataforma digital que facilita la interacción y colaboración entre influencers de todos los niveles y empresas de diversos sectores. Las empresas pueden acceder a una amplia gama de influencers, analizar sus portafolios y estadísticas, y elegir aquellos que mejor se alineen a sus objetivos de marketing y comunicación con Connex. De manera similar, los influencers pueden conectarse con empresas interesadas en promocionar sus bienes o servicios, estableciendo relaciones de beneficio mutuo.
+### **1.1.2. Perfiles de los integrantes del equipo**
+
+|**Integrantes**|**Descripción del Perfil**|
+| :-: | :-: |
+|**NOMBRE (U)**<img src=" " width="300"/>|Estudiando la carrera de |
+|**Ian Macavilca Quispe (U202121325)**<img src="https://github.com/PetPalORG/PetPal-Informe/assets/164519824/35f9f27a-549f-4270-980a-209b6e035420" width="300"/>|Como estudiante de Ingeniería de Software, mi destreza en el pensamiento lógico me habilita para abordar desafíos de manera eficaz, optimizar procesos, diseñar software robusto, comunicar de manera clara, ser resiliente ante obstáculos y colaborar efectivamente en equipos, con lo que pienso aportar al éxito y eficiencia de la startup.|
+|**NOMBRE (U)**<img src=" " width="300"/>|Estudiando la carrera de |
+
 
 ## **1.2. Solution Profile** 
 ### **1.2.1. Antecedentes y problemáticas** 
