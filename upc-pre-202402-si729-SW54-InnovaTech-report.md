@@ -14,7 +14,7 @@
 ### Integrantes:
 - Javier Murillo, Mathias - U202022211
 - Macavilca Quispe, Ian - U202121325
-
+- NOMBRE RANDOM
 </div>
 
 ---
@@ -278,9 +278,9 @@ Lograremos facilitar el proceso de marketing de influencers para las empresas y 
 
 Sabremos que hemos tenido éxito cuando Connex se convierta en la plataforma líder en el sector del entretenimiento en Perú, con un número creciente de empresas e influencers registrados y activos en la plataforma.
 
-
-
 #### **1.2.2.4. Lean UX Canvas** 
+
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/uxcanvas.JPG?raw=true" style="width: 100%;"/>
 
 ## **1.3. Segmentos objetivo** 
 
