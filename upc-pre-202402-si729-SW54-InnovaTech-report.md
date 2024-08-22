@@ -269,6 +269,17 @@ El producto se utiliza durante las fases de planificación, ejecución y seguimi
 Connex debe tener una interfaz intuitiva y profesional, fácil de usar tanto para empresas como para influencers. El diseño debe ser limpio, moderno y accesible, con una navegación clara que permita a los usuarios encontrar rápidamente lo que necesitan. El comportamiento del producto debe ser fluido, respondiendo rápidamente a las acciones del usuario y proporcionando retroalimentación clara en cada paso.
 
 #### **1.2.2.3. Lean UX Hypothesis Statements** 
+
+**Usuario cliente**
+
+Creemos que al ofrecer una plataforma digital que conecta eficientemente a empresas medianas del sector entretenimiento en Perú con microinfluencers y medianos influencers, permitiendo la gestión completa de colaboraciones y campañas,
+
+Lograremos facilitar el proceso de marketing de influencers para las empresas y aumentaremos las oportunidades de colaboración y crecimiento para los influencers.
+
+Sabremos que hemos tenido éxito cuando Connex se convierta en la plataforma líder en el sector del entretenimiento en Perú, con un número creciente de empresas e influencers registrados y activos en la plataforma.
+
+
+
 #### **1.2.2.4. Lean UX Canvas** 
 
 ## **1.3. Segmentos objetivo** 
