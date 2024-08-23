@@ -315,8 +315,8 @@ Socialpubli es una empresa de publicidad social que pone en contacto a empresas 
 |  | Ventaja competitiva ¿Qué valor ofrece a los clientes? | Connex ofrece caracteristica como poder ver tus estadisticas con una marca, poder subir tu alcance en diferentes redes y poder personalizar tu feed, mostrandolo como un portafolio | Facilitan el aumento de visibilidad de los influencers registrados y las marcas con las que trabajan | Genera conversaciones online, promocionan diferentes acciones y escuchan activamente a través de los bloggers que trabajan con ellos día a día |
 |  | Mercado Objetivo | Influnecers y Empresas | Influencer y Empresas | Bloggers y Empresas |
 | Perfil de Marketing | Estategia de Marketing | Segmentación y Posicionamiento, Propuesta de valor para marcas y creadores, SEO, Campañas PPC y Programas de referencia | Marketing de contenidos, Marketplaces de Influencers, Automatitación y Segmentación y Modelo de Monitoreo y Reporting | Distribución de Contenidos y Notas de Prensa, Publicidad Nativa y SEO |
-| Perfil de Producto | Productos y servicios | | | |
-|  | Precios y costos | | | |
+| Perfil de Producto | Productos y servicios | Aplicación web desarrollada para Influencer y marcas, que gestiona los vinculos entre ellos y sus estadisticas de manera personalizada por el propio usuario | Aplicacion web relaciona con el marketing de contenidos, que contecta marcas con influencers | Aplicacion web dedicada a relacionar bloggers con empresas |
+|  | Precios y costos | Plan Free, Plan Premium (S/.29.99) y Plan Business (S/.19.99) | Se queda con 30% de tus colaboraciones | Tarifa de publicación varia entre 200 y 1000 dolarés, y puede llegar a más |
 |  | Canales de distribución (Web y/o Móvil) | Web | Web | Web | 
 
 ### **2.1.2. Estrategias y tácticas frente a competidores** 
