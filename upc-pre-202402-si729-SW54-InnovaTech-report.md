@@ -354,6 +354,14 @@ Socialpubli es una empresa de publicidad social que pone en contacto a empresas 
 
 ## **2.3. Needfinding** 
 ### **2.3.1. User Personas** 
+
+**User Persona: Influencer:**
+<br>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/d0f175ff041622410a361f357fed233ec57d4c16/Assets/UserPersona-Influencer.png" width="300"/>
+<br>
+**User Persona: Empresa**
+<br>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/d0f175ff041622410a361f357fed233ec57d4c16/Assets/UserPersona-Empresa.png" width="300"/>
 ### **2.3.2. User Task Matrix** 
 ### **2.3.3. User Jorney Mapping** 
 ### **2.3.4. Empathy Mapping** 
