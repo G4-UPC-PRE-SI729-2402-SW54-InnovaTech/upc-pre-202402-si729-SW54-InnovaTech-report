@@ -313,7 +313,7 @@ Socialpubli es una empresa de publicidad social que pone en contacto a empresas 
 
 ### **2.1.1. Analisis Competitivo** 
 
-| Competitive Analysis Landscape | |
+| Competitive Analysis Landscape |   |
 |--------------------------------| - |
 | ¿Por qué llevar a cabo este análisis? | Este análisis es importante para nuestra startup, ya que, de este modo podemos darnos cuenta cuales son nuestras ventajas y desventajas estando dentro del mercado y como poder realizar diferentes estrategias para poder aprovechar nuestras ventajas y poder contrarestar nuestras desventajas. |
 
