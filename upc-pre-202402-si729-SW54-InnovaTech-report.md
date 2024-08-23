@@ -323,13 +323,32 @@ Socialpubli es una empresa de publicidad social que pone en contacto a empresas 
 
 | Competidores | | Connex | Coobis | Nuntia |
 |-|-|-|-|-|
-| Análisis SWOT | Fortalezas | | | |
-| | Debilidades | | | |
-| | Oportunidades | | | |
-| | Amenazas | | | |
+| Análisis SWOT | Fortalezas | Herramienta de análisis para evaluar portafolios y estadísticas de influencers, Enfoque en establecer relaciones de beneficio mutuo entre influencers y empresas y Diversidad Sectorial, permitiendo que diversos sectores accedan a una gama amplia de incluencers | Amplia red de creadores de contenido  y herramientas de segmentación y automatización | Experiencia en distribución de contenido y notas de prensa, también contando una amplia red de medios de comunicación |
+| | Debilidades | Competencia con plaformas ya establecidas en el mercado con un reputacion consolidada, Posibles limitaciones de recursos comparados con plataformas más grandes | Puede tener un enfoque limitado en influencers y los costos pueden ser elevados para algunas empresas | No enfocarse tanto en la colaboración directa con influencers, lo que puede limitar su alcance en el mercado de marketing de influencers |
+| | Oportunidades | Crecimiento del marketing de influencers, Expansión de servicios y Mercados Internacionales | Expansión en el mercado de publicidad nativa y contenido patrocinado | Expansión de servicios para incluir nuevas formas de colaboración de contenido |
+| | Amenazas | Competencia con plataformas ya establecidas y Saturación del mercado | Competencia de  plataformas emergentes | Competencia con plataformas especializadas en infñuencers y marketing digital |
 
 ## **2.2. Entrevistas** 
 ### **2.2.1. Diseño de Entrevistas** 
+
+**Preguntas Generales**
+
+1. ¿Cuales es tu nombre?
+2. En caso seas parte una empresa ¿Cual es el tamaño de la empresa, en cuanto a trabajadores y marca?
+3. En caso seas influencer ¿Que tipo de contenido produces? ¿Y para que redes?
+
+**Preguntas para el Influencer**
+
+1. ¿Que plataformas usas para gestionar tus campañas o conectar con marcas?
+2. ¿Como llevas las estadísticas de tus redes despúes de una campaña?
+3. ¿Que crees que es lo más importante al concretar una campaña con alguna marca?
+
+**Preguntas para las empresas**
+
+1. ¿Que tipo de contenido crees que es necesario para tu empresa?
+2. ¿Te guías mucho por las estadísticas de los influencers a la hora de contactarlos para alguna campaña?
+3. ¿Conoces alguna aplicación para poder establecer contacto o encontrar a el creador de contenido adecuado para el rubro de tu empresa?
+
 ### **2.2.2. Registro de entrevistas** 
 ### **2.2.3. Ánalisis de entrevistas** 
 
