@@ -12,6 +12,7 @@
 **Startup:** Connex 
 
 ### Integrantes:
+- Escobar Palomino, Sebastian Matias - U202125968
 - Javier Murillo, Mathias - U202022211
 - Macavilca Quispe, Ian - U202121325
 - NOMBRE RANDOM
