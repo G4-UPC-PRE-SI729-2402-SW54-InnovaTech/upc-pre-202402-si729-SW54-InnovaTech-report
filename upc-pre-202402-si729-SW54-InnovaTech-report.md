@@ -204,39 +204,16 @@ Connex aborda esta problemática proporcionando una plataforma integral que perm
 
 ### **1.2.2. Lean UX Process** 
 #### **1.2.2.1. Lean UX Problem Statments** 
-**Domain**
 
-Connex opera en el dominio del marketing digital, específicamente en el ámbito de las plataformas de conexión entre empresas e influencers. Este sector se enfoca en facilitar colaboraciones estratégicas entre marcas y creadores de contenido, potenciando el alcance y la efectividad de las campañas de marketing.
+El estado actual del dominio del marketing digital, específicamente dentro de las plataformas que conectan empresas e influencers, se ha centrado principalmente en abordar las necesidades de varios segmentos de clientes, incluidas empresas de sectores como tecnología, moda, belleza y alimentos, así como influencers de todos los niveles. Sin embargo, estos esfuerzos a menudo no logran abordar completamente las necesidades de las empresas que luchan por identificar y gestionar colaboraciones con influencers de manera efectiva, y de los influencers que encuentran dificultades para conectarse con marcas relevantes y gestionar sus asociaciones de manera eficiente.
 
-**Customer Segments**
+Lo que los productos/servicios existentes no logran abordar es la falta de una plataforma centralizada y especializada que simplifique y optimice todo el proceso de conexión entre empresas e influencers. Las herramientas actuales están fragmentadas y son ineficientes, y no ofrecen una solución integral para gestionar todas las etapas de la colaboración, desde el descubrimiento hasta la ejecución y el seguimiento.
 
-Connex se dirige a dos segmentos principales de clientes:
+Nuestro producto, Connex, abordará esta brecha creando un ecosistema confiable que facilite la identificación, selección y gestión de colaboraciones entre empresas e influencers. Ofreceremos herramientas avanzadas que permitan a las empresas analizar el impacto de sus campañas y a los influencers gestionar sus acuerdos de manera profesional.
 
-- Empresas de diversos sectores (tecnología, moda, belleza, alimentos, etc.) que buscan incrementar su visibilidad y penetración en el mercado mediante campañas de marketing de influencers.
+Nuestro enfoque inicial será en el mercado peruano, dirigiéndose a empresas medianas del sector entretenimiento y a microinfluencers e influencers medianos que buscan crecer y encontrar nuevas oportunidades de colaboración. Estos segmentos fueron elegidos por su alto potencial y la necesidad crítica de una plataforma eficiente como Connex.
 
-- Influencers de diferentes niveles (microinfluencers, influencers medianos y grandes) que buscan oportunidades de colaboración con marcas que se alineen con su audiencia y contenido.
-
-**Pain Points**
-
-- Empresas: Dificultad para identificar y seleccionar influencers que verdaderamente representen sus valores y lleguen a la audiencia deseada. Además, la falta de una plataforma confiable complica la gestión de múltiples colaboraciones.
-
-- Influencers: Limitaciones para encontrar oportunidades de colaboración con marcas relevantes y para gestionar sus acuerdos de manera eficiente, lo que a menudo lleva a pérdidas de ingresos y crecimiento limitado.
-
-**Gap**
-
-En el mercado actual, no existe una plataforma centralizada y especializada que simplifique y optimice el proceso de conexión entre empresas e influencers. Las herramientas existentes son fragmentadas, ineficientes y no ofrecen una solución completa para gestionar todas las etapas de la colaboración, desde la búsqueda hasta la ejecución y el seguimiento.
-
-**Vision/Strategy**
-
-La visión de Connex es convertirse en la plataforma líder a nivel mundial que conecta de manera efectiva a empresas e influencers, transformando la forma en que se gestionan las relaciones de marketing digital. Nuestra estrategia se centra en:
-
-- Crear un ecosistema confiable que facilite la identificación, selección y gestión de colaboraciones.
-- Ofrecer herramientas avanzadas que permitan a las empresas analizar el impacto de sus campañas y a los influencers gestionar sus acuerdos de manera profesional.
-- Expandir gradualmente el alcance de la plataforma, comenzando con un enfoque en sectores específicos y ampliando a otros mercados a medida que se establezca la base de usuarios.
-
-**Initial Segment**
-
-Connex se enfocará primero en el mercado peruano, dirigiéndose a empresas medianas, que son clave en el marketing de influencers. También se centrará en microinfluencers y medianos influencers en Perú, que buscan crecer y encontrar nuevas oportunidades de colaboración. Estos segmentos fueron elegidos por su alto potencial y necesidad de una plataforma eficiente como Connex.
+Sabremos que hemos tenido éxito cuando observemos comportamientos que indiquen que nuestros segmentos objetivo están utilizando Connex de manera consistente, lo que se reflejará en un aumento de colaboraciones exitosas y mejoras en la satisfacción y retención de los usuarios.
 
 #### **1.2.2.2. Lean UX Assumptions** 
 
@@ -275,17 +252,48 @@ Connex debe tener una interfaz intuitiva y profesional, fácil de usar tanto par
 
 **Usuario cliente**
 
-Creemos que al ofrecer una plataforma digital que conecta eficientemente a empresas medianas del sector entretenimiento en Perú con microinfluencers y medianos influencers, permitiendo la gestión completa de colaboraciones y campañas,
+Creemos que lograremos posicionar a Connex como líder en el sector del entretenimiento en Perú<br>
+Si las empresas del sector entretenimiento e influencers<br>
+Obtienen un proceso simplificado y efectivo para gestionar colaboraciones y campañas<br>
+Con una plataforma digital que conecta eficientemente a empresas con influencers, permitiendo la gestión completa de colaboraciones y campañas<br>
 
-Lograremos facilitar el proceso de marketing de influencers para las empresas y aumentaremos las oportunidades de colaboración y crecimiento para los influencers.
-
-Sabremos que hemos tenido éxito cuando Connex se convierta en la plataforma líder en el sector del entretenimiento en Perú, con un número creciente de empresas e influencers registrados y activos en la plataforma.
 
 #### **1.2.2.4. Lean UX Canvas** 
 
 <img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/uxcanvas.JPG?raw=true" style="width: 100%;"/>
 
 ## **1.3. Segmentos objetivo** 
+
+**Empresas medianas en Perú**
+
+Características Demográficas:
+
+- Tamaño de la Empresa: Suelen tener entre 50 y 250 empleados.
+- Ubicación: Mayormente ubicadas en las principales ciudades del Perú, como Lima, Arequipa, y Trujillo.
+- Industria: Empresas enfocadas en la producción de contenido, eventos, y medios de entretenimiento que buscan aumentar su visibilidad y engagement a través de campañas de marketing de influencers.
+- Capacidad de Inversión en Marketing: Empresas con presupuestos de marketing que oscilan entre los $10,000 y $100,000 anuales, con una creciente inversión en estrategias de marketing digital.
+
+Información Estadística:
+
+- Según, el portal de noticias, Gestión, se espera que el sector entretenimiento y medios de comunicación en Perú generará US$ 6,624 millones en el 2026, dado su rápida recuperación post pandemia.
+- La inversión publicitaria en influencers durante el año 2022 ha superado los 16.4 billones de dólares a nivel mundial, lo que supone un 18,84% de incremento respecto al 2021 y un 864% respecto al año 2016, según un estudio de influencer marketing Hub.
+
+**Microinfluencers y medianos influencers en Perú**
+
+Características Demográficas:
+
+- Edad: Predominantemente jóvenes entre 18 y 35 años.
+Seguidores:
+- Microinfluencers: Con una base de seguidores entre 5,000 y 50,000.
+- Influencers Medianos: Con una base de seguidores entre 50,000 y 500,000.
+- Ubicación: Mayormente concentrados en Lima, aunque también hay una presencia significativa en otras regiones como Cusco, Piura, y Arequipa.
+- Áreas de Enfoque: Especializados en contenido relacionado con moda, tecnología, belleza, estilo de vida, y entretenimiento.
+
+Información Estadística:
+
+- Los jóvenes peruanos pasan una cantidad considerable de tiempo en redes sociales como Facebook, Instagram, TikTok y Twitter. Un estudio realizado por la Universidad de Lima reveló que el 90% de los adolescentes entre 12 y 17 años utilizan redes sociales diariamente, con un promedio de cuatro horas al día.
+- En 2023, el mercado de microinfluencers en Perú tuvo un crecimiento del 25%, y se espera que continúe en aumento debido a la efectividad de las campañas en nichos específicos.
+- Las últimas estadísticas de influencer marketing para el 2023 indican que los micro influencers generaron hasta un 60% más de engagement que los macro influencers, según Alonso Salinas, Country Manager de MileniumGroup Perú.
 
 # **Capítulo II: Requeriments Elicitation & Analysis** 
 
