@@ -337,7 +337,7 @@ Socialpubli es una empresa de publicidad social que pone en contacto a empresas 
 ## **2.3. Needfinding** 
 ### **2.3.1. User Personas** 
 ### **2.3.2. User Task Matrix** 
-### **2.3.3. User Jorney Mapping** 
+### **2.3.3. User Journey Mapping** 
 ### **2.3.4. Empathy Mapping** 
 ### **2.3.5. As-is Scenario Mapping** 
 
