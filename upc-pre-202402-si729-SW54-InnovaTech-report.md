@@ -379,6 +379,19 @@ Socialpubli es una empresa de publicidad social que pone en contacto a empresas 
 | Pueden gestionar varias campañas a la vez | <span style="color:#90D26D; font-weight:bold">SI</span> | <span style="color:#90D26D; font-weight:bold">SI</span>        | <span style="color:#FFC700; font-weight:bold">POCO</span>         | <span style="color:#90D26D; font-weight:bold">SI</span>       | 
 | Buscan influencers con alto alcance y reconocimiento | <span style="color:#90D26D; font-weight:bold">SI</span> | <span style="color:#90D26D; font-weight:bold">SI</span>        | <span style="color:#90D26D; font-weight:bold">SI</span>         | <span style="color:#90D26D; font-weight:bold">SI</span>       |
 ### **2.3.3. User Jorney Mapping** 
+**Registro: ¿Por qué confirarían en nosotros?**
+- Los usuarios potenciales investigan Connex en redes sociales, blogs, y articulos de terceros para validar su relevancia.
+- Buscan reseñas y testimonios de otros influencers o empresas que ya han usado Connex.
+- Evalúan nuestra propuesta de valor, las estadísticas y la transparencia sobre cómo funcionan las colaboraciones en la plataforma.
+
+**Incorporación y Primer Uso: ¿Cómo pueden sentirse exitosos?**
+- El proceso de registro y configuración del perfil es sencillo, con instrucciones claras y sin complicaciones.
+- La interfaz de usuario es intuitiva, permitiendo encontrar fácilmente oportunidades, perfiles y funcionalidades clave.
+
+**Compatir: ¿Por qué invitarían a otro?s**
+- Los usuarios perciben el valor añadido en funcionalidades como herramientas de comunicación directa, sistemas de recomendación y seguimiento de métricas.
+- La calidad de los proyectos, la facilidad para conectar con empresas/influencers, y los insights proporcionados fomenta confianza y satisfaccion.
+- Se implementan programas de referidos, bonificaciones o acceso a funciones premium como motivación pra invitar a nuevos usuarios.
 ### **2.3.4. Empathy Mapping** 
 ### **2.3.5. As-is Scenario Mapping** 
 
