@@ -353,9 +353,38 @@ Socialpubli es una empresa de publicidad social que pone en contacto a empresas 
 # **Capítulo III: Requirements Specification** 
 
 ## **3.1. To-Be Scenario Mapping**
+
 ## **3.2. User Stories** 
+
+| User Story ID | Título                                       | Descripción                                                                                                                                          | Criterios de Aceptación                                                                                                                                                     | Relación (EPIC ID) |
+|---------------|---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
+| US01          | Filtrado avanzado de influencers            | Como empresa usuaria de Connex, quiero poder filtrar influencers por criterios específicos como audiencia, sector, y ubicación, para asegurarme de que selecciono a los más adecuados para mi campaña. | Los usuarios pueden aplicar múltiples filtros simultáneamente. Los resultados se actualizan en tiempo real al aplicar los filtros. Los filtros incluyen categorías como demografía de la audiencia, ubicación geográfica, sector y nivel de influencia. | EP-001             |
+| US02          | Creación de portafolios personalizados por influencers | Como influencer en Connex, quiero crear y personalizar mi portafolio para mostrar mis métricas de rendimiento, para atraer a marcas relevantes. | Los influencers pueden agregar y editar contenido en su portafolio (videos, fotos, estadísticas). El portafolio muestra métricas clave como alcance, engagement y demografía de la audiencia. Los influencers pueden actualizar su portafolio en tiempo real. | EP-002             |
+| US03          | Gestión de acuerdos de colaboración         | Como empresa usuaria de Connex, quiero gestionar acuerdos de colaboración con influencers dentro de la plataforma, para mantener todo centralizado y organizado. | Los acuerdos pueden ser creados, editados y almacenados en la plataforma. Ambas partes pueden revisar y firmar acuerdos digitalmente. Los términos clave del acuerdo (plazos, entregables, pagos) son fácilmente visibles. | EP-001             |
+| US04          | Comunicación integrada entre empresas e influencers | Como usuario de Connex, quiero comunicarme directamente con influencers o empresas a través de la plataforma, para coordinar detalles de colaboración sin necesidad de utilizar herramientas externas. | La plataforma incluye un sistema de mensajería interna. Las conversaciones se pueden etiquetar y organizar por campaña o colaboración. Notificaciones automáticas alertan a los usuarios de nuevos mensajes. | EP-001             |
+| US05          | Análisis de rendimiento de campañas         | Como empresa usuaria de Connex, quiero analizar el rendimiento de mis campañas de influencers dentro de la plataforma, para medir su efectividad y ajustar futuras estrategias. | La plataforma ofrece reportes detallados con métricas de rendimiento como alcance, engagement y conversión. Los reportes pueden ser exportados en formatos como PDF o CSV. Los resultados de las campañas se actualizan en tiempo real. | EP-003             |
+| US06          | Notificaciones de oportunidades de colaboración | Como influencer en Connex, quiero recibir notificaciones de nuevas oportunidades de colaboración que se alineen con mi perfil, para aprovechar rápidamente las mejores ofertas. | Los influencers reciben notificaciones automáticas basadas en las preferencias y categorías que han seleccionado. Las oportunidades relevantes se destacan en el dashboard del usuario. Los influencers pueden ajustar la frecuencia y tipo de notificaciones que reciben. | EP-002             |
+| US07          | Registro de nuevas empresas e influencers    | Como nuevo usuario de Connex, quiero registrarme fácilmente en la plataforma, ya sea como empresa o influencer, para empezar a utilizar sus servicios rápidamente. | El proceso de registro es simple y rápido, requiriendo solo la información esencial. Los usuarios pueden registrarse usando su correo electrónico o cuentas de redes sociales. Los nuevos usuarios reciben una guía inicial sobre cómo utilizar la plataforma. | EP-004             |
+| US08          | Dashboard personalizado para usuarios       | Como usuario de Connex, quiero un dashboard personalizado que muestre las métricas, oportunidades y actividades más relevantes para mí, para gestionar mi cuenta de manera eficiente. | El dashboard muestra un resumen de las campañas activas, oportunidades y métricas clave. Los usuarios pueden personalizar qué elementos ven en su dashboard. Las actualizaciones y notificaciones recientes son destacadas en el dashboard. | EP-003             |
+| US09          | Sistema de evaluación y feedback post-colaboración | Como usuario de Connex, quiero poder evaluar y dejar feedback después de una colaboración, para mejorar la calidad de futuras interacciones en la plataforma. | Los usuarios pueden calificar y dejar comentarios sobre la experiencia de la colaboración. Los resultados de las evaluaciones se reflejan en los perfiles de las empresas e influencers. El sistema de evaluación es confidencial y asegura la autenticidad del feedback. | EP-002             |
+| US10          | Herramienta de búsqueda de influencers emergentes | Como empresa usuaria de Connex, quiero tener acceso a una herramienta que me permita descubrir influencers emergentes con alto potencial, para aprovechar su crecimiento y relevancia antes que mis competidores. | La herramienta identifica influencers emergentes basados en tendencias de crecimiento y engagement. Los resultados pueden ser filtrados por sector, audiencia y geografía. Las empresas reciben alertas sobre influencers que muestran un rápido aumento en popularidad. | EP-001             |
+
 ## **3.3. Impact Mapping** 
 ## **3.4. Product Backlog** 
+
+| Prioridad | User Story ID | Título                                    | Story Points |
+|-----------|---------------|------------------------------------------|--------------|
+| Alta      | US01          | Filtrado avanzado de influencers         | 8            |
+| Alta      | US03          | Gestión de acuerdos de colaboración      | 8            |
+| Alta      | US04          | Comunicación integrada                   | 5            |
+| Media     | US05          | Análisis de rendimiento de campañas      | 13           |
+| Media     | US02          | Creación de portafolios personalizados   | 8            |
+| Media     | US07          | Registro de nuevas empresas e influencers | 3            |
+| Baja      | US06          | Notificaciones de oportunidades          | 5            |
+| Baja      | US08          | Dashboard personalizado                  | 8            |
+| Baja      | US09          | Evaluación y feedback post-colaboración  | 5            |
+| Baja      | US10          | Búsqueda de influencers emergentes       | 8            |
+
 
 # **Capítulo IV: Product Design** 
 
