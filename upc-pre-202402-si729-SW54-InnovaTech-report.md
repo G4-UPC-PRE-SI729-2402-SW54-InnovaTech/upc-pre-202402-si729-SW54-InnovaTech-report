@@ -395,6 +395,22 @@ Socialpubli es una empresa de publicidad social que pone en contacto a empresas 
 ### **2.3.4. Empathy Mapping** 
 ### **2.3.5. As-is Scenario Mapping** 
 
+## Influencers
+
+| **Fases**   | **Fase 1: Descubrimiento**                  | **Fase 2: Registro y Configuración**      | **Fase 3: Búsqueda y Aplicación**            | **Fase 4: Colaboración y Evaluación**        |
+|-------------|--------------------------------------------|------------------------------------------|---------------------------------------------|---------------------------------------------|
+| **Doing**   | Buscando información sobre Connex en redes sociales y blogs. | Registrándose en la plataforma y creando su perfil. | Explorando oportunidades de colaboración y aplicando a campañas. | Coordinando la entrega de contenido y revisando métricas post-campaña. |
+| **Thinking**| "¿Será esta la plataforma adecuada para mi crecimiento?" | "¿Cómo puedo crear un perfil atractivo?" | "¿Cuál es la campaña más alineada con mi audiencia?" | "¿Estoy entregando el contenido adecuado para la marca?" |
+| **Feeling** | Curioso pero algo escéptico.               | Emocionado pero con algo de incertidumbre sobre la configuración. | Motivado pero ansioso por la competencia. | Confianza pero también algo de presión por cumplir con las expectativas. |
+
+## Empresas
+
+| **Fases**   | **Fase 1: Descubrimiento**                  | **Fase 2: Registro y Configuración**      | **Fase 3: Búsqueda y Selección de Influencers**| **Fase 4: Gestión de Campaña y Evaluación**   |
+|-------------|--------------------------------------------|------------------------------------------|-----------------------------------------------|---------------------------------------------|
+| **Doing**   | Investigando Connex como opción para marketing con influencers. | Registrándose en la plataforma y definiendo objetivos de marketing. | Explorando perfiles de influencers y seleccionando los adecuados. | Supervisando la ejecución de la campaña y revisando resultados. |
+| **Thinking**| "¿Será Connex la mejor plataforma para conectar con influencers relevantes?" | "¿Cómo configuro mi perfil para atraer los influencers adecuados?" | "¿Qué influencers pueden aportar mayor valor a mi campaña?" | "¿El ROI de la campaña cumple con nuestras expectativas?" |
+| **Feeling** | Interesado pero con dudas sobre la inversión. | Expectante y planificando estrategias. | Confiado pero atento a encontrar el match ideal. | Satisfecho si la campaña fue exitosa, o analizando posibles mejoras. |
+
 ## **2.4. Ubiquitous Language**
 
 # **Capítulo III: Requirements Specification** 
