@@ -363,6 +363,21 @@ Socialpubli es una empresa de publicidad social que pone en contacto a empresas 
 <br>
 <img src="Assets/UserPersona-Empresa.png" width="100%"/>
 ### **2.3.2. User Task Matrix** 
+**Creadores de contenido para Redes Sociales (Influencers)**
+|  |  User 1  | User 2 | User 3  | User 4 |
+| --- | ----------- | ------------ | ----------- | ---------- |
+| Saben como crear un portafolio atractivo  | <span style="color:#90D26D; font-weight:bold">SI</span>   | <span style="color:#FFC700; font-weight:bold">NO</span>| <span style="color:#90D26D; font-weight:bold">SI</span>   | <span style="color:#90D26D; font-weight:bold">SI</span> |
+| Conocen herramientas de análisis de métricas | <span style="color:#FFC700; font-weight:bold">NO</span> | <span style="color:#E72929; font-weight:bold">NO</span>        | <span style="color:#FFC700; font-weight:bold">SI</span>         | <span style="color:#E72929; font-weight:bold">NO</span>       |
+| Tienen experiencia gestionando múltiples campañas | <span style="color:#90D26D; font-weight:bold">SI</span> | <span style="color:#90D26D; font-weight:bold">SI</span>        | <span style="color:#FFC700; font-weight:bold">NO</span>         | <span style="color:#90D26D; font-weight:bold">SI</span>       | 
+| Colaboran con marcas reconocidas | <span style="color:#FFC700; font-weight:bold">SI</span> | <span style="color:#FFC700; font-weight:bold">NO</span>        | <span style="color:#FFC700; font-weight:bold">NO</span>         | <span style="color:#E72929; font-weight:bold">NO</span>       |
+
+**Empresas con Marketing Digital** 
+|  |  User 1  | User 2 | User 3  | User 4 |
+| --- | ----------- | ------------ | ----------- | ---------- |
+| Tienen un equipo dedicado al marketing digital  | <span style="color:#90D26D; font-weight:bold">SI</span>   | <span style="color:#90D26D; font-weight:bold">SI</span>| <span style="color:#90D26D; font-weight:bold">SI</span>   | <span style="color:#90D26D; font-weight:bold">SI</span> |
+| Conocen el mercado de influencers | <span style="color:#E72929; font-weight:bold">NO</span> | <span style="color:#E72929; font-weight:bold">NO</span>        | <span style="color:#FFC700; font-weight:bold">POCO</span>         | <span style="color:#E72929; font-weight:bold">NO</span>       |
+| Pueden gestionar varias campañas a la vez | <span style="color:#90D26D; font-weight:bold">SI</span> | <span style="color:#90D26D; font-weight:bold">SI</span>        | <span style="color:#FFC700; font-weight:bold">POCO</span>         | <span style="color:#90D26D; font-weight:bold">SI</span>       | 
+| Buscan influencers con alto alcance y reconocimiento | <span style="color:#90D26D; font-weight:bold">SI</span> | <span style="color:#90D26D; font-weight:bold">SI</span>        | <span style="color:#90D26D; font-weight:bold">SI</span>         | <span style="color:#90D26D; font-weight:bold">SI</span>       |
 ### **2.3.3. User Jorney Mapping** 
 ### **2.3.4. Empathy Mapping** 
 ### **2.3.5. As-is Scenario Mapping** 
