@@ -360,7 +360,21 @@ Socialpubli es una empresa de publicidad social que pone en contacto a empresas 
 # **Capítulo IV: Product Design** 
 
 ## **4.1. Style Guidelines** 
+
+A continuación, se presentará un repositorio central y organizado que servirá como guía para el desarrollo enfocado y consistente de nuestra solución.
+
 ### **4.1.1. General Style Guidelines** 
+
+**Brand Overview**
+
+Connex es una plataforma digital innovadora que redefine la manera en que las empresas y los influencers se conectan y colaboran. En un mundo donde la influencia digital es clave para el éxito comercial, Connex se posiciona como el puente perfecto que une a las marcas con los creadores de contenido, facilitando una sinergia que potencia el alcance y la efectividad de las campañas de marketing.
+
+**Brand Name**
+
+El nombre "Connex" es una combinación estratégica que refleja la esencia de la marca: "Connection" (conexión) y "Exchange" (intercambio). Connex encapsula la misión central de la plataforma, que es facilitar y fortalecer las conexiones entre empresas e influencers, promoviendo el intercambio de valor y oportunidades en el ámbito digital. Es un nombre moderno, breve y memorable, lo que facilita su reconocimiento y posicionamiento en el mercado global del marketing de influencers.
+
+A continuación, se presenta el logo o marca de nuestra solución propuesta.
+
 ### **4.1.2. Web Style Guidelines** 
 
 ## **4.2. Information Architecture** 
