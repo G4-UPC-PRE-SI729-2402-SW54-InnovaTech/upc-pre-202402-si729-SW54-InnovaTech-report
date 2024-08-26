@@ -375,6 +375,10 @@ El nombre "Connex" es una combinación estratégica que refleja la esencia de la
 
 A continuación, se presenta el logo o marca de nuestra solución propuesta.
 
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/logo.JPG?raw=true" style="width: 100%;"/>
+
+
+
 ### **4.1.2. Web Style Guidelines** 
 
 ## **4.2. Information Architecture** 
