@@ -388,6 +388,9 @@ Socialpubli es una empresa de publicidad social que pone en contacto a empresas 
 | US10          | Herramienta de búsqueda de influencers emergentes | Como empresa usuaria de Connex, quiero tener acceso a una herramienta que me permita descubrir influencers emergentes con alto potencial, para aprovechar su crecimiento y relevancia antes que mis competidores. | La herramienta identifica influencers emergentes basados en tendencias de crecimiento y engagement. Los resultados pueden ser filtrados por sector, audiencia y geografía. Las empresas reciben alertas sobre influencers que muestran un rápido aumento en popularidad. | EP-001             |
 
 ## **3.3. Impact Mapping** 
+
+<img src="https://github.com/user-attachments/assets/4320b405-af36-4a38-9955-308ad29c796c" style="width: 100%;"/>
+
 ## **3.4. Product Backlog** 
 
 | Prioridad | User Story ID | Título                                    | Story Points |
