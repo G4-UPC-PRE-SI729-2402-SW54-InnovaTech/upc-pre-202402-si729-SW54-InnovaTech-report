@@ -323,30 +323,101 @@ Socialpubli es una empresa de publicidad social que pone en contacto a empresas 
 |  | Ventaja competitiva ¿Qué valor ofrece a los clientes? | Connex ofrece caracteristica como poder ver tus estadisticas con una marca, poder subir tu alcance en diferentes redes y poder personalizar tu feed, mostrandolo como un portafolio | Facilitan el aumento de visibilidad de los influencers registrados y las marcas con las que trabajan | Genera conversaciones online, promocionan diferentes acciones y escuchan activamente a través de los bloggers que trabajan con ellos día a día |
 |  | Mercado Objetivo | Influnecers y Empresas | Influencer y Empresas | Bloggers y Empresas |
 | Perfil de Marketing | Estategia de Marketing | Segmentación y Posicionamiento, Propuesta de valor para marcas y creadores, SEO, Campañas PPC y Programas de referencia | Marketing de contenidos, Marketplaces de Influencers, Automatitación y Segmentación y Modelo de Monitoreo y Reporting | Distribución de Contenidos y Notas de Prensa, Publicidad Nativa y SEO |
-| Perfil de Producto | Productos y servicios | | | |
-|  | Precios y costos | | | |
+| Perfil de Producto | Productos y servicios | Aplicación web desarrollada para Influencer y marcas, que gestiona los vinculos entre ellos y sus estadisticas de manera personalizada por el propio usuario | Aplicacion web relaciona con el marketing de contenidos, que contecta marcas con influencers | Aplicacion web dedicada a relacionar bloggers con empresas |
+|  | Precios y costos | Plan Free, Plan Premium (S/.29.99) y Plan Business (S/.19.99) | Se queda con 30% de tus colaboraciones | Tarifa de publicación varia entre 200 y 1000 dolarés, y puede llegar a más |
 |  | Canales de distribución (Web y/o Móvil) | Web | Web | Web | 
 
 ### **2.1.2. Estrategias y tácticas frente a competidores** 
 
 | Competidores | | Connex | Coobis | Nuntia |
 |-|-|-|-|-|
-| Análisis SWOT | Fortalezas | | | |
-| | Debilidades | | | |
-| | Oportunidades | | | |
-| | Amenazas | | | |
+| Análisis SWOT | Fortalezas | Herramienta de análisis para evaluar portafolios y estadísticas de influencers, Enfoque en establecer relaciones de beneficio mutuo entre influencers y empresas y Diversidad Sectorial, permitiendo que diversos sectores accedan a una gama amplia de incluencers | Amplia red de creadores de contenido  y herramientas de segmentación y automatización | Experiencia en distribución de contenido y notas de prensa, también contando una amplia red de medios de comunicación |
+| | Debilidades | Competencia con plaformas ya establecidas en el mercado con un reputacion consolidada, Posibles limitaciones de recursos comparados con plataformas más grandes | Puede tener un enfoque limitado en influencers y los costos pueden ser elevados para algunas empresas | No enfocarse tanto en la colaboración directa con influencers, lo que puede limitar su alcance en el mercado de marketing de influencers |
+| | Oportunidades | Crecimiento del marketing de influencers, Expansión de servicios y Mercados Internacionales | Expansión en el mercado de publicidad nativa y contenido patrocinado | Expansión de servicios para incluir nuevas formas de colaboración de contenido |
+| | Amenazas | Competencia con plataformas ya establecidas y Saturación del mercado | Competencia de  plataformas emergentes | Competencia con plataformas especializadas en infñuencers y marketing digital |
 
 ## **2.2. Entrevistas** 
 ### **2.2.1. Diseño de Entrevistas** 
+
+**Preguntas Generales**
+
+1. ¿Cuales es tu nombre?
+2. En caso seas parte una empresa ¿Cual es el tamaño de la empresa, en cuanto a trabajadores y marca?
+3. En caso seas influencer ¿Que tipo de contenido produces? ¿Y para que redes?
+
+**Preguntas para el Influencer**
+
+1. ¿Que plataformas usas para gestionar tus campañas o conectar con marcas?
+2. ¿Como llevas las estadísticas de tus redes despúes de una campaña?
+3. ¿Que crees que es lo más importante al concretar una campaña con alguna marca?
+
+**Preguntas para las empresas**
+
+1. ¿Que tipo de contenido crees que es necesario para tu empresa?
+2. ¿Te guías mucho por las estadísticas de los influencers a la hora de contactarlos para alguna campaña?
+3. ¿Conoces alguna aplicación para poder establecer contacto o encontrar a el creador de contenido adecuado para el rubro de tu empresa?
+
 ### **2.2.2. Registro de entrevistas** 
 ### **2.2.3. Ánalisis de entrevistas** 
 
 ## **2.3. Needfinding** 
 ### **2.3.1. User Personas** 
+
+**User Persona: Influencer:**
+<br>
+<img src="Assets/UserPersona-Influencer.png" width="100%"/>
+<br>
+**User Persona: Empresa**
+<br>
+<img src="Assets/UserPersona-Empresa.png" width="100%"/>
 ### **2.3.2. User Task Matrix** 
+**Creadores de contenido para Redes Sociales (Influencers)**
+|  |  User 1  | User 2 | User 3  | User 4 |
+| --- | ----------- | ------------ | ----------- | ---------- |
+| Saben como crear un portafolio atractivo  | <span style="color:#90D26D; font-weight:bold">SI</span>   | <span style="color:#FFC700; font-weight:bold">NO</span>| <span style="color:#90D26D; font-weight:bold">SI</span>   | <span style="color:#90D26D; font-weight:bold">SI</span> |
+| Conocen herramientas de análisis de métricas | <span style="color:#FFC700; font-weight:bold">NO</span> | <span style="color:#E72929; font-weight:bold">NO</span>        | <span style="color:#FFC700; font-weight:bold">SI</span>         | <span style="color:#E72929; font-weight:bold">NO</span>       |
+| Tienen experiencia gestionando múltiples campañas | <span style="color:#90D26D; font-weight:bold">SI</span> | <span style="color:#90D26D; font-weight:bold">SI</span>        | <span style="color:#FFC700; font-weight:bold">NO</span>         | <span style="color:#90D26D; font-weight:bold">SI</span>       | 
+| Colaboran con marcas reconocidas | <span style="color:#FFC700; font-weight:bold">SI</span> | <span style="color:#FFC700; font-weight:bold">NO</span>        | <span style="color:#FFC700; font-weight:bold">NO</span>         | <span style="color:#E72929; font-weight:bold">NO</span>       |
+
+**Empresas con Marketing Digital** 
+|  |  User 1  | User 2 | User 3  | User 4 |
+| --- | ----------- | ------------ | ----------- | ---------- |
+| Tienen un equipo dedicado al marketing digital  | <span style="color:#90D26D; font-weight:bold">SI</span>   | <span style="color:#90D26D; font-weight:bold">SI</span>| <span style="color:#90D26D; font-weight:bold">SI</span>   | <span style="color:#90D26D; font-weight:bold">SI</span> |
+| Conocen el mercado de influencers | <span style="color:#E72929; font-weight:bold">NO</span> | <span style="color:#E72929; font-weight:bold">NO</span>        | <span style="color:#FFC700; font-weight:bold">POCO</span>         | <span style="color:#E72929; font-weight:bold">NO</span>       |
+| Pueden gestionar varias campañas a la vez | <span style="color:#90D26D; font-weight:bold">SI</span> | <span style="color:#90D26D; font-weight:bold">SI</span>        | <span style="color:#FFC700; font-weight:bold">POCO</span>         | <span style="color:#90D26D; font-weight:bold">SI</span>       | 
+| Buscan influencers con alto alcance y reconocimiento | <span style="color:#90D26D; font-weight:bold">SI</span> | <span style="color:#90D26D; font-weight:bold">SI</span>        | <span style="color:#90D26D; font-weight:bold">SI</span>         | <span style="color:#90D26D; font-weight:bold">SI</span>       |
 ### **2.3.3. User Jorney Mapping** 
+**Registro: ¿Por qué confirarían en nosotros?**
+- Los usuarios potenciales investigan Connex en redes sociales, blogs, y articulos de terceros para validar su relevancia.
+- Buscan reseñas y testimonios de otros influencers o empresas que ya han usado Connex.
+- Evalúan nuestra propuesta de valor, las estadísticas y la transparencia sobre cómo funcionan las colaboraciones en la plataforma.
+
+**Incorporación y Primer Uso: ¿Cómo pueden sentirse exitosos?**
+- El proceso de registro y configuración del perfil es sencillo, con instrucciones claras y sin complicaciones.
+- La interfaz de usuario es intuitiva, permitiendo encontrar fácilmente oportunidades, perfiles y funcionalidades clave.
+
+**Compatir: ¿Por qué invitarían a otro?s**
+- Los usuarios perciben el valor añadido en funcionalidades como herramientas de comunicación directa, sistemas de recomendación y seguimiento de métricas.
+- La calidad de los proyectos, la facilidad para conectar con empresas/influencers, y los insights proporcionados fomenta confianza y satisfaccion.
+- Se implementan programas de referidos, bonificaciones o acceso a funciones premium como motivación pra invitar a nuevos usuarios.
 ### **2.3.4. Empathy Mapping** 
 ### **2.3.5. As-is Scenario Mapping** 
+
+## Influencers
+
+| **Fases**   | **Fase 1: Descubrimiento**                  | **Fase 2: Registro y Configuración**      | **Fase 3: Búsqueda y Aplicación**            | **Fase 4: Colaboración y Evaluación**        |
+|-------------|--------------------------------------------|------------------------------------------|---------------------------------------------|---------------------------------------------|
+| **Doing**   | Buscando información sobre Connex en redes sociales y blogs. | Registrándose en la plataforma y creando su perfil. | Explorando oportunidades de colaboración y aplicando a campañas. | Coordinando la entrega de contenido y revisando métricas post-campaña. |
+| **Thinking**| "¿Será esta la plataforma adecuada para mi crecimiento?" | "¿Cómo puedo crear un perfil atractivo?" | "¿Cuál es la campaña más alineada con mi audiencia?" | "¿Estoy entregando el contenido adecuado para la marca?" |
+| **Feeling** | Curioso pero algo escéptico.               | Emocionado pero con algo de incertidumbre sobre la configuración. | Motivado pero ansioso por la competencia. | Confianza pero también algo de presión por cumplir con las expectativas. |
+
+## Empresas
+
+| **Fases**   | **Fase 1: Descubrimiento**                  | **Fase 2: Registro y Configuración**      | **Fase 3: Búsqueda y Selección de Influencers**| **Fase 4: Gestión de Campaña y Evaluación**   |
+|-------------|--------------------------------------------|------------------------------------------|-----------------------------------------------|---------------------------------------------|
+| **Doing**   | Investigando Connex como opción para marketing con influencers. | Registrándose en la plataforma y definiendo objetivos de marketing. | Explorando perfiles de influencers y seleccionando los adecuados. | Supervisando la ejecución de la campaña y revisando resultados. |
+| **Thinking**| "¿Será Connex la mejor plataforma para conectar con influencers relevantes?" | "¿Cómo configuro mi perfil para atraer los influencers adecuados?" | "¿Qué influencers pueden aportar mayor valor a mi campaña?" | "¿El ROI de la campaña cumple con nuestras expectativas?" |
+| **Feeling** | Interesado pero con dudas sobre la inversión. | Expectante y planificando estrategias. | Confiado pero atento a encontrar el match ideal. | Satisfecho si la campaña fue exitosa, o analizando posibles mejoras. |
 
 ## **2.4. Ubiquitous Language**
 
