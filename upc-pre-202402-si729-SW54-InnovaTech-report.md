@@ -353,6 +353,24 @@ Socialpubli es una empresa de publicidad social que pone en contacto a empresas 
 # **Capítulo III: Requirements Specification** 
 
 ## **3.1. To-Be Scenario Mapping**
+## 4. Escenario Futuro (To-Be Scenario Mapping)
+
+### Influencers:
+
+| **Fases**   | **Descubrimiento Mejorado**                                        | **Registro y Configuración Automatizada**                               | **Búsqueda y Aplicación Optimizada**                                  | **Colaboración y Evaluación Mejorada**                                |
+|-------------|--------------------------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|
+| **Doing**   | Connex ofrece contenido personalizado en redes sociales y blogs.   | Sistema automatizado para importar datos y configurar perfiles rápidamente. | Función de búsqueda avanzada con recomendaciones basadas en intereses. | Coordinación de contenido y revisión de métricas automatizada.        |
+| **Thinking**| "Connex me entiende, es ideal para mi carrera."                    | "Crear un perfil es fácil y me ayuda a destacar."                        | "Estas campañas son perfectas para mi audiencia."                     | "Estoy seguro de que cumpliré las expectativas con estas herramientas."|
+| **Feeling** | Confiado en que Connex es la plataforma adecuada.                  | Tranquilo y satisfecho con el proceso de configuración.                  | Seguro y motivado para competir por las mejores campañas.              | Relajado, confiado en la calidad de la colaboración.                   |
+
+### Empresas:
+
+| **Fases**   | **Descubrimiento Mejorado**                                        | **Registro y Configuración Guiada**                                     | **Búsqueda y Selección Eficiente de Influencers**                     | **Gestión y Evaluación Automatizada de Campañas**                     |
+|-------------|--------------------------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|
+| **Doing**   | Connex proporciona casos de éxito y análisis de ROI en la plataforma. | Configuración guiada con recomendaciones personalizadas de objetivos.  | Herramienta de selección rápida con IA que sugiere influencers ideales. | Sistema de gestión que automatiza el seguimiento y proporciona análisis en tiempo real. |
+| **Thinking**| "Connex es la opción más confiable para nuestras campañas."         | "Este proceso de configuración nos prepara para el éxito."               | "Estos influencers son exactamente lo que necesitamos."               | "El ROI está claramente definido y es fácil de seguir."                |
+| **Feeling** | Convencido de la relevancia y utilidad de Connex.                  | Seguro de haber configurado un perfil competitivo y eficaz.             | Confiado en la elección de influencers y el éxito de la campaña.       | Tranquilo y satisfecho con la gestión automatizada y los resultados claros. |
+
 
 ## **3.2. User Stories** 
 
