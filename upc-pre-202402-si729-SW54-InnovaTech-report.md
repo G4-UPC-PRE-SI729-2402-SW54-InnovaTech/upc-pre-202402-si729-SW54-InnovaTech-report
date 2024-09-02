@@ -394,7 +394,29 @@ A continuación, se presenta el logo o marca de nuestra solución propuesta.
 
 ## **4.4. Web Applications UX/UI Design** 
 ### **4.4.1. Web Applications Wireframes** 
-### **4.4.2. Web Applications Wireflow Diagrams** 
+### **4.4.2. Web Applications Wireflow Diagrams**
+
+Segmento Objetivo streamers
+
+User Goal:
+Como usuario streamer, deseo iniciar sesión para ingresar a Connex.
+Descripción: En el presente wireflow, se evidencia el flujo que seguirá el usuario streamer para poder iniciar sesión. Iniciará en el login, seleccionará la opción Streamer e ingresará su DNI y contraseña, para poder ingresar a Connex.
+
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/webpage/4.4.2 Web Applications Wireflow Diagrams. 1.png?raw=true" style="width: 100%;"/>
+
+User Goal:
+Como usuario streamer, deseo registrarme para ingresar a Connex.
+Descripción: Em el presente wireflow, se evidencia el flujo que seguirá el usuario streamer para poder registrarse. Iniciará el login, seleccionará la opción stremar y luego seleccionará la opción Sign Up e ingresará sus datos necesarios para poder registrarse exitosamente.
+
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/webpage/4.4.2 Web Applications Wireflow Diagrams. 2.png?raw=true" style="width: 100%;"/>
+
+User Goal:
+Como usuario streamer deseo cambiar la contraseña
+Descripción: Al momento de inciar sesión, se presentará una opción de Olvide mi Contraseña, cuando le de clic, redireccionará al usuario a una nueva pantalla donde ingresará su email y su nueva contraseña.
+
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/webpage/4.4.2 Web Applications Wireflow Diagrams. 3.png?raw=true" style="width: 100%;"/>
+
+
 ### **4.4.3. Web Applications Mock-ups** 
 ### **4.4.4. Web Applications User Flow Diagrams** 
 
