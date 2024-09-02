@@ -396,25 +396,38 @@ A continuación, se presenta el logo o marca de nuestra solución propuesta.
 ### **4.4.1. Web Applications Wireframes** 
 ### **4.4.2. Web Applications Wireflow Diagrams**
 
-Segmento Objetivo streamers
+Segmento Objetivo: Streamers
 
 User Goal:
 Como usuario streamer, deseo iniciar sesión para ingresar a Connex.
 Descripción: En el presente wireflow, se evidencia el flujo que seguirá el usuario streamer para poder iniciar sesión. Iniciará en el login, seleccionará la opción Streamer e ingresará su DNI y contraseña, para poder ingresar a Connex.
 
-<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/webpage/4.4.2 Web Applications Wireflow Diagrams. 1.png?raw=true" style="width: 100%;"/>
+![](Assets/webpage/4.4.2 Web Applications Wireflow Diagrams. 1.png)
 
 User Goal:
 Como usuario streamer, deseo registrarme para ingresar a Connex.
 Descripción: Em el presente wireflow, se evidencia el flujo que seguirá el usuario streamer para poder registrarse. Iniciará el login, seleccionará la opción stremar y luego seleccionará la opción Sign Up e ingresará sus datos necesarios para poder registrarse exitosamente.
 
-<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/webpage/4.4.2 Web Applications Wireflow Diagrams. 2.png?raw=true" style="width: 100%;"/>
+![](Assets/webpage/4.4.2 Web Applications Wireflow Diagrams. 2.png)
 
 User Goal:
 Como usuario streamer deseo cambiar la contraseña
 Descripción: Al momento de inciar sesión, se presentará una opción de Olvide mi Contraseña, cuando le de clic, redireccionará al usuario a una nueva pantalla donde ingresará su email y su nueva contraseña.
 
-<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/webpage/4.4.2 Web Applications Wireflow Diagrams. 3.png?raw=true" style="width: 100%;"/>
+![](Assets/webpage/4.4.2 Web Applications Wireflow Diagrams. 3.png)
+
+User Goal: Como streamer deseo visualizar mi historial contratos con microempresas.
+Descripción:
+En el presente Wireflow, se presenta el camino que deberá seguir el usuario streamer para poder visualizar su historial de contratos dentro de la plataforma. Se comenzará desde la pantalla de inicio, donde se seleccionará el perfil del usuario, finalmente se elegirá la opción de “Contracts History” para poder obtener su historial de contratos presente en Connex.
+
+![](Assets/webpage/4.4.2 Web Applications Wireflow Diagrams. 4.png)
+
+User Goal: Como streamer deseo subir mi historial de sintonia sobre las redes sociales.
+Descripción:
+En el presente Wireflow, se presenta el camino que deberá seguir el usuario streamer para poder subir su historial de sintonia dentro de la plataforma. Se empezará desde la pantalla de inicio, luego se dirigirá al perfil de usuario e ingresará a “Contract History”; por último, se subirá el archivo en PDF. Después de ello, se podrá visualizar el historial adjuntado en Connex.
+
+![](Assets/webpage/4.4.2 Web Applications Wireflow Diagrams. 5.png)
+
 
 
 ### **4.4.3. Web Applications Mock-ups** 
