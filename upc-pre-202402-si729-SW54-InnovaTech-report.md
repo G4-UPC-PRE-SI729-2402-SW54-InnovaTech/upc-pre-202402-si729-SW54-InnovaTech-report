@@ -395,19 +395,14 @@ En este apartado se le mostrará los Meta Tags y los SEO tags que hemos utilizad
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-    <!-- Meta Description for SEO -->
     <meta name="description" content="Connex es la plataforma ideal para conectar empresas e influencers, optimizando las colaboraciones estratégicas entre marcas y creadores de contenido.">
     
-    <!-- Meta Keywords for SEO -->
     <meta name="keywords" content="Connex, Conexión de influencers, Marketing digital, Colaboraciones estratégicas, Gestión de campañas, Plataformas para influencers">
     
-    <!-- Meta Author -->
     <meta name="author" content="Connex">
 
-    <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="assets/img/logo-black.svg">
 
-    <!-- Title Tag for SEO -->
     <title>Connex - Conecta empresas e influencers fácilmente</title>
 
     <link rel="stylesheet" href="./assets/styles/styles.css">
