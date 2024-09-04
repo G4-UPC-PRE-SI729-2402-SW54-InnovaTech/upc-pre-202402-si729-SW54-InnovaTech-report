@@ -380,6 +380,7 @@ A continuación, se presenta el logo o marca de nuestra solución propuesta.
 
 
 ### **4.1.2. Web Style Guidelines** 
+Desarrollaremos una aplicación que se adapte perfectamente a cualquier dispositivo tecnológico sin comprometer el diseño del contenido. Para lograrlo, consideraremos las características de cada tipo de dispositivo, asegurando que el contenido esté estructurado de manera óptima para cada uno.
 
 ## **4.2. Information Architecture** 
 ### **4.2.1. Organization Systems** 
