@@ -396,22 +396,22 @@ Socialpubli es una empresa de publicidad social que pone en contacto a empresas 
 1. Figma: Plataforma de Elaboración de prototipos y edición gráfica, que usamos principalmente para la elaboración de los Wireframes y Mockups de nuestra Landing Page y Web Application, de igual manera se desarrollo nuestros Wireflow Diagrams en la misma plataforma.
 
 **Software Development**
-1. JetBrains WebStorm: Entorno de desarrollo especializado en el desarrollo web, usando accesos más simples para pruebas en distintos navegadores web, como, Chrome, Microsoft Edge, Safari y Mozilla Firefox. Usar este IDE nos agrega un valor para el desarrollo de nuestra startup, ya que, nos brinda la posiblidad de explorar y descubrir como funciona nuestros productos en diferentes entornos web. <br> Ruta de referencia:
-2. HTML5: Lenguaje utilizado para el etiquetado web. Es implementado para nuestro desarrollo de la startup, por el lado del Landing Page y en más adelante en nuestra Web Application, dandonos el contenido de las mismas. <br> Ruta de referencia:
-3. CSS: El Cascading Style Stheets, va juntos con HTML5, dandonos la opción de personalización de los estilos de nuestro contenido elaborado en HTML. <br> Ruta de referencia:
+1. JetBrains WebStorm: Entorno de desarrollo especializado en el desarrollo web, usando accesos más simples para pruebas en distintos navegadores web, como, Chrome, Microsoft Edge, Safari y Mozilla Firefox. Usar este IDE nos agrega un valor para el desarrollo de nuestra startup, ya que, nos brinda la posiblidad de explorar y descubrir como funciona nuestros productos en diferentes entornos web. <br> Ruta de referencia: <https://www.jetbrains.com/es-es/webstorm/>
+2. HTML5: Lenguaje utilizado para el etiquetado web. Es implementado para nuestro desarrollo de la startup, por el lado del Landing Page y en más adelante en nuestra Web Application, dandonos el contenido de las mismas. <br> Ruta de referencia: <https://www.w3schools.com/html/>
+3. CSS: El Cascading Style Stheets, va juntos con HTML5, dandonos la opción de personalización de los estilos de nuestro contenido elaborado en HTML. <br> Ruta de referencia: <https://developer.mozilla.org/es/docs/Web/CSS>
 
 **Software Deployment**
-1. Git: Software de control de versiones, brindando eficiencia, confiabilidad y compatibilidad en el mantenimiento de versiones de nuestros productos y del mismo informe que desarrollamos. Todos los miembros del equipo accederán por medio de líneas de comando en su consola. <br> Ruta de referencia:
+1. Git: Software de control de versiones, brindando eficiencia, confiabilidad y compatibilidad en el mantenimiento de versiones de nuestros productos y del mismo informe que desarrollamos. Todos los miembros del equipo accederán por medio de líneas de comando en su consola. <br> Ruta de referencia: <https://git-scm.com/>
 
 **Software Documentation and Project Managment**
-1. Github: Plataforma con la cual podemos alojar nuestros repositorios, utilizando el control de versiones de Git. Esto nos facilita la colaboración en tiempo real y en simultaneo, además, en la revisión de nuestros aportes por parte de los miembros del equipo. <br> Ruta de referencia:
+1. Github: Plataforma con la cual podemos alojar nuestros repositorios, utilizando el control de versiones de Git. Esto nos facilita la colaboración en tiempo real y en simultaneo, además, en la revisión de nuestros aportes por parte de los miembros del equipo. <br> Ruta de referencia: <https://github.com/>
 
 ### **5.1.2. Source Code Management**
 El proyecto contiene las convenciones de flujo establecidas por el modelo GitFlow para el control de versiones usando Github como plataforma y sistema de control de versiones. Serán compartidos los URLs de nuestros repositorios, como, Landing Page y de igual manera se implementarán futuros productos de nuestra Startup
 
 **Repositorios de Github** <br>
-URL de acceso a nuestra organización de Github:   <br>
-URL de acceso a nuestra Landing Page:
+URL de acceso a nuestra organización de Github: <https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech>   <br>
+URL de acceso a nuestra Landing Page: <https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-landing-page>
 
 ### **5.1.3. Source Code Style Guide & Conventions**
 
