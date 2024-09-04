@@ -458,6 +458,12 @@ Gherkin es un lenguaje simple y estructurado diseñado para escribir escenarios 
 
 ### **5.1.4. Software Deployment Configuration**
 
+Netlify es una plataforma de alojamiento web y despliegue continuo que simplifica el proceso de lanzamiento de sitios web y aplicaciones estáticas. Ofrece y funciona de la siguiente manera:
+
+1. Se sincroniza con repositorios Git como GitHub, GitLab y Bitbucket. Al actualizar tu código y subirlo al repositorio, Netlify inicia automáticamente la construcción y publicación del sitio.
+2. Emplea un sistema automatizado para transformar tu código (HTML, CSS, JavaScript) en un sitio estático. Durante la construcción, realiza tareas como compilar archivos y optimizar imágenes. Finalizada la construcción, despliega el sitio a través de su red CDN global.
+3. Permite generar vistas previas automáticas para cada rama de tu repositorio, lo que facilita la visualización de cambios antes de integrarlos a la rama principal, favoreciendo la colaboración y revisión de código.
+4. Netlify facilita la configuración de publicaciones automáticas para cada pull request o fusión en tu repositorio, activando la construcción y publicación con cada actualización, manteniendo tu sitio al día con la última versión del código.de construcción y despliegue, asegurando que tu sitio esté siempre actualizado con la última versión de tu código.
 
 ## **5.2. Landing Page, Services & Applications Implementation**
 ### **5.2.1. Sprint 1**
