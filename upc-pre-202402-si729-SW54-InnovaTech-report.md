@@ -393,6 +393,10 @@ Socialpubli es una empresa de publicidad social que pone en contacto a empresas 
 - La calidad de los proyectos, la facilidad para conectar con empresas/influencers, y los insights proporcionados fomenta confianza y satisfaccion.
 - Se implementan programas de referidos, bonificaciones o acceso a funciones premium como motivación pra invitar a nuevos usuarios.
 ### **2.3.4. Empathy Mapping** 
+**Empathy Map Segmento: Influencers** <br>
+<img src="Assets/Empathy Map Influencer.png" width="100%"/> <br>
+**Empathy Map Segmento: Empresas** <br>
+<img src="Assets/Empathy Map Empresa.png" width="100%"/> <br>
 ### **2.3.5. As-is Scenario Mapping** 
 
 ## Influencers
