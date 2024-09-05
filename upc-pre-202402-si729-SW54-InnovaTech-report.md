@@ -468,6 +468,14 @@ Netlify es una plataforma de alojamiento web y despliegue continuo que simplific
 ## **5.2. Landing Page, Services & Applications Implementation**
 ### **5.2.1. Sprint 1**
 #### **5.2.1.1. Sprint Planning 1**
+En la próxima sección, se presentará el sprint #1 con la primera versión del trabajo para la entrega del proyecto, donde se mostrará la organización, distribución y resultados del landing page.
+
+Sprint # |Date |Time |Location |Prepared By |Attendees|
+| :- | :- | :- | :- | :- | :- |
+|1|28/08/2024 |7:00 pm|Reunión mediante Meet|Javier Murillo, Mathias|<p>Escobar Palomino, Sebastian. </p><p>Macavilca Quispe, Ian.</p><p>Nakasone Gomes, Marco.</p><p>Laban Hijar, Jorge.</p>|
+|Sprint 1 Goal |Sprint 1 Velocity |Sum of Story Points||||
+|Elaborar y diseñar el landing page informativa para la aplicación Connex.|<p>18</p><p></p>|18||||
+
 #### **5.2.1.2. Sprint Backlog 1**
 #### **5.2.1.3. Development Evidence for Sprint Review**
 #### **5.2.1.4. Testing Suite Evidence for Sprint Review**
