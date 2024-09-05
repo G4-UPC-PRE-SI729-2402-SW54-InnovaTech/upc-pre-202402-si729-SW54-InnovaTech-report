@@ -603,6 +603,7 @@ User Goal: Como streamer, deseo recibir notificaciones sobre nuevas oportunidade
 Descripción: En este wireflow, el streamer configura sus preferencias de notificación desde su perfil. Puede optar por recibir alertas sobre nuevas colaboraciones, mensajes de empresas y actualizaciones de la plataforma. Las notificaciones se envían en tiempo real para mantener al streamer informado y ayudarle a gestionar sus oportunidades de manera eficiente.
 
 Segmento Objetivo: Influencers y Empresas Medianas
+
 User Goal: Como usuario (influencer o empresa mediana), deseo iniciar sesión para ingresar a Connex.
 Descripción: En este wireflow, se muestra el flujo que seguirá el usuario para iniciar sesión en Connex. Comenzará en la pantalla de login, seleccionará su rol (Influencer o Empresa) e ingresará su correo electrónico y contraseña. Si los datos son correctos, podrá acceder a la plataforma; de lo contrario, se mostrarán mensajes de alerta indicando errores en el inicio de sesión.
 
@@ -662,6 +663,88 @@ El Diagrama de Clases muestra la estructura detallada de las clases principales 
 
 ### **4.7.2. Class Dictionary** 
 
+User
+
+Descripción: Representa a cualquier usuario registrado en la plataforma Connex, incluyendo influencers, empresas medianas, y streamers.
+Atributos:
+userId (String): Identificador único del usuario.
+name (String): Nombre del usuario.
+email (String): Correo electrónico del usuario.
+role (String): Rol del usuario en la plataforma (Influencer, Empresa, Streamer).
+Métodos:
+login(): Permite al usuario iniciar sesión en la plataforma.
+logout(): Permite al usuario cerrar sesión.
+register(): Registra a un nuevo usuario en la plataforma.
+updateProfile(): Permite al usuario actualizar su información de perfil.
+
+Profile
+
+Descripción: Detalles adicionales sobre un usuario, incluyendo su biografía y enlaces a redes sociales.
+Atributos:
+profileId (String): Identificador único del perfil.
+bio (String): Biografía del usuario.
+socialLinks (List<String>): Enlaces a las redes sociales del usuario.
+Métodos:
+editProfile(): Permite editar los detalles del perfil.
+
+Contract
+
+Descripción: Representa un contrato o acuerdo entre un influencer o streamer y una empresa para colaborar.
+Atributos:
+contractId (String): Identificador único del contrato.
+status (String): Estado actual del contrato (activo, en negociación, completado).
+terms (String): Términos y condiciones del contrato.
+Métodos:
+createContract(): Permite la creación de un nuevo contrato.
+updateContract(): Actualiza los términos o el estado del contrato.
+cancelContract(): Cancela un contrato existente.
+
+Review
+
+Descripción: Representa una reseña escrita por un usuario (influencer o empresa) sobre una colaboración o servicio.
+Atributos:
+reviewId (String): Identificador único de la reseña.
+rating (Int): Puntuación de la reseña.
+comment (String): Comentario escrito por el usuario.
+Métodos:
+writeReview(): Permite al usuario escribir una nueva reseña.
+editReview(): Permite editar una reseña existente.
+deleteReview(): Elimina una reseña existente.
+
+InteractionHistory
+
+Descripción: Registra los historiales de interacción de un influencer o streamer en diferentes plataformas, incluyendo métricas de engagement.
+Atributos:
+historyId (String): Identificador único del historial de interacción.
+platform (String): Plataforma donde se registró la interacción (e.g., Instagram, YouTube).
+engagementData (String): Datos sobre la interacción, como número de likes, comentarios, etc.
+Métodos:
+uploadHistory(): Permite subir un nuevo historial de interacción.
+viewHistory(): Permite al usuario visualizar sus historiales subidos.
+
+Opportunity
+
+Descripción: Representa una oportunidad de colaboración publicada por empresas para que los influencers o streamers puedan aplicar.
+Atributos:
+opportunityId (String): Identificador único de la oportunidad.
+description (String): Descripción de la oportunidad de colaboración.
+requirements (String): Requisitos específicos que debe cumplir el influencer o streamer.
+status (String): Estado de la oportunidad (abierta, cerrada).
+Métodos:
+applyForOpportunity(): Permite a los streamers o influencers aplicar a una oportunidad.
+reviewApplications(): Permite a las empresas revisar las aplicaciones recibidas.
+
+Notification
+
+Descripción: Maneja las notificaciones enviadas a los usuarios sobre nuevas oportunidades, mensajes, o actualizaciones en la plataforma.
+Atributos:
+notificationId (String): Identificador único de la notificación.
+type (String): Tipo de notificación (oportunidad, mensaje, actualización).
+message (String): Contenido del mensaje de notificación.
+readStatus (Boolean): Indica si la notificación ha sido leída.
+Métodos:
+sendNotification(): Envía una notificación al usuario.
+markAsRead(): Marca una notificación como leída.
 
 ## **4.8. Database Design** 
 ### **4.8.1. Database Diagram** 
