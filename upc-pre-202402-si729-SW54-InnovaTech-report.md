@@ -480,6 +480,26 @@ Netlify es una plataforma de alojamiento web y despliegue continuo que simplific
 #### **5.2.2.1. Sprint Planning 2**
 #### **5.2.2.2. Sprint Backlog 2**
 #### **5.2.2.3. Development Evidence for Sprint Review**
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|------------|--------|-----------|----------------|---------------------|---------------------|
+| upc-pre-202402-si729-SW54-InnovaTech-landing-page | main |c5fcdad | Initial commit |  | Sep 2, 2024 |
+| upc-pre-202402-si729-SW54-InnovaTech-landing-page | main |e35893a | Add files via upload |  | Sep 3, 2024 |
+| upc-pre-202402-si729-SW54-InnovaTech-landing-page | develop |7838a81|fix: correct marco pic error|There was no picture of Marco in it, so it didn't appear on the page.  | Sep 3, 2024 |
+| upc-pre-202402-si729-SW54-InnovaTech-landing-page | develop |6430f40|feat: add pics to service cards|  | Sep 3, 2024 |
+| upc-pre-202402-si729-SW54-InnovaTech-landing-page | develop |53963b3|fix: navbar width bug|The navbar is not 100% wide, but now it is.| Sep 3, 2024 |
+| upc-pre-202402-si729-SW54-InnovaTech-landing-page | feature/services |63a173d |feat: add blank footer |  | Sep 3, 2024 |
+| upc-pre-202402-si729-SW54-InnovaTech-landing-page | feature/footer |bb99ea8 |feat: add pics for social media logos|  | Sep 3, 2024 |
+| upc-pre-202402-si729-SW54-InnovaTech-landing-page | feature/footer |6cf28cc |fix: styles and footer design  |  | Sep 3, 2024 |
+| upc-pre-202402-si729-SW54-InnovaTech-landing-page | feature/footer |573bd37 |fix: footer logos error  |  | Sep 3, 2024 |
+| upc-pre-202402-si729-SW54-InnovaTech-landing-page | feature/footer |0cc9982 |fix(footer): fixed style css  |  | Sep 3, 2024 |
+| upc-pre-202402-si729-SW54-InnovaTech-landing-page | feature/footer |c9daf0d |fix(header):menu compression and resposiveness  |  | Sep 4, 2024 |
+| upc-pre-202402-si729-SW54-InnovaTech-landing-page | feature/contactus |18d08e8 |fix(home): fixed home image and text align  |  | Sep 4, 2024 |
+| upc-pre-202402-si729-SW54-InnovaTech-landing-page | feature/contactus |4f5463f |fix(home):mixed class error  |  | Sep 4, 2024 |
+| upc-pre-202402-si729-SW54-InnovaTech-landing-page | feature/contactus |10bf73b |feat(contactus):add contact us section  |  | Sep 4, 2024 |
+| upc-pre-202402-si729-SW54-InnovaTech-landing-page | develop |86e3e91 |Merge pull request #1 from G4-UPC-PRE-SI729-2402-SW54-InnovaTech/feature/contactus  |  | Sep 4, 2024 |
+
+
 #### **5.2.2.4. Testing Suite Evidence for Sprint Review**
 #### **5.2.2.5. Execution Evidence for Sprint Review**
 #### **5.2.2.6. Services Documentation Evidence for Sprint Review**
