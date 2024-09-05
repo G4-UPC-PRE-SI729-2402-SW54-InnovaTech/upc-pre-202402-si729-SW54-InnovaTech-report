@@ -413,7 +413,7 @@ La entrevista fue realizada a Lara Aguirre, tiene 22 años y reside en San Isidr
 2. **Información Detallada del Influencer:** Proveer detalles sobre la experiencia del influencer en el nicho de criptomonedas, su alcance, y la calidad del contenido educativo que crean.
 3. **Recomendaciones Basadas en Inteligencia Artificial:** Desarrollar un sistema de recomendaciones que sugiera influencers en función de las necesidades de contenido y objetivos de marketing de la empresa.
 
-## **Segmento Influencer: Análisis de Entrevistas**
+## **Segmento Influencer:**
 
 ### Entrevistado 1: Lara Aguirre
 
