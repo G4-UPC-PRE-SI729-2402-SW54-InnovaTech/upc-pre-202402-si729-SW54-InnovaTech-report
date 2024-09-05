@@ -358,7 +358,98 @@ Socialpubli es una empresa de publicidad social que pone en contacto a empresas 
 3. ¿Conoces alguna aplicación para poder establecer contacto o encontrar a el creador de contenido adecuado para el rubro de tu empresa?
 
 ### **2.2.2. Registro de entrevistas** 
+
+**Segmento Empresas:** <br>
+
+1. Entrevistado 1:
+ - Nombres y Apellidos: Gonzalo Navarro
+ - Edad: 27 años
+ - Distrito: Magadalena
+ - Evidencia de la reunión: <img src="Assets/Entrevista1.png" width="100%"/>
+ - Url de stream: <https://upcedupe.sharepoint.com/:v:/s/InnovaTech/EXVzM1Ijf6NGttX5r8txQEcBH4LF8op1HRvIuUdXHr_xSQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jLyT5a>
+ - Timming y duración: 1:43 - 3:36
+ - Resumen de la entrevista: 
+La entrevista fue realizada a Gonzalo Navarro, tiene 27 años y reside en Magdalena del Mar. Gonzalo viene de una empresa la cual se encarga de distribuir y/o productos de cuidado personal. El busca influencers o creadores de contenido que tengan una apariencia fisica agradable para el consumidor, basadose mucho en las estadisticas de sus redes sociales, nos comenta que no conoce alguna aplicación para poder llegar a encontrar al creador de contenido adecuado para su público, muy aparte de los DM's de Instagram o Tiktok, y que estaría interesado en una plataforma de este estilo.
+
+2. Entrevistado 2:
+ - Nombres y Apellidos: Ricky Villanueva
+ - Edad: 24 años
+ - Distrito: La Victoria
+ - Evidencia de la reunión: <img src="Assets/Entrevista2.png" width="100%"/>
+ - Url de stream: <https://upcedupe.sharepoint.com/:v:/s/InnovaTech/EXVzM1Ijf6NGttX5r8txQEcBH4LF8op1HRvIuUdXHr_xSQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jLyT5a>
+ - Timming y duración: 0:00 - 1:43
+ - Resumen de la entrevista:
+La entrevista fue realizada a Ricky Villanueva, tiene 24 años y reside en La Victoria. Ricky viene de una empresa de cryptomonedas y desarrollo web. El busca influencers que creen contenido informativo sobre finanzas personales, economía o inversiones en cyptomonedas, prefiere personas que tengan alcance en redes mediano o alto, nos comenta que no ha tenido suerte para encontrar al creador de contenido adecuado para su público, y que estaría interesado en una plataforma de este estilo.
+
+**Segmento Influencer:** <br>
+1. Entrevistado 1:
+ - Nombres y Apellidos: Lara Aguirre
+ - Edad: 21 años
+ - Distrito: San Isidro
+ - Evidencia de la reunión: <img src="Assets/Entrevista3.png" width="100%"/>
+ - Url de stream: <https://upcedupe.sharepoint.com/:v:/s/InnovaTech/EXVzM1Ijf6NGttX5r8txQEcBH4LF8op1HRvIuUdXHr_xSQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jLyT5a>
+ - Timming y duración: 3:36 - 4:49
+ - Resumen de la entrevista:
+La entrevista fue realizada a Lara Aguirre, tiene 22 años y reside en San Isidro. Lara crea contenido en redes sobre comida, siendo una foodieblogger. Ella nos comenta que no tiene algun lugar donde llevar sus estadisticas post-campañas, siendo esto un inconveniente para que más empresas la contacten. Nos comenta que a la hora de contactar con una marca, le es complicado poder tener confianza en la misma ya que no escucha o ve recomendaciones de la misma, y le gustaria una aplicación que le facilitara estas funciones.
 ### **2.2.3. Ánalisis de entrevistas** 
+
+# Análisis de Entrevistas
+
+## **Segmento Empresa:**
+
+## Entrevistado 1: Gonzalo Navarro
+
+- **Perfil del Entrevistado:** Trabaja en una empresa que distribuye productos de cuidado personal y busca influencers con una apariencia física agradable para el consumidor.
+- **Criterios de Selección de Influencers:** Se basa principalmente en las estadísticas de las redes sociales de los influencers.
+- **Desafíos Actuales:** No conoce ninguna plataforma que facilite la búsqueda de influencers adecuados, aparte de los mensajes directos (DMs) en Instagram o TikTok.
+- **Interés en una Nueva Plataforma:** Expresa interés en una plataforma que le permita encontrar influencers adecuados para su público.
+
+### Oportunidades de Mejora para Connex:
+1. **Herramientas de Análisis de Estadísticas:** Incluir métricas detalladas sobre el rendimiento de los influencers (engagement rate, demografía de seguidores, tipo de contenido) para que los usuarios puedan tomar decisiones más informadas.
+2. **Filtros Avanzados de Búsqueda:** Ofrecer filtros basados en la apariencia física, estilo de contenido, nicho, y más, para atraer a empresas de productos de cuidado personal y moda.
+3. **Facilidad de Contacto:** Integrar funciones que permitan a los usuarios contactar a los influencers directamente desde la plataforma, evitando depender de DMs en otras redes sociales.
+
+## Entrevistado 2: Ricky Villanueva
+
+- **Perfil del Entrevistado:** Trabaja en una empresa de criptomonedas y desarrollo web y busca influencers que creen contenido informativo sobre finanzas, economía o inversiones en criptomonedas.
+- **Criterios de Selección de Influencers:** Prefiere influencers con un alcance mediano o alto.
+- **Desafíos Actuales:** Ha tenido dificultades para encontrar creadores de contenido adecuados para su público objetivo.
+- **Interés en una Nueva Plataforma:** También muestra interés en una herramienta que facilite la búsqueda de influencers.
+
+### Oportunidades de Mejora para Connex:
+1. **Segmentación por Nicho:** Crear categorías específicas para diferentes sectores como finanzas, tecnología y criptomonedas, permitiendo a los usuarios encontrar influencers relevantes más fácilmente.
+2. **Información Detallada del Influencer:** Proveer detalles sobre la experiencia del influencer en el nicho de criptomonedas, su alcance, y la calidad del contenido educativo que crean.
+3. **Recomendaciones Basadas en Inteligencia Artificial:** Desarrollar un sistema de recomendaciones que sugiera influencers en función de las necesidades de contenido y objetivos de marketing de la empresa.
+
+## **Segmento Influencer:**
+
+### Entrevistado 1: Lara Aguirre
+
+- **Perfil del Entrevistado:** Lara Aguirre es una creadora de contenido de 21 años que reside en San Isidro. Se especializa en el nicho de comida, siendo una foodie blogger.
+- **Desafíos Actuales:**
+  - **Estadísticas de Post-Campañas:** Lara menciona que no cuenta con un lugar centralizado para llevar sus estadísticas post-campaña, lo cual es un inconveniente para que más empresas puedan evaluar su rendimiento y contactarla.
+  - **Confianza en las Marcas:** Cuando Lara busca colaborar con una marca, le resulta complicado generar confianza si no tiene recomendaciones o referencias de la misma.
+- **Interés en una Nueva Plataforma:** Lara estaría interesada en una aplicación que le facilite el manejo de estadísticas post-campaña y ofrezca una manera de evaluar la confiabilidad de las marcas.
+
+## Conclusiones Generales y Sugerencias para Connex
+
+1. **Personalización del Usuario:** Asegúrate de que la plataforma Connex ofrezca una experiencia altamente personalizada, permitiendo que las empresas filtren por variables específicas como nicho de mercado, tipo de audiencia, estilo de contenido, etc.
+   
+2. **Base de Datos de Influencers Actualizada:** Mantén una base de datos de influencers actualizada con información sobre su desempeño, estadísticas de redes sociales y colaboraciones previas para facilitar la toma de decisiones.
+
+3. **Mejora en la Comunicación:** Crear una funcionalidad para que las empresas puedan comunicarse directamente con los influencers dentro de la plataforma, eliminando las barreras de usar múltiples aplicaciones o DMs.
+
+4. **Educación y Apoyo al Usuario:** Proporcionar herramientas educativas y de soporte que guíen a los usuarios sobre cómo seleccionar a los influencers adecuados según sus métricas y objetivos de marketing.
+
+5. **Panel de Control de Estadísticas:** Incluir una funcionalidad en Connex que permita a los influencers llevar un registro detallado de sus estadísticas post-campañas, como alcance, interacción, crecimiento de seguidores, y resultados obtenidos de colaboraciones anteriores.
+   
+6. **Sistema de Reputación para Marcas:** Implementar un sistema de calificación y reseñas en la plataforma, donde los influencers puedan ver las opiniones y experiencias de otros creadores de contenido sobre las marcas. Esto podría ayudar a construir confianza y facilitar la decisión de colaborar.
+
+7. **Facilidad de Gestión de Colaboraciones:** Crear herramientas que faciliten la negociación y gestión de acuerdos de colaboración entre influencers y marcas, con contratos claros y opciones de comunicación integradas.
+
+8. **Recomendaciones Personalizadas:** Utilizar algoritmos de inteligencia artificial para recomendar marcas potenciales basadas en el tipo de contenido del influencer, sus estadísticas, y su historial de colaboraciones previas.
+
+Implementar estas características en Connex podría aumentar significativamente el atractivo de la plataforma para empresas como las de Gonzalo y Ricky, ayudándoles a superar sus desafíos actuales en la búsqueda de influencers adecuados.
 
 ## **2.3. Needfinding** 
 ### **2.3.1. User Personas** 
@@ -401,6 +492,10 @@ Socialpubli es una empresa de publicidad social que pone en contacto a empresas 
 - La calidad de los proyectos, la facilidad para conectar con empresas/influencers, y los insights proporcionados fomenta confianza y satisfaccion.
 - Se implementan programas de referidos, bonificaciones o acceso a funciones premium como motivación pra invitar a nuevos usuarios.
 ### **2.3.4. Empathy Mapping** 
+**Empathy Map Segmento: Influencers** <br>
+<img src="Assets/Empathy Map Influencer.png" width="100%"/> <br>
+**Empathy Map Segmento: Empresas** <br>
+<img src="Assets/Empathy Map Empresa.png" width="100%"/> <br>
 ### **2.3.5. As-is Scenario Mapping** 
 
 ## Influencers
@@ -420,6 +515,40 @@ Socialpubli es una empresa de publicidad social que pone en contacto a empresas 
 | **Feeling** | Interesado pero con dudas sobre la inversión. | Expectante y planificando estrategias. | Confiado pero atento a encontrar el match ideal. | Satisfecho si la campaña fue exitosa, o analizando posibles mejoras. |
 
 ## **2.4. Ubiquitous Language**
+
+Este documento define el Lenguaje Ubicuo (Ubiquitous Language) que se utilizará en el proyecto Connex. Su propósito es garantizar una comunicación clara y consistente entre todos los miembros del equipo y stakeholders.
+
+## Términos Clave
+
+1. **Influencer**: Persona que crea contenido en plataformas digitales y tiene la capacidad de influir en su audiencia. En Connex, los influencers son usuarios que buscan oportunidades de colaboración con marcas para promocionar productos o servicios.
+
+2. **Empresa**: Cliente o usuario en Connex que busca promocionar sus productos o servicios a través del marketing de influencers. Las empresas pueden registrarse, buscar y conectar con influencers adecuados para sus campañas de marketing.
+
+3. **Colaboración**: Acuerdo entre una empresa y un influencer para crear contenido que promueva un producto, servicio o marca. Las colaboraciones pueden ser pagadas o basadas en intercambio de productos.
+
+4. **Plataforma Connex**: Sistema digital donde empresas e influencers pueden interactuar, establecer conexiones y gestionar colaboraciones. Connex proporciona herramientas para la búsqueda, selección y análisis de resultados de campañas de influencers.
+
+5. **Campaña de Marketing de Influencers**: Estrategia de promoción que implica a influencers para aumentar la visibilidad de una marca, mejorar el reconocimiento del producto, y/o incrementar las ventas. En Connex, las empresas crean campañas a las que los influencers pueden aplicar.
+
+6. **Registro**: Proceso por el cual tanto influencers como empresas crean un perfil en Connex para acceder a las funciones de la plataforma.
+
+7. **Perfil de Influencer**: Página dentro de Connex que contiene información sobre un influencer, como estadísticas de audiencia, contenido anterior, y detalles de contacto. Utilizado por las empresas para evaluar posibles colaboraciones.
+
+8. **Brief de Campaña**: Documento proporcionado por la empresa que describe los objetivos, requisitos, y expectativas de una campaña específica. Incluye información clave como la audiencia objetivo, mensajes clave y métricas de éxito.
+
+9. **Matching de Influencers**: Proceso por el cual Connex recomienda influencers a las empresas basándose en criterios específicos como el nicho de audiencia, la relevancia del contenido y la tasa de compromiso.
+
+10. **Dashboard de Métricas**: Herramienta en Connex que proporciona estadísticas y datos sobre el rendimiento de campañas y colaboraciones. Las empresas e influencers pueden usar esta herramienta para evaluar el impacto de sus esfuerzos de marketing.
+
+11. **ROI (Return on Investment)**: Métrica utilizada por las empresas para medir la efectividad de las campañas de marketing con influencers. En Connex, el ROI puede evaluarse a través del dashboard de métricas.
+
+12. **Onboarding**: Proceso de introducción para nuevos usuarios (tanto influencers como empresas) en Connex. Incluye guías, tutoriales, y soporte inicial para garantizar que los usuarios comprendan cómo usar la plataforma.
+
+13. **Comunicación Directa**: Herramienta dentro de Connex que permite la comunicación fluida entre empresas e influencers para discutir detalles de las colaboraciones, resolver dudas y alinear expectativas.
+
+14. **Programa de Recompensas**: Sistema de incentivos dentro de Connex que motiva a los usuarios (especialmente influencers) a realizar acciones específicas, como invitar a otros usuarios a la plataforma o completar campañas exitosamente.
+
+15. **Feedback de Campaña**: Opiniones y comentarios proporcionados por la empresa al influencer (y viceversa) después de la finalización de una colaboración. Este feedback es crucial para la mejora continua de las campañas futuras.
 
 # **Capítulo III: Requirements Specification** 
 
