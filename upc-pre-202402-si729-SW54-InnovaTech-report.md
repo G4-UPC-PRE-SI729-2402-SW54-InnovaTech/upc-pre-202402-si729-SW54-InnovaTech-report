@@ -350,6 +350,39 @@ Socialpubli es una empresa de publicidad social que pone en contacto a empresas 
 3. ¿Conoces alguna aplicación para poder establecer contacto o encontrar a el creador de contenido adecuado para el rubro de tu empresa?
 
 ### **2.2.2. Registro de entrevistas** 
+
+**Segmento Empresas:** <br>
+
+1. Entrevistado 1:
+ - Nombres y Apellidos: Gonzalo Navarro
+ - Edad: 27 años
+ - Distrito: Magadalena
+ - Evidencia de la reunión:
+ - Url de stream: <https://upcedupe.sharepoint.com/:v:/s/InnovaTech/EXVzM1Ijf6NGttX5r8txQEcBH4LF8op1HRvIuUdXHr_xSQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jLyT5a>
+ - Timming y duración: 1:43 - 3:36
+ - Resumen de la entrevista: <img src="Assets/Entrevista1.png" width="100%"/>
+La entrevista fue realizada a Gonzalo Navarro, tiene 27 años y reside en Magdalena del Mar. Gonzalo viene de una empresa la cual se encarga de distribuir y/o productos de cuidado personal. El busca influencers o creadores de contenido que tengan una apariencia fisica agradable para el consumidor, basadose mucho en las estadisticas de sus redes sociales, nos comenta que no conoce alguna aplicación para poder llegar a encontrar al creador de contenido adecuado para su público, muy aparte de los DM's de Instagram o Tiktok, y que estaría interesado en una plataforma de este estilo.
+
+2. Entrevistado 2:
+ - Nombres y Apellidos: Ricky Villanueva
+ - Edad: 24 años
+ - Distrito: La Victoria
+ - Evidencia de la reunión: <img src="Assets/Entrevista2.png" width="100%"/>
+ - Url de stream: <https://upcedupe.sharepoint.com/:v:/s/InnovaTech/EXVzM1Ijf6NGttX5r8txQEcBH4LF8op1HRvIuUdXHr_xSQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jLyT5a>
+ - Timming y duración: 0:00 - 1:43
+ - Resumen de la entrevista:
+La entrevista fue realizada a Ricky Villanueva, tiene 24 años y reside en La Victoria. Ricky viene de una empresa de cryptomonedas y desarrollo web. El busca influencers que creen contenido informativo sobre finanzas personales, economía o inversiones en cyptomonedas, prefiere personas que tengan alcance en redes mediano o alto, nos comenta que no ha tenido suerte para encontrar al creador de contenido adecuado para su público, y que estaría interesado en una plataforma de este estilo.
+
+**Segmento Influencer:** <br>
+1. Entrevistado 1:
+ - Nombres y Apellidos: Lara Aguirre
+ - Edad: 21 años
+ - Distrito: San Isidro
+ - Evidencia de la reunión: <img src="Assets/Entrevista3.png" width="100%"/>
+ - Url de stream: <https://upcedupe.sharepoint.com/:v:/s/InnovaTech/EXVzM1Ijf6NGttX5r8txQEcBH4LF8op1HRvIuUdXHr_xSQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jLyT5a>
+ - Timming y duración: 3:36 - 4:49
+ - Resumen de la entrevista:
+La entrevista fue realizada a Lara Aguirre, tiene 22 años y reside en San Isidro. Lara crea contenido en redes sobre comida, siendo una foodieblogger. Ella nos comenta que no tiene algun lugar donde llevar sus estadisticas post-campañas, siendo esto un inconveniente para que más empresas la contacten. Nos comenta que a la hora de contactar con una marca, le es complicado poder tener confianza en la misma ya que no escucha o ve recomendaciones de la misma, y le gustaria una aplicación que le facilitara estas funciones.
 ### **2.2.3. Ánalisis de entrevistas** 
 
 ## **2.3. Needfinding** 
