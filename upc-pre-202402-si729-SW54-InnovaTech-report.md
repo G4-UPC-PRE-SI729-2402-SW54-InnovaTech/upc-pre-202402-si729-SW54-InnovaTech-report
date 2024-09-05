@@ -385,6 +385,64 @@ La entrevista fue realizada a Ricky Villanueva, tiene 24 años y reside en La Vi
 La entrevista fue realizada a Lara Aguirre, tiene 22 años y reside en San Isidro. Lara crea contenido en redes sobre comida, siendo una foodieblogger. Ella nos comenta que no tiene algun lugar donde llevar sus estadisticas post-campañas, siendo esto un inconveniente para que más empresas la contacten. Nos comenta que a la hora de contactar con una marca, le es complicado poder tener confianza en la misma ya que no escucha o ve recomendaciones de la misma, y le gustaria una aplicación que le facilitara estas funciones.
 ### **2.2.3. Ánalisis de entrevistas** 
 
+# Análisis de Entrevistas
+
+## **Segmento Empresa:**
+
+## Entrevistado 1: Gonzalo Navarro
+
+- **Perfil del Entrevistado:** Trabaja en una empresa que distribuye productos de cuidado personal y busca influencers con una apariencia física agradable para el consumidor.
+- **Criterios de Selección de Influencers:** Se basa principalmente en las estadísticas de las redes sociales de los influencers.
+- **Desafíos Actuales:** No conoce ninguna plataforma que facilite la búsqueda de influencers adecuados, aparte de los mensajes directos (DMs) en Instagram o TikTok.
+- **Interés en una Nueva Plataforma:** Expresa interés en una plataforma que le permita encontrar influencers adecuados para su público.
+
+### Oportunidades de Mejora para Connex:
+1. **Herramientas de Análisis de Estadísticas:** Incluir métricas detalladas sobre el rendimiento de los influencers (engagement rate, demografía de seguidores, tipo de contenido) para que los usuarios puedan tomar decisiones más informadas.
+2. **Filtros Avanzados de Búsqueda:** Ofrecer filtros basados en la apariencia física, estilo de contenido, nicho, y más, para atraer a empresas de productos de cuidado personal y moda.
+3. **Facilidad de Contacto:** Integrar funciones que permitan a los usuarios contactar a los influencers directamente desde la plataforma, evitando depender de DMs en otras redes sociales.
+
+## Entrevistado 2: Ricky Villanueva
+
+- **Perfil del Entrevistado:** Trabaja en una empresa de criptomonedas y desarrollo web y busca influencers que creen contenido informativo sobre finanzas, economía o inversiones en criptomonedas.
+- **Criterios de Selección de Influencers:** Prefiere influencers con un alcance mediano o alto.
+- **Desafíos Actuales:** Ha tenido dificultades para encontrar creadores de contenido adecuados para su público objetivo.
+- **Interés en una Nueva Plataforma:** También muestra interés en una herramienta que facilite la búsqueda de influencers.
+
+### Oportunidades de Mejora para Connex:
+1. **Segmentación por Nicho:** Crear categorías específicas para diferentes sectores como finanzas, tecnología y criptomonedas, permitiendo a los usuarios encontrar influencers relevantes más fácilmente.
+2. **Información Detallada del Influencer:** Proveer detalles sobre la experiencia del influencer en el nicho de criptomonedas, su alcance, y la calidad del contenido educativo que crean.
+3. **Recomendaciones Basadas en Inteligencia Artificial:** Desarrollar un sistema de recomendaciones que sugiera influencers en función de las necesidades de contenido y objetivos de marketing de la empresa.
+
+## **Segmento Influencer: Análisis de Entrevistas**
+
+### Entrevistado 1: Lara Aguirre
+
+- **Perfil del Entrevistado:** Lara Aguirre es una creadora de contenido de 21 años que reside en San Isidro. Se especializa en el nicho de comida, siendo una foodie blogger.
+- **Desafíos Actuales:**
+  - **Estadísticas de Post-Campañas:** Lara menciona que no cuenta con un lugar centralizado para llevar sus estadísticas post-campaña, lo cual es un inconveniente para que más empresas puedan evaluar su rendimiento y contactarla.
+  - **Confianza en las Marcas:** Cuando Lara busca colaborar con una marca, le resulta complicado generar confianza si no tiene recomendaciones o referencias de la misma.
+- **Interés en una Nueva Plataforma:** Lara estaría interesada en una aplicación que le facilite el manejo de estadísticas post-campaña y ofrezca una manera de evaluar la confiabilidad de las marcas.
+
+## Conclusiones Generales y Sugerencias para Connex
+
+1. **Personalización del Usuario:** Asegúrate de que la plataforma Connex ofrezca una experiencia altamente personalizada, permitiendo que las empresas filtren por variables específicas como nicho de mercado, tipo de audiencia, estilo de contenido, etc.
+   
+2. **Base de Datos de Influencers Actualizada:** Mantén una base de datos de influencers actualizada con información sobre su desempeño, estadísticas de redes sociales y colaboraciones previas para facilitar la toma de decisiones.
+
+3. **Mejora en la Comunicación:** Crear una funcionalidad para que las empresas puedan comunicarse directamente con los influencers dentro de la plataforma, eliminando las barreras de usar múltiples aplicaciones o DMs.
+
+4. **Educación y Apoyo al Usuario:** Proporcionar herramientas educativas y de soporte que guíen a los usuarios sobre cómo seleccionar a los influencers adecuados según sus métricas y objetivos de marketing.
+
+5. **Panel de Control de Estadísticas:** Incluir una funcionalidad en Connex que permita a los influencers llevar un registro detallado de sus estadísticas post-campañas, como alcance, interacción, crecimiento de seguidores, y resultados obtenidos de colaboraciones anteriores.
+   
+6. **Sistema de Reputación para Marcas:** Implementar un sistema de calificación y reseñas en la plataforma, donde los influencers puedan ver las opiniones y experiencias de otros creadores de contenido sobre las marcas. Esto podría ayudar a construir confianza y facilitar la decisión de colaborar.
+
+7. **Facilidad de Gestión de Colaboraciones:** Crear herramientas que faciliten la negociación y gestión de acuerdos de colaboración entre influencers y marcas, con contratos claros y opciones de comunicación integradas.
+
+8. **Recomendaciones Personalizadas:** Utilizar algoritmos de inteligencia artificial para recomendar marcas potenciales basadas en el tipo de contenido del influencer, sus estadísticas, y su historial de colaboraciones previas.
+
+Implementar estas características en Connex podría aumentar significativamente el atractivo de la plataforma para empresas como las de Gonzalo y Ricky, ayudándoles a superar sus desafíos actuales en la búsqueda de influencers adecuados.
+
 ## **2.3. Needfinding** 
 ### **2.3.1. User Personas** 
 
