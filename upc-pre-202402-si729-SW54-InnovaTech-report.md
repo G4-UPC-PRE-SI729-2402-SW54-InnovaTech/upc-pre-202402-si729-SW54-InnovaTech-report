@@ -357,10 +357,10 @@ Socialpubli es una empresa de publicidad social que pone en contacto a empresas 
  - Nombres y Apellidos: Gonzalo Navarro
  - Edad: 27 años
  - Distrito: Magadalena
- - Evidencia de la reunión:
+ - Evidencia de la reunión: <img src="Assets/Entrevista1.png" width="100%"/>
  - Url de stream: <https://upcedupe.sharepoint.com/:v:/s/InnovaTech/EXVzM1Ijf6NGttX5r8txQEcBH4LF8op1HRvIuUdXHr_xSQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jLyT5a>
  - Timming y duración: 1:43 - 3:36
- - Resumen de la entrevista: <img src="Assets/Entrevista1.png" width="100%"/>
+ - Resumen de la entrevista: 
 La entrevista fue realizada a Gonzalo Navarro, tiene 27 años y reside en Magdalena del Mar. Gonzalo viene de una empresa la cual se encarga de distribuir y/o productos de cuidado personal. El busca influencers o creadores de contenido que tengan una apariencia fisica agradable para el consumidor, basadose mucho en las estadisticas de sus redes sociales, nos comenta que no conoce alguna aplicación para poder llegar a encontrar al creador de contenido adecuado para su público, muy aparte de los DM's de Instagram o Tiktok, y que estaría interesado en una plataforma de este estilo.
 
 2. Entrevistado 2:
