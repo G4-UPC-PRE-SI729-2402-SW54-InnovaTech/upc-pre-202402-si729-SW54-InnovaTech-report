@@ -367,20 +367,24 @@ A continuación, se presentará un repositorio central y organizado que servirá
 La tipografía organiza el lenguaje visual de las plataformas, garantizando legibilidad y mejorando la experiencia del usuario. Por eso, se eligieron estos tipos de letra. 
 
 **Head**
+
 Imagen
 
 **Body**
+
 Imagen
 
 **Colors**
+
 imagen
 
 **Spacing**
+
 imagen
 
-**Color Primario:**El azul como color primario transmite confianza, seguridad y profesionalismo, mientras que el blanco aporta simplicidad, pureza y limpieza, creando una combinación visual que inspira seriedad y accesibilidad en la plataforma.
+**Color Primario:** El azul como color primario transmite confianza, seguridad y profesionalismo, mientras que el blanco aporta simplicidad, pureza y limpieza, creando una combinación visual que inspira seriedad y accesibilidad en la plataforma.
 
-**Color Secundario:**Los colores secundarios (Beige, Antique White y Old Lace) añaden calidez, accesibilidad y elegancia al diseño, creando un ambiente acogedor y sofisticado que equilibra la seriedad de los colores principales.
+**Color Secundario:** Los colores secundarios (Beige, Antique White y Old Lace) añaden calidez, accesibilidad y elegancia al diseño, creando un ambiente acogedor y sofisticado que equilibra la seriedad de los colores principales.
 
 Los tonos de gris y negro se utilizan para aportar contraste, elegancia y una jerarquía visual clara al diseño del sitio web. Estos colores añaden sofisticación, resaltan elementos importantes y mantienen una estética profesional y moderna, ideal para una plataforma que conecta marcas con influencers.
 
