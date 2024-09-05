@@ -428,7 +428,161 @@ En el presente Wireflow, se presenta el camino que deberá seguir el usuario str
 
 ![](Assets/webpage/4.4.2 Web Applications Wireflow Diagrams. 5.png)
 
+User Goal: Como streamer deseo visualizar el perfil de un profesional de la salud
 
+Descripción:
+
+En el presente Wireflow, se presenta el camino que deberá seguir el usuario streamer para poder visualizar el perfil de un doctor. Se empezará desde la pantalla de inicio, luego se dirigirá a la sección de profesionales de la salud y, con ello, se mostrarán los distintos médicos disponibles, se seleccionará el de su preferencia para ver su perfil de MediCare.
+
+Imagen
+
+User Goal: Como streamer deseo ver las reseñas de un profesional de la salud
+
+Descripción:
+
+En el presente Wireflow, se presenta el camino que deberá seguir el usuario streamer para poder visualizar las reseñas de un profesional de la salud. Se empezará desde la pantalla inicial, luego selecciona a un médico desde la sección de profesionales de la salud. Después, se ingresa al perfil del doctor seleccionado y se entrará al apartado de reseñas desde la opción “See Reviews”.
+
+Imagen Imagen
+
+User Goal: Como streamer deseo publicar una nueva reseña a un profesional de la salud
+
+Descripción:
+
+En el presente Wireflow, se presenta el camino que deberá seguir el usuario streamer para poder escribir una reseña a un profesional de la salud. Se empezará desde la pantalla inicial, después se ingresará al perfil del médico a reseñar. Luego, se entrará a través de “See reviews” al apartado de reseñas, en donde se seleccionará “Publish Review” para comenzar a escribir la reseña. Por último, se presionará “Publish” para publicarla y se brindará un mensaje de confirmación.
+
+Imagen
+
+User Goal: Como streamer, deseo ver las fechas disponibles en las que puedo atenderme con un doctor para agendar una cita.
+
+Descripción:
+
+En el presente Wireflow, nos encontramos en la vista “Available Dates”. Aquí, vemos un calendario, donde las fechas pintadas de un color más oscuro significan que están disponibles. Al hacer click a una de ellas, me muestra, todas las horas disponibles de citas para ese día.
+
+![Imagen](assets/4.4.2 Web Applications Wireflow Diagrams. 10.png)
+
+User Goal: Como streamer deseo revisar mi perfil.
+
+Descripción:
+
+En este Wireflow, se visualiza el proceso que debe realizar el usuario streamer para poder visualizar correctamente su información de perfil. Para la cual solamente deberá dar click a su foto de perfil.
+
+Imagen
+
+User Goal: Como streamer deseo editar mi información de perfil.
+
+Descripción:
+
+En este Wireflow, se visualiza el proceso que debe realizar el usuario streamer para poder acceder a la opción de edición de perfil. Para la cual deberá dar click a la foto de perfil para acceder a la información de usuario, y para editar esta información deberá dar click al botón “Personal Information”, una vez conforme con los cambios realizados el usuario deberá dar click a “Save” para guardar los cambios.
+
+Imagen
+
+User Goal: Como streamer deseo revisar mi receta médica.
+
+Descripción:
+
+En el presente Wireflow, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de prescripciones, dentro de la cual se realizan los filtros necesarios de ser el caso, y luego se selecciona la prescripción de interés, lo cual despliega su información en detalle.
+
+Imagen
+
+User Goal: Como streamer deseo ver noticias relacionadas con la salud.
+
+Descripción:
+
+En los presentes Wireflows se muestran las dos diferentes formas para realizar este User Goal. En el primero, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de noticias, dentro de la cual se realizan los filtros necesarios de ser el caso, y luego se selecciona la noticia que se desea leer. Finalmente, la noticia seleccionada se despliega y muestra toda la información disponible.
+
+Imagen
+
+En el segundo, el proceso comienza en la sección de Inicio de sesión para luego rellenar los datos de ingreso y ser llevado a la sección principal de la plataforma dentro de la cual se selecciona una de las noticias destacadas. Esto lleva al usuario a la noticia completa dónde se detalla toda la información.
+
+Imagen
+
+User Goal: Como streamer, deseo pagar una cita escogida previamente para poder llevar a cabo el encuentro con el medico
+
+Descripción:
+
+En el presente Wireflow, nos encontramos en la vista “Book your appointment”. Aquí, vemos distintas opciones con doctores y precios para solicitar una cita. Una vez escogida una, al hacer click en el botón “Go to payment” nos dirigimos a la vista “Make the payment”, en esta sección llenaremos los datos de la tarjeta con la que se realizara el pago. Una vez rellenada la información si se hace click en confirmar pago, se mostrará una ventana informando que el pago fue realizado correctamente.
+
+Imagen
+
+Segmento Objetivo profesionales de la salud
+
+User Goal: Como profesional de la salud, deseo iniciar sesión para ingresar a MediCare
+
+Descripción:
+
+En el presente Wireflow, se evidencia el flujo que seguirá el usuario profesional de la salud para poder iniciar sesión. Iniciará en el login, seleccionará la opción streamer e ingresará su DNI y contraseña, para poder ingresar a MediCare.
+
+Imagen
+
+User Goal: Como profesional de la salud deseo registrarme para ingresar a MediCare
+
+Descripción:
+
+En el presente Wireflow, se evidencia el flujo que seguirá el usuario profesional de la salud para poder registrarse. Iniciará en el login, seleccionará la opción profesional de la salud y luego seleccionará la opción Sign Up e ingresará sus datos necesarios para poder registrarse exitosamente.
+
+Imagen
+
+User Goal: Como profesional de la salud deseo cambiar mi contraseña
+
+Descripción:
+
+Al momento de iniciar sesión, se presentará una opción de olvide mi contraseña, cuando le de click, redireccionará al usuario a una nueva pantalla donde ingresará su email y su nueva contraseña.
+
+Imagen
+
+User Goal: Como profesional de la salud, deseo ver todas las ofertas de citas médicas que me han llegado para aceptar o rechazarlas.
+
+Descripción:
+
+En el presente Wireflow, nos encontramos en la vista “My appointments”, donde se muestra todas las citas médicas que han sido solicitadas al médico. Al dar click a una de ellas, el sistema lleva al médico a la vista detallada de la cita médica, dónde podrá ver la razón de la cita, archivos adjuntos, entre otros.
+
+Imagen
+
+User Goal: Como profesional de la salud, deseo agregar un nuevo registro al historial de mi streamer después de haberlo atendido para que la cita se quede registrada en su historial médico.
+
+Descripción:
+
+En el presente Wireflow, nos encontramos en la vista del Historial Médico de Dario Hernandez, un streamer en la aplicación web. Podemos visualizar sus datos personales, así como, todos los registros que han sido guardados cuándo se ha atendido con nosotros. A la derecha de los datos personales, se encuentra un ícono del signo más (+). Al dar click a este ícono, se abrirá una nueva vista para crear un nuevo registro. Después de llenar todos los datos explicando el problema y de qué trató la cita médica, se da click al botón “Save” para guardar el registro en el historial. Inmediatamente, el sistema muestra la vista del “Historial Médico”, con el nuevo ha sido añadido al inicio. Imagen
+
+Imagen
+
+User Goal: Como profesional deseo revisar mi perfil.
+
+Descripción:
+
+En este Wireflow, se visualiza el proceso que debe realizar el usuario profesional para poder visualizar correctamente su información de perfil. Para la cual solamente deberá dar click a su foto de perfil.
+
+Imagen
+
+User Goal: Como profesional deseo revisar mi perfil.
+
+Descripción:
+
+En este Wireflow, se visualiza el proceso que debe realizar el usuario profesional para poder acceder a la opción de edición de perfil. Para la cual deberá dar click a la foto de perfil para acceder a la información de usuario, y para editar esta información deberá dar click al botón “Edit”, una vez conforme con los cambios realizados el usuario deberá dar click a “Save” para guardar los cambios.
+
+Imagen
+
+User Goal: Como profesional de la salud deseo revisar mis ingresos de la plataforma.
+
+Descripción:
+
+En el presente Wireflow, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de ingresos, dentro de la cual se realizan los filtros necesarios de ser el caso, para luego visualizar un cuadro estadístico de sus ingresos y el historial de las transacciones.
+
+Imagen
+
+User Goal: Como profesional de la salud deseo ver noticias relacionadas con la salud.
+
+Descripción:
+
+En los presentes Wireflows se muestran las dos diferentes formas para realizar este User Goal.
+
+En el primero, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de noticias, dentro de la cual se realizan los filtros necesarios de ser el caso, y luego se selecciona la noticia que se desea leer. Finalmente, la noticia seleccionada se despliega y muestra toda la información disponible.
+
+Imagen
+
+En el segundo, el proceso comienza en la sección de Inicio de sesión para luego rellenar los datos de ingreso y ser llevado a la sección principal de la plataforma dentro de la cual se selecciona una de las noticias destacadas. Esto lleva al usuario a la noticia completa dónde se detalla toda la información.
+
+Imagen
 
 ### **4.4.3. Web Applications Mock-ups** 
 ### **4.4.4. Web Applications User Flow Diagrams** 
