@@ -362,8 +362,22 @@ Socialpubli es una empresa de publicidad social que pone en contacto a empresas 
 ## **4.1. Style Guidelines** 
 
 A continuación, se presentará un repositorio central y organizado que servirá como guía para el desarrollo enfocado y consistente de nuestra solución.
-
 ### **4.1.1. General Style Guidelines** 
+**Typography**
+La tipografía organiza el lenguaje visual de las plataformas, garantizando legibilidad y mejorando la experiencia del usuario. Por eso, se eligieron estos tipos de letra.
+**Head**
+Imagen
+**Body**
+Imagen
+**Colors**
+imagen
+**Spacing**
+imagen
+**Color Primario:**El azul como color primario transmite confianza, seguridad y profesionalismo, mientras que el blanco aporta simplicidad, pureza y limpieza, creando una combinación visual que inspira seriedad y accesibilidad en la plataforma.
+
+**Color Secundario:**Los colores secundarios (Beige, Antique White y Old Lace) añaden calidez, accesibilidad y elegancia al diseño, creando un ambiente acogedor y sofisticado que equilibra la seriedad de los colores principales.
+
+Los tonos de gris y negro se utilizan para aportar contraste, elegancia y una jerarquía visual clara al diseño del sitio web. Estos colores añaden sofisticación, resaltan elementos importantes y mantienen una estética profesional y moderna, ideal para una plataforma que conecta marcas con influencers.
 
 **Brand Overview**
 
@@ -378,11 +392,11 @@ A continuación, se presenta el logo o marca de nuestra solución propuesta.
 <img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/logo.JPG?raw=true" style="width: 100%;"/>
 
 
-
 ### **4.1.2. Web Style Guidelines** 
 Desarrollaremos una aplicación que se adapte perfectamente a cualquier dispositivo tecnológico sin comprometer el diseño del contenido. Para lograrlo, consideraremos las características de cada tipo de dispositivo, asegurando que el contenido esté estructurado de manera óptima para cada uno.
 
 ## **4.2. Information Architecture** 
+
 ### **4.2.1. Organization Systems** 
 ### **4.2.2. Labeling Systems** 
 ### **4.2.3. SEO Tags and Meta Tags** 
