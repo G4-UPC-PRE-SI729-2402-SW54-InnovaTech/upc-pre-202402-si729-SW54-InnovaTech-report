@@ -442,7 +442,7 @@ En este apartado se le mostrará los Meta Tags y los SEO tags que hemos utilizad
 ### **4.4.1. Web Applications Wireframes** 
 ### **4.4.2. Web Applications Wireflow Diagrams**
 
-Segmento Objetivo: Streamers
+Segmento Objetivo: Influencers (Streamers, Microinfluencers y Medianos Influencers)
 
 User Goal:
 Como usuario streamer, deseo iniciar sesión para ingresar a Connex.
@@ -506,129 +506,61 @@ En el presente Wireflow, nos encontramos en la vista “Available Dates”. Aqu�
 
 ![Imagen](assets/4.4.2 Web Applications Wireflow Diagrams. 10.png)
 
-User Goal: Como streamer deseo revisar mi perfil.
+User Goal: Como influencer, deseo iniciar sesión para ingresar a Connex.
+Descripción: En el presente wireflow, se evidencia el flujo que seguirá el usuario influencer para poder iniciar sesión. Comenzará en la pantalla de login, seleccionará la opción "Influencer" e ingresará su DNI y contraseña para acceder a Connex.
 
-Descripción:
+User Goal: Como influencer, deseo registrarme para ingresar a Connex.
+Descripción: En el presente wireflow, se muestra el flujo que seguirá el usuario influencer para registrarse. Comenzará en la pantalla de login, seleccionará la opción "Influencer", luego la opción "Sign Up" e ingresará los datos necesarios para completar su registro en Connex.
 
-En este Wireflow, se visualiza el proceso que debe realizar el usuario streamer para poder visualizar correctamente su información de perfil. Para la cual solamente deberá dar click a su foto de perfil.
+User Goal: Como influencer, deseo cambiar mi contraseña.
+Descripción: Al momento de iniciar sesión, se presentará la opción "Olvidé mi Contraseña". Al hacer clic, el usuario será redirigido a una nueva pantalla donde ingresará su email y su nueva contraseña.
 
-Imagen
+User Goal: Como influencer, deseo visualizar mi historial de contratos con empresas medianas.
+Descripción: En este wireflow, se presenta el camino que deberá seguir el usuario influencer para visualizar su historial de contratos dentro de la plataforma. Se iniciará desde la pantalla principal, donde seleccionará su perfil y finalmente elegirá la opción "Contracts History" para ver el historial de contratos en Connex.
 
-User Goal: Como streamer deseo editar mi información de perfil.
+User Goal: Como influencer, deseo subir mi historial de interacción en redes sociales.
+Descripción: En este wireflow, se muestra el flujo que seguirá el usuario influencer para subir su historial de interacción en la plataforma. Desde la pantalla de inicio, irá a su perfil, seleccionará “Interaction History” y subirá el archivo correspondiente en PDF. Luego podrá visualizar el historial adjuntado en Connex.
 
-Descripción:
+User Goal: Como influencer, deseo visualizar el perfil de una empresa mediana.
+Descripción: En el presente wireflow, se muestra el proceso que seguirá el usuario influencer para ver el perfil de una empresa mediana. Desde la pantalla principal, accederá a la sección de empresas medianas, seleccionará la empresa de su interés para visualizar su perfil.
 
-En este Wireflow, se visualiza el proceso que debe realizar el usuario streamer para poder acceder a la opción de edición de perfil. Para la cual deberá dar click a la foto de perfil para acceder a la información de usuario, y para editar esta información deberá dar click al botón “Personal Information”, una vez conforme con los cambios realizados el usuario deberá dar click a “Save” para guardar los cambios.
+User Goal: Como influencer, deseo ver las reseñas de una empresa mediana.
+Descripción: En este wireflow, se muestra el flujo para que el usuario influencer visualice reseñas de una empresa mediana. Desde la pantalla principal, selecciona la empresa de interés y accede a la opción "See Reviews" para leer las reseñas disponibles.
 
-Imagen
+User Goal: Como influencer, deseo publicar una nueva reseña a una empresa mediana.
+Descripción: En este wireflow, se evidencia el flujo para que el usuario influencer publique una reseña sobre una empresa mediana. Desde la pantalla principal, ingresa al perfil de la empresa, accede a la sección de reseñas y selecciona “Publish Review” para redactar y publicar su reseña.
 
-User Goal: Como streamer deseo revisar mi receta médica.
+User Goal: Como influencer, deseo revisar mi perfil.
+Descripción: En este wireflow, se visualiza el proceso para que el usuario influencer revise su perfil. Solo deberá hacer clic en su foto de perfil para acceder a su información.
 
-Descripción:
+User Goal: Como influencer, deseo editar mi información de perfil.
+Descripción: En este wireflow, se presenta el proceso para que el usuario influencer edite su información de perfil. Accederá desde su foto de perfil, seleccionará “Edit Profile”, realizará los cambios necesarios y luego presionará “Save” para guardar los cambios.
 
-En el presente Wireflow, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de prescripciones, dentro de la cual se realizan los filtros necesarios de ser el caso, y luego se selecciona la prescripción de interés, lo cual despliega su información en detalle.
+User Goal: Como influencer, deseo revisar mis ingresos en la plataforma.
+Descripción: En el presente wireflow, el usuario influencer ingresará a la sección principal, luego a la sección de ingresos donde podrá aplicar filtros para visualizar un cuadro estadístico de sus ingresos y el historial de transacciones.
 
-Imagen
+Segmento Objetivo: Empresas Medianas
 
-User Goal: Como streamer deseo ver noticias relacionadas con la salud.
+User Goal: Como empresa mediana, deseo iniciar sesión para ingresar a Connex.
+Descripción: En este wireflow, se evidencia el flujo que seguirá el usuario empresa para iniciar sesión en Connex. Comenzará en la pantalla de login, seleccionará la opción "Empresa" e ingresará su RUC y contraseña para acceder a la plataforma.
 
-Descripción:
+User Goal: Como empresa mediana, deseo registrarme para ingresar a Connex.
+Descripción: Este wireflow muestra el flujo que seguirá el usuario empresa para registrarse en Connex. Comenzará en la pantalla de login, seleccionará la opción "Empresa" y luego la opción "Sign Up". A continuación, ingresará los datos necesarios, como RUC, nombre de la empresa, y otros detalles, para completar su registro exitosamente.
 
-En los presentes Wireflows se muestran las dos diferentes formas para realizar este User Goal. En el primero, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de noticias, dentro de la cual se realizan los filtros necesarios de ser el caso, y luego se selecciona la noticia que se desea leer. Finalmente, la noticia seleccionada se despliega y muestra toda la información disponible.
+User Goal: Como empresa mediana, deseo cambiar mi contraseña.
+Descripción: Al momento de iniciar sesión, se presentará la opción "Olvidé mi Contraseña". Al hacer clic en esta opción, el usuario será redirigido a una nueva pantalla donde ingresará su email registrado y establecerá una nueva contraseña.
 
-Imagen
+User Goal: Como empresa mediana, deseo buscar y visualizar perfiles de influencers.
+Descripción: En este wireflow, se muestra el proceso que seguirá la empresa para buscar y visualizar perfiles de influencers dentro de Connex. Desde la pantalla principal, la empresa seleccionará la sección de "Buscar Influencers", aplicará filtros según sus necesidades (como categoría, seguidores, etc.), y luego podrá ver los perfiles detallados de los influencers disponibles.
 
-En el segundo, el proceso comienza en la sección de Inicio de sesión para luego rellenar los datos de ingreso y ser llevado a la sección principal de la plataforma dentro de la cual se selecciona una de las noticias destacadas. Esto lleva al usuario a la noticia completa dónde se detalla toda la información.
+User Goal: Como empresa mediana, deseo gestionar mis contratos con influencers.
+Descripción: Este wireflow detalla el flujo que seguirá el usuario empresa para gestionar sus contratos en Connex. Desde la pantalla principal, la empresa accederá a la sección "Mis Contratos", donde podrá ver el listado de contratos activos, en negociación, y completados, así como gestionar términos y condiciones de cada contrato.
 
-Imagen
+User Goal: Como empresa mediana, deseo visualizar reseñas de influencers.
+Descripción: En este wireflow, se presenta el camino que deberá seguir la empresa para visualizar reseñas de los influencers con los que ha trabajado. Desde su panel principal, accederá a "Reseñas de Influencers", donde podrá ver todas las reseñas, aplicar filtros, y evaluar el feedback para futuras colaboraciones.
 
-User Goal: Como streamer, deseo pagar una cita escogida previamente para poder llevar a cabo el encuentro con el medico
-
-Descripción:
-
-En el presente Wireflow, nos encontramos en la vista “Book your appointment”. Aquí, vemos distintas opciones con doctores y precios para solicitar una cita. Una vez escogida una, al hacer click en el botón “Go to payment” nos dirigimos a la vista “Make the payment”, en esta sección llenaremos los datos de la tarjeta con la que se realizara el pago. Una vez rellenada la información si se hace click en confirmar pago, se mostrará una ventana informando que el pago fue realizado correctamente.
-
-Imagen
-
-Segmento Objetivo empresas medianas
-
-User Goal: Como profesional de la salud, deseo iniciar sesión para ingresar a MediCare
-
-Descripción:
-
-En el presente Wireflow, se evidencia el flujo que seguirá el usuario profesional de la salud para poder iniciar sesión. Iniciará en el login, seleccionará la opción streamer e ingresará su DNI y contraseña, para poder ingresar a MediCare.
-
-Imagen
-
-User Goal: Como profesional de la salud deseo registrarme para ingresar a MediCare
-
-Descripción:
-
-En el presente Wireflow, se evidencia el flujo que seguirá el usuario profesional de la salud para poder registrarse. Iniciará en el login, seleccionará la opción profesional de la salud y luego seleccionará la opción Sign Up e ingresará sus datos necesarios para poder registrarse exitosamente.
-
-Imagen
-
-User Goal: Como profesional de la salud deseo cambiar mi contraseña
-
-Descripción:
-
-Al momento de iniciar sesión, se presentará una opción de olvide mi contraseña, cuando le de click, redireccionará al usuario a una nueva pantalla donde ingresará su email y su nueva contraseña.
-
-Imagen
-
-User Goal: Como profesional de la salud, deseo ver todas las ofertas de citas médicas que me han llegado para aceptar o rechazarlas.
-
-Descripción:
-
-En el presente Wireflow, nos encontramos en la vista “My appointments”, donde se muestra todas las citas médicas que han sido solicitadas al médico. Al dar click a una de ellas, el sistema lleva al médico a la vista detallada de la cita médica, dónde podrá ver la razón de la cita, archivos adjuntos, entre otros.
-
-Imagen
-
-User Goal: Como profesional de la salud, deseo agregar un nuevo registro al historial de mi streamer después de haberlo atendido para que la cita se quede registrada en su historial médico.
-
-Descripción:
-
-En el presente Wireflow, nos encontramos en la vista del Historial Médico de Dario Hernandez, un streamer en la aplicación web. Podemos visualizar sus datos personales, así como, todos los registros que han sido guardados cuándo se ha atendido con nosotros. A la derecha de los datos personales, se encuentra un ícono del signo más (+). Al dar click a este ícono, se abrirá una nueva vista para crear un nuevo registro. Después de llenar todos los datos explicando el problema y de qué trató la cita médica, se da click al botón “Save” para guardar el registro en el historial. Inmediatamente, el sistema muestra la vista del “Historial Médico”, con el nuevo ha sido añadido al inicio. Imagen
-
-Imagen
-
-User Goal: Como profesional deseo revisar mi perfil.
-
-Descripción:
-
-En este Wireflow, se visualiza el proceso que debe realizar el usuario profesional para poder visualizar correctamente su información de perfil. Para la cual solamente deberá dar click a su foto de perfil.
-
-Imagen
-
-User Goal: Como profesional deseo revisar mi perfil.
-
-Descripción:
-
-En este Wireflow, se visualiza el proceso que debe realizar el usuario profesional para poder acceder a la opción de edición de perfil. Para la cual deberá dar click a la foto de perfil para acceder a la información de usuario, y para editar esta información deberá dar click al botón “Edit”, una vez conforme con los cambios realizados el usuario deberá dar click a “Save” para guardar los cambios.
-
-Imagen
-
-User Goal: Como profesional de la salud deseo revisar mis ingresos de la plataforma.
-
-Descripción:
-
-En el presente Wireflow, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de ingresos, dentro de la cual se realizan los filtros necesarios de ser el caso, para luego visualizar un cuadro estadístico de sus ingresos y el historial de las transacciones.
-
-Imagen
-
-User Goal: Como profesional de la salud deseo ver noticias relacionadas con la salud.
-
-Descripción:
-
-En los presentes Wireflows se muestran las dos diferentes formas para realizar este User Goal.
-
-En el primero, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de noticias, dentro de la cual se realizan los filtros necesarios de ser el caso, y luego se selecciona la noticia que se desea leer. Finalmente, la noticia seleccionada se despliega y muestra toda la información disponible.
-
-Imagen
-
-En el segundo, el proceso comienza en la sección de Inicio de sesión para luego rellenar los datos de ingreso y ser llevado a la sección principal de la plataforma dentro de la cual se selecciona una de las noticias destacadas. Esto lleva al usuario a la noticia completa dónde se detalla toda la información.
-
-Imagen
+User Goal: Como empresa mediana, deseo publicar una reseña sobre un influencer.
+Descripción: En este wireflow, se detalla cómo la empresa puede publicar una reseña sobre un influencer con el que ha colaborado. Desde la pantalla principal, la empresa seleccionará el perfil del influencer, accederá a la sección de reseñas y utilizará la opción "Publicar Reseña" para escribir y enviar su opinión.
 
 ### **4.4.3. Web Applications Mock-ups** 
 
