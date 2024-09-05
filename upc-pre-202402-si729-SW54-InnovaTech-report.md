@@ -703,15 +703,15 @@ Imagen
 
 ### **4.6.1. Software Architecture Context Diagram** 
 
-![](Assets/diagrama_de_contexto.png)
+![](Assets/diagramaC4_contexto.png)
 
 ### **4.6.2. Software Architecture Container Diagrams** 
 
-![](Assets/diagrama_de_contenedores.png)
+![](Assets/diagramaC4_contenedores.png)
 
 ### **4.6.3. Software Architecture Components Diagrams** 
 
-![](Assets/diagrama_de_componentes.png)
+![](Assets/diagramaC4_componentes.png)
 
 ## **4.7. Software Object-Oriented Design** 
 ### **4.7.1. Class Diagrams** 
