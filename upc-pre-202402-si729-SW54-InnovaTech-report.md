@@ -579,123 +579,57 @@ Link:
 
 ### **4.4.4. Web Applications User Flow Diagrams** 
 
-Segmento Objetivo familiares de pacientes o pacientes
+Segmento Objetivo: Streamers
 
-User Goal: Como paciente, deseo iniciar sesión
+User Goal: Como streamer, deseo iniciar sesión para ingresar a Connex.
+Descripción: En este wireflow, se evidencia el flujo que seguirá el streamer para iniciar sesión en Connex. Comenzará en la pantalla de login, seleccionará la opción "Streamer" e ingresará su correo electrónico y contraseña. Si los datos son correctos, podrá acceder a la plataforma; de lo contrario, se mostrarán mensajes de alerta indicando errores en el inicio de sesión.
 
-En el presente Wireflow, se evidencia el flujo que seguirá el usuario paciente para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su DNI y contraseña correctamente, para poder ingresar a MediCare, de lo contrario se mostrarán mensajes de alerta.
+User Goal: Como streamer, deseo registrarme para ingresar a Connex.
+Descripción: Durante el registro, el streamer deberá ingresar sus datos, como nombre de usuario, correo electrónico y contraseña. Si se ingresan datos no válidos, se mostrarán alertas indicando los errores que deben corregirse. Al completar correctamente el formulario, se mostrará una pantalla de confirmación que indicará que el registro fue exitoso y se podrá proceder a iniciar sesión.
 
-Imagen
+User Goal: Como streamer, deseo subir y gestionar mi historial de interacción en redes sociales.
+Descripción: En este wireflow, se presenta el flujo que seguirá el streamer para subir y gestionar su historial de interacción dentro de Connex. Desde la pantalla principal, accederá a su perfil y seleccionará la opción "Historial de Interacción". Podrá subir archivos en formato PDF que contengan datos sobre su rendimiento en redes sociales. Si el archivo no es compatible, se mostrará un mensaje de error.
 
-User Goal: Como paciente deseo registrarme para ingresar a MediCare
+User Goal: Como streamer, deseo visualizar mi historial de contratos con empresas.
+Descripción: En este wireflow, el streamer puede acceder a su historial de contratos desde su perfil. Desde la pantalla de inicio, seleccionará "Historial de Contratos" para ver los detalles de colaboraciones pasadas y actuales con empresas. Esta vista permite al streamer revisar términos, fechas y estados de sus contratos, facilitando la gestión de sus compromisos.
 
-Al momento de iniciar el registro, el usuario deberá ingresar todos los datos que se le solicita como su DNI, nombre, apellidos, email, y su respectiva contraseña. Si ingresa caracteres no permitidos o datos que no sean válidos, se mostraran textos de alerta, de los puntos a corregir. Si ingresa todos sus datos correctamente, se mostrará una nueva pantalla con su registro exitoso y podrá iniciar sesión.
+User Goal: Como streamer, deseo explorar y aplicar a oportunidades de colaboración con empresas.
+Descripción: En este wireflow, el streamer accede a la sección de "Oportunidades" para explorar posibles colaboraciones con empresas. Puede aplicar filtros según sus intereses y aplicar a las oportunidades que se alineen con sus objetivos. Desde esta vista, también podrá enviar propuestas y comunicarse con las empresas interesadas en sus servicios.
 
-Imagen
+User Goal: Como streamer, deseo ver y editar mi perfil en Connex.
+Descripción: Este wireflow detalla cómo los streamers pueden acceder y modificar su perfil. Desde la página principal, el streamer hace clic en su foto de perfil y accede a "Información Personal". Puede revisar y editar los datos, como su biografía y enlaces a redes sociales, y debe hacer clic en "Guardar" para aplicar los cambios. Si decide no hacer modificaciones, puede salir sin guardar.
 
-User Goal: Como paciente, deseo ver las fechas disponibles en las que puedo atenderme con un doctor para agendar una cita.
+User Goal: Como streamer, deseo recibir notificaciones sobre nuevas oportunidades y actividad en la plataforma.
+Descripción: En este wireflow, el streamer configura sus preferencias de notificación desde su perfil. Puede optar por recibir alertas sobre nuevas colaboraciones, mensajes de empresas y actualizaciones de la plataforma. Las notificaciones se envían en tiempo real para mantener al streamer informado y ayudarle a gestionar sus oportunidades de manera eficiente.
 
-Descripción:
+Segmento Objetivo: Influencers y Empresas Medianas
+User Goal: Como usuario (influencer o empresa mediana), deseo iniciar sesión para ingresar a Connex.
+Descripción: En este wireflow, se muestra el flujo que seguirá el usuario para iniciar sesión en Connex. Comenzará en la pantalla de login, seleccionará su rol (Influencer o Empresa) e ingresará su correo electrónico y contraseña. Si los datos son correctos, podrá acceder a la plataforma; de lo contrario, se mostrarán mensajes de alerta indicando errores en el inicio de sesión.
 
-En el presente Wireflow, nos encontramos en la vista “Available Dates”. Aquí, vemos un calendario, donde las fechas pintadas de un color más oscuro significan que están disponibles. Al hacer click a una de ellas, me muestra, todas las horas disponibles de citas para ese día. Si el usuario da click a una fecha que no está disponible, el sistema le mostrará un mensaje de advertencia, diciéndole que esa fecha no se encuentra disponible.
+User Goal: Como usuario (influencer o empresa mediana), deseo registrarme para ingresar a Connex.
+Descripción: Al momento de iniciar el registro, el usuario deberá ingresar todos los datos solicitados, como nombre, correo electrónico, y una contraseña segura. Si se ingresan caracteres no permitidos o datos no válidos, se mostrarán alertas para corregir los errores. Si los datos son correctos, se mostrará una pantalla de confirmación indicando que el registro fue exitoso y se podrá iniciar sesión.
 
-Imagen
+User Goal: Como influencer, deseo ver y seleccionar fechas disponibles para colaborar con una empresa.
+Descripción: En este wireflow, el usuario influencer accede a la vista de "Fechas Disponibles". Aquí, se muestra un calendario con las fechas resaltadas en color más oscuro para indicar disponibilidad. Al seleccionar una fecha disponible, se muestran las horas y opciones para agendar una colaboración. Si una fecha no está disponible, se notificará al usuario mediante un mensaje de advertencia.
 
-User Goal: Como paciente deseo visualizar mi historial médico
+User Goal: Como usuario, deseo visualizar mi historial de interacciones y contratos en Connex.
+Descripción: Este wireflow detalla el flujo que seguirá el usuario para visualizar su historial dentro de la plataforma. Desde la pantalla principal, seleccionará la opción "Historial" desde su perfil. Si el historial ya está disponible, se mostrará la lista completa de interacciones y contratos. Si no hay historial adjunto, se dará la opción de subir nuevos documentos, aceptando solo formatos PDF para evitar errores.
 
-Descripción:
+User Goal: Como empresa mediana, deseo buscar influencers y agendar colaboraciones.
+Descripción: En este wireflow, la empresa accede a la vista de "Buscar Influencers", donde puede aplicar filtros según sus necesidades (como categoría o número de seguidores). Tras seleccionar un influencer, podrá agendar una colaboración y proceder al pago. En la vista "Realizar Pago", se ingresan los datos de la tarjeta y, tras confirmar, se notifica si el pago fue exitoso o si hubo algún problema.
 
-En el presente UserFlow, se presenta el camino que deberá seguir el usuario paciente para poder visualizar su historial médico dentro de la plataforma. Se comenzará desde la pantalla de inicio, donde se seleccionará el perfil del usuario, finalmente se elegirá la opción de “Medical History”. A este punto se presentan dos posibles escenarios. El primero, cuando ya se ha subido el historial y este se mostrará. El segundo, donde aún no se ha adjuntado el historial y se presentará la opción de subirlo. Esta última acción puede resultar con éxito o no dependiendo del tipo de archivo cargado por el usuario, si este es PDF la operación será correcta, de otro modo saldrá un mensaje de error.
+User Goal: Como usuario, deseo publicar una reseña sobre un colaborador en Connex.
+Descripción: Este wireflow muestra el proceso para que los usuarios (influencers o empresas) publiquen reseñas sobre sus colaboradores. Desde el perfil del colaborador, se accede a "Ver Reseñas" y se puede añadir una nueva reseña. Si ya existen reseñas, se mostrarán en una lista; de lo contrario, un mensaje indicará la ausencia de reseñas. Tras redactar y publicar la reseña, se mostrará una confirmación de que la reseña ha sido añadida.
 
-Imagen
+User Goal: Como usuario, deseo ver y editar mi perfil en Connex.
+Descripción: Este wireflow detalla cómo los usuarios pueden acceder y modificar su perfil. Desde la página principal, el usuario hace clic en su foto de perfil y accede a "Información Personal". Puede revisar y editar los datos, y debe hacer clic en "Guardar" para aplicar los cambios. Si decide no hacer modificaciones, puede salir sin guardar.
 
-User Goal: Como paciente, deseo ver las fechas disponibles en las que puedo atenderme con un doctor para agendarla
+User Goal: Como usuario, deseo revisar métricas y resultados de mis interacciones en Connex.
+Descripción: En este wireflow, el usuario accede a la sección de "Métricas", donde puede ver estadísticas sobre sus interacciones, campañas y reseñas recibidas. Si no hay suficientes datos para mostrar, se notificará al usuario sobre la falta de información disponible. Esta vista permite a los usuarios evaluar su desempeño y ajustar sus estrategias de colaboración en la plataforma.
 
-Descripción:
+User Goal: Como usuario, deseo ver noticias y actualizaciones relevantes en Connex.
+Descripción: En este wireflow, los usuarios pueden acceder a la sección de "Noticias", donde se les muestran las últimas actualizaciones y contenido relevante para influencers y empresas. Si la sección de noticias está en mantenimiento o no hay contenido disponible, se mostrará un mensaje indicando que pronto habrá nuevas noticias disponibles para su visualización.
 
-En el presente UserFlow, nos encontramos en la vista “Book your appointment”. Aquí, vemos distintas opciones con doctores y precios para solicitar una cita. Una vez escogida una, al hacer click en el botón “Go to payment” nos dirigimos a la vista “Make the payment”, en esta sección llenaremos los datos de la tarjeta con la que se realizara el pago. Una vez rellenada la información si se hace click en confirmar pago, si no hay problemas con el pago, se mostrara una ventana informando que el pago fue realizado correctamente, en caso contrario, se mostrara una ventana indicando que hubo un error.
-
-Imagen
-
-User Goal: Como paciente deseo publicar una reseña a una empresa mediana
-
-Descripción:
-
-En el presente UserFlow, se presenta el camino que deberá seguir el usuario paciente para poder añadir una reseña a una empresa mediana. Se empezará desde la pantalla inicial, donde se dirigirá al perfil del doctor. Al momento de entrar al apartado de reseñas mediante “See Reviews”, se presentarán dos posibles escenarios, uno en el que el médico cuenta con reseñas previas y se presentarán en una lista, y otro en el que no presenta aún ni una reseña y saldrá un mensaje que indica este hecho. En ambos casos, se presentará la opción de publicar una nueva con lo que saldrá el formulario de reseñas. Una vez se selecciona publicar la reseña saldrá un mensaje de confirmación.
-
-Imagen
-
-User Goal: Como paciente deseo ver mi perfil de usuario a detalle
-
-En este UserFlow, se visualiza el proceso que debe realizar el usuario paciente para poder acceder a la información de perfil a detalle. Para la cual deberá dar click a la foto de perfil para acceder a la información de usuario, y para ver y/o editar esta información deberá dar click al botón “Personal Information”, una vez ingresado, el usuario puede visualizar toda la información a detalle registrada, y en caso desee editar esta información deberá darle al botón “Save” para guardar los cambios, caso contrario solamente deberá dar click al botón de retroceso para salir de la información de perfil sin guardar ningún cambio.
-
-Imagen
-
-User Goal: Como paciente deseo revisar mi receta médica.
-
-En el presente User Flow, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de prescripciones, dentro de la cual se realizan los filtros necesarios de ser el caso, y luego se selecciona la prescripción de interés, lo cual despliega su información en detalle. Sin embargo, se puede dar el caso de que aún no se haya realizado la primera prescripción dentro de nuestra plataforma, en ese caso se le mostrará un mensaje al usuario de que aún no hay prescripciones disponibles.
-
-Imagen
-
-User Goal: Como paciente deseo ver noticias relacionadas con la salud.
-
-En los presentes User Flows se muestran las dos diferentes formas para realizar este User Goal. En el primero, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de noticias, dentro de la cual se realizan los filtros necesarios de ser el caso, y luego se selecciona la noticia que se desea leer. Finalmente, la noticia seleccionada se despliega y muestra toda la información disponible. Por otro lado, hay la posibilidad de que la sección de noticias esté en mantenimiento. En ese caso se le mostrará un mensaje al usuario de que pronto habrá noticias disponibles.
-
-Imagen
-
-En el segundo, el proceso comienza en la sección de Inicio de sesión para luego rellenar los datos de ingreso y ser llevado a la sección principal de la plataforma dentro de la cual se selecciona una de las noticias destacadas. Esto lleva al usuario a la noticia completa dónde se detalla toda la información. Por otro lado, hay la posibilidad de que no haya noticias recomendadas, ya que la sección puede estar en mantenimiento. En esos casos se le mostrará un mensaje al usuario de que pronto habrá noticias disponibles.
-
-Imagen
-
-Segmento Objetivo empresas medianas
-
-User Goal: Como empresas medianas, deseo iniciar sesión
-
-En el presente Wireflow, se evidencia el flujo que seguirá el usuario empresas medianas para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su DNI y contraseña correctamente, para poder ingresar a MediCare, de lo contrario se mostrarán mensajes de alerta.
-
-Imagen
-
-User Goal: Como empresas medianas deseo registrarme para ingresar a MediCare
-
-Al momento de iniciar el registro, el usuario deberá ingresar todos los datos que se le solicita como su DNI, nombre, apellidos, email, y su respectiva contraseña. Si ingresa caracteres no permitidos o datos que no sean válidos, se mostraran textos de alerta, de los puntos a corregir. Si ingresa todos sus datos correctamente, se mostrará una nueva pantalla con su registro exitoso y podrá iniciar sesión.
-
-Imagen
-
-User Goal: Como profesional de la salud, deseo agregar un nuevo registro al historial de mi paciente después de haberlo atendido para que la cita se quede registrada en su historial médico.
-
-Descripción
-
-En el presente Wireflow, nos encontramos en la vista del Historial Médico de un paciente. A la derecha de los datos personales, se encuentra un ícono del signo más (+). Al dar click a este ícono, se abrirá una nueva vista para crear un nuevo registro. Después de llenar todos los datos y dar click al botón “Save”, se guardará el registro en el historial. Inmediatamente, el sistema muestra la vista del “Historial Médico”, con el nuevo ha sido añadido al inicio. Si no se completa todos los campos y se da click al botón “Save”, se mostrará una advertencia y se le mostrará el registro en edición de nuevo.
-
-Imagen
-
-User Goal: Como profesional deseo editar mi información de perfil
-
-En este UserFlow, se visualiza el proceso que debe realizar el usuario profesional para poder acceder a la información de perfil y editarla si es que se desea. Para la cual deberá dar click a la foto de perfil para acceder a la información de usuario, y para ver y/o editar esta información a detalle deberá dar click al botón “Edit”, una vez ingresado, el usuario puede visualizar toda la información a detalle registrada, y en caso desee editar esta información deberá darle al botón “Save” para guardar los cambios, caso contrario solamente deberá dar click al botón de retroceso para salir de la información de perfil sin guardar ningún cambio.
-
-Imagen
-
-User Goal: Como profesional deseo visualizar mis reseñas
-
-En este UserFlow, se visualiza el proceso que debe realizar el usuario profesional para poder acceder a las reseñas que ha recibido por su servicio. Para la cual deberá dar click a la foto de perfil para acceder a la información de usuario, y desde esta vista se puede visualizar las reseñas recientes, pero en caso se deseen visualizar todas a más detalle el usuario deberá dar click al botón “More”, en caso el usuario aún no tenga ninguna reseña se mostrará una ventana con un mensaje notificándolo, caso contrario se visualizarán todas las reseñas disponibles realizadas.
-
-Imagen
-
-User Goal: Como profesional de la salud deseo revisar mis ingresos de la plataforma.
-
-En el presente Wireflow, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de ingresos, dentro de la cual se realizan los filtros necesarios de ser el caso, para luego visualizar un cuadro estadístico de sus ingresos y el historial de las transacciones. Sin embargo, si aún no han recibido ninguna transacción entonces el cuadro estadístico no mostrará ninguna medición y el historial estará vacío.
-
-Imagen
-
-User Goal: Como profesional de la salud deseo ver noticias relacionadas con la salud.
-
-En los presentes User Flows se muestran las dos diferentes formas para realizar este User Goal. En el primero, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de noticias, dentro de la cual se realizan los filtros necesarios de ser el caso, y luego se selecciona la noticia que se desea leer. Finalmente, la noticia seleccionada se despliega y muestra toda la información disponible. Por otro lado, hay la posibilidad de que la sección de noticias esté en mantenimiento. En ese caso se le mostrará un mensaje al usuario de que pronto habrá noticias disponibles.
-
-Imagen
-
-En el segundo, el proceso comienza en la sección de Inicio de sesión para luego rellenar los datos de ingreso y ser llevado a la sección principal de la plataforma dentro de la cual se selecciona una de las noticias destacadas. Esto lleva al usuario a la noticia completa dónde se detalla toda la información. Por otro lado, hay la posibilidad de que no haya noticias recomendadas, ya que la sección puede estar en mantenimiento. En esos casos se le mostrará un mensaje al usuario de que pronto habrá noticias disponibles.
-
-Imagen
 
 ## **4.5. Web Applications Prototyping** 
 
