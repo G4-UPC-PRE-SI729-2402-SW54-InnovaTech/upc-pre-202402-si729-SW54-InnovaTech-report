@@ -451,27 +451,27 @@ En el presente Wireflow, se presenta el camino que deberá seguir el usuario str
 
 ![](Assets/webpage/4.4.2 Web Applications Wireflow Diagrams. 5.png)
 
-User Goal: Como streamer deseo visualizar el perfil de un profesional de la salud
+User Goal: Como streamer deseo visualizar el perfil de una empresa mediana
 
 Descripción:
 
-En el presente Wireflow, se presenta el camino que deberá seguir el usuario streamer para poder visualizar el perfil de un doctor. Se empezará desde la pantalla de inicio, luego se dirigirá a la sección de profesionales de la salud y, con ello, se mostrarán los distintos médicos disponibles, se seleccionará el de su preferencia para ver su perfil de MediCare.
+En el presente Wireflow, se presenta el camino que deberá seguir el usuario streamer para poder visualizar el perfil de un doctor. Se empezará desde la pantalla de inicio, luego se dirigirá a la sección de empresas medianas y, con ello, se mostrarán los distintos médicos disponibles, se seleccionará el de su preferencia para ver su perfil de MediCare.
 
 Imagen
 
-User Goal: Como streamer deseo ver las reseñas de un profesional de la salud
+User Goal: Como streamer deseo ver las reseñas de una empresa mediana
 
 Descripción:
 
-En el presente Wireflow, se presenta el camino que deberá seguir el usuario streamer para poder visualizar las reseñas de un profesional de la salud. Se empezará desde la pantalla inicial, luego selecciona a un médico desde la sección de profesionales de la salud. Después, se ingresa al perfil del doctor seleccionado y se entrará al apartado de reseñas desde la opción “See Reviews”.
+En el presente Wireflow, se presenta el camino que deberá seguir el usuario streamer para poder visualizar las reseñas de una empresa mediana. Se empezará desde la pantalla inicial, luego selecciona a un médico desde la sección de empresas medianas. Después, se ingresa al perfil del doctor seleccionado y se entrará al apartado de reseñas desde la opción “See Reviews”.
 
 Imagen Imagen
 
-User Goal: Como streamer deseo publicar una nueva reseña a un profesional de la salud
+User Goal: Como streamer deseo publicar una nueva reseña a una empresa mediana
 
 Descripción:
 
-En el presente Wireflow, se presenta el camino que deberá seguir el usuario streamer para poder escribir una reseña a un profesional de la salud. Se empezará desde la pantalla inicial, después se ingresará al perfil del médico a reseñar. Luego, se entrará a través de “See reviews” al apartado de reseñas, en donde se seleccionará “Publish Review” para comenzar a escribir la reseña. Por último, se presionará “Publish” para publicarla y se brindará un mensaje de confirmación.
+En el presente Wireflow, se presenta el camino que deberá seguir el usuario streamer para poder escribir una reseña a una empresa mediana. Se empezará desde la pantalla inicial, después se ingresará al perfil del médico a reseñar. Luego, se entrará a través de “See reviews” al apartado de reseñas, en donde se seleccionará “Publish Review” para comenzar a escribir la reseña. Por último, se presionará “Publish” para publicarla y se brindará un mensaje de confirmación.
 
 Imagen
 
@@ -527,7 +527,7 @@ En el presente Wireflow, nos encontramos en la vista “Book your appointment”
 
 Imagen
 
-Segmento Objetivo profesionales de la salud
+Segmento Objetivo empresas medianas
 
 User Goal: Como profesional de la salud, deseo iniciar sesión para ingresar a MediCare
 
@@ -608,7 +608,139 @@ En el segundo, el proceso comienza en la sección de Inicio de sesión para lueg
 Imagen
 
 ### **4.4.3. Web Applications Mock-ups** 
+
+Segmento Objetivo Streamers
+
+Imagen
+
+Link:
+
+
+Segmento Objetivo Medianas Empresas
+
+Imagen
+
+Link:
+
 ### **4.4.4. Web Applications User Flow Diagrams** 
+
+Segmento Objetivo familiares de pacientes o pacientes
+
+User Goal: Como paciente, deseo iniciar sesión
+
+En el presente Wireflow, se evidencia el flujo que seguirá el usuario paciente para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su DNI y contraseña correctamente, para poder ingresar a MediCare, de lo contrario se mostrarán mensajes de alerta.
+
+Imagen
+
+User Goal: Como paciente deseo registrarme para ingresar a MediCare
+
+Al momento de iniciar el registro, el usuario deberá ingresar todos los datos que se le solicita como su DNI, nombre, apellidos, email, y su respectiva contraseña. Si ingresa caracteres no permitidos o datos que no sean válidos, se mostraran textos de alerta, de los puntos a corregir. Si ingresa todos sus datos correctamente, se mostrará una nueva pantalla con su registro exitoso y podrá iniciar sesión.
+
+Imagen
+
+User Goal: Como paciente, deseo ver las fechas disponibles en las que puedo atenderme con un doctor para agendar una cita.
+
+Descripción:
+
+En el presente Wireflow, nos encontramos en la vista “Available Dates”. Aquí, vemos un calendario, donde las fechas pintadas de un color más oscuro significan que están disponibles. Al hacer click a una de ellas, me muestra, todas las horas disponibles de citas para ese día. Si el usuario da click a una fecha que no está disponible, el sistema le mostrará un mensaje de advertencia, diciéndole que esa fecha no se encuentra disponible.
+
+Imagen
+
+User Goal: Como paciente deseo visualizar mi historial médico
+
+Descripción:
+
+En el presente UserFlow, se presenta el camino que deberá seguir el usuario paciente para poder visualizar su historial médico dentro de la plataforma. Se comenzará desde la pantalla de inicio, donde se seleccionará el perfil del usuario, finalmente se elegirá la opción de “Medical History”. A este punto se presentan dos posibles escenarios. El primero, cuando ya se ha subido el historial y este se mostrará. El segundo, donde aún no se ha adjuntado el historial y se presentará la opción de subirlo. Esta última acción puede resultar con éxito o no dependiendo del tipo de archivo cargado por el usuario, si este es PDF la operación será correcta, de otro modo saldrá un mensaje de error.
+
+Imagen
+
+User Goal: Como paciente, deseo ver las fechas disponibles en las que puedo atenderme con un doctor para agendarla
+
+Descripción:
+
+En el presente UserFlow, nos encontramos en la vista “Book your appointment”. Aquí, vemos distintas opciones con doctores y precios para solicitar una cita. Una vez escogida una, al hacer click en el botón “Go to payment” nos dirigimos a la vista “Make the payment”, en esta sección llenaremos los datos de la tarjeta con la que se realizara el pago. Una vez rellenada la información si se hace click en confirmar pago, si no hay problemas con el pago, se mostrara una ventana informando que el pago fue realizado correctamente, en caso contrario, se mostrara una ventana indicando que hubo un error.
+
+Imagen
+
+User Goal: Como paciente deseo publicar una reseña a una empresa mediana
+
+Descripción:
+
+En el presente UserFlow, se presenta el camino que deberá seguir el usuario paciente para poder añadir una reseña a una empresa mediana. Se empezará desde la pantalla inicial, donde se dirigirá al perfil del doctor. Al momento de entrar al apartado de reseñas mediante “See Reviews”, se presentarán dos posibles escenarios, uno en el que el médico cuenta con reseñas previas y se presentarán en una lista, y otro en el que no presenta aún ni una reseña y saldrá un mensaje que indica este hecho. En ambos casos, se presentará la opción de publicar una nueva con lo que saldrá el formulario de reseñas. Una vez se selecciona publicar la reseña saldrá un mensaje de confirmación.
+
+Imagen
+
+User Goal: Como paciente deseo ver mi perfil de usuario a detalle
+
+En este UserFlow, se visualiza el proceso que debe realizar el usuario paciente para poder acceder a la información de perfil a detalle. Para la cual deberá dar click a la foto de perfil para acceder a la información de usuario, y para ver y/o editar esta información deberá dar click al botón “Personal Information”, una vez ingresado, el usuario puede visualizar toda la información a detalle registrada, y en caso desee editar esta información deberá darle al botón “Save” para guardar los cambios, caso contrario solamente deberá dar click al botón de retroceso para salir de la información de perfil sin guardar ningún cambio.
+
+Imagen
+
+User Goal: Como paciente deseo revisar mi receta médica.
+
+En el presente User Flow, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de prescripciones, dentro de la cual se realizan los filtros necesarios de ser el caso, y luego se selecciona la prescripción de interés, lo cual despliega su información en detalle. Sin embargo, se puede dar el caso de que aún no se haya realizado la primera prescripción dentro de nuestra plataforma, en ese caso se le mostrará un mensaje al usuario de que aún no hay prescripciones disponibles.
+
+Imagen
+
+User Goal: Como paciente deseo ver noticias relacionadas con la salud.
+
+En los presentes User Flows se muestran las dos diferentes formas para realizar este User Goal. En el primero, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de noticias, dentro de la cual se realizan los filtros necesarios de ser el caso, y luego se selecciona la noticia que se desea leer. Finalmente, la noticia seleccionada se despliega y muestra toda la información disponible. Por otro lado, hay la posibilidad de que la sección de noticias esté en mantenimiento. En ese caso se le mostrará un mensaje al usuario de que pronto habrá noticias disponibles.
+
+Imagen
+
+En el segundo, el proceso comienza en la sección de Inicio de sesión para luego rellenar los datos de ingreso y ser llevado a la sección principal de la plataforma dentro de la cual se selecciona una de las noticias destacadas. Esto lleva al usuario a la noticia completa dónde se detalla toda la información. Por otro lado, hay la posibilidad de que no haya noticias recomendadas, ya que la sección puede estar en mantenimiento. En esos casos se le mostrará un mensaje al usuario de que pronto habrá noticias disponibles.
+
+Imagen
+
+Segmento Objetivo empresas medianas
+
+User Goal: Como empresas medianas, deseo iniciar sesión
+
+En el presente Wireflow, se evidencia el flujo que seguirá el usuario empresas medianas para poder iniciar sesión. Iniciará en el login, seleccionará la opción paciente e ingresará su DNI y contraseña correctamente, para poder ingresar a MediCare, de lo contrario se mostrarán mensajes de alerta.
+
+Imagen
+
+User Goal: Como empresas medianas deseo registrarme para ingresar a MediCare
+
+Al momento de iniciar el registro, el usuario deberá ingresar todos los datos que se le solicita como su DNI, nombre, apellidos, email, y su respectiva contraseña. Si ingresa caracteres no permitidos o datos que no sean válidos, se mostraran textos de alerta, de los puntos a corregir. Si ingresa todos sus datos correctamente, se mostrará una nueva pantalla con su registro exitoso y podrá iniciar sesión.
+
+Imagen
+
+User Goal: Como profesional de la salud, deseo agregar un nuevo registro al historial de mi paciente después de haberlo atendido para que la cita se quede registrada en su historial médico.
+
+Descripción
+
+En el presente Wireflow, nos encontramos en la vista del Historial Médico de un paciente. A la derecha de los datos personales, se encuentra un ícono del signo más (+). Al dar click a este ícono, se abrirá una nueva vista para crear un nuevo registro. Después de llenar todos los datos y dar click al botón “Save”, se guardará el registro en el historial. Inmediatamente, el sistema muestra la vista del “Historial Médico”, con el nuevo ha sido añadido al inicio. Si no se completa todos los campos y se da click al botón “Save”, se mostrará una advertencia y se le mostrará el registro en edición de nuevo.
+
+Imagen
+
+User Goal: Como profesional deseo editar mi información de perfil
+
+En este UserFlow, se visualiza el proceso que debe realizar el usuario profesional para poder acceder a la información de perfil y editarla si es que se desea. Para la cual deberá dar click a la foto de perfil para acceder a la información de usuario, y para ver y/o editar esta información a detalle deberá dar click al botón “Edit”, una vez ingresado, el usuario puede visualizar toda la información a detalle registrada, y en caso desee editar esta información deberá darle al botón “Save” para guardar los cambios, caso contrario solamente deberá dar click al botón de retroceso para salir de la información de perfil sin guardar ningún cambio.
+
+Imagen
+
+User Goal: Como profesional deseo visualizar mis reseñas
+
+En este UserFlow, se visualiza el proceso que debe realizar el usuario profesional para poder acceder a las reseñas que ha recibido por su servicio. Para la cual deberá dar click a la foto de perfil para acceder a la información de usuario, y desde esta vista se puede visualizar las reseñas recientes, pero en caso se deseen visualizar todas a más detalle el usuario deberá dar click al botón “More”, en caso el usuario aún no tenga ninguna reseña se mostrará una ventana con un mensaje notificándolo, caso contrario se visualizarán todas las reseñas disponibles realizadas.
+
+Imagen
+
+User Goal: Como profesional de la salud deseo revisar mis ingresos de la plataforma.
+
+En el presente Wireflow, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de ingresos, dentro de la cual se realizan los filtros necesarios de ser el caso, para luego visualizar un cuadro estadístico de sus ingresos y el historial de las transacciones. Sin embargo, si aún no han recibido ninguna transacción entonces el cuadro estadístico no mostrará ninguna medición y el historial estará vacío.
+
+Imagen
+
+User Goal: Como profesional de la salud deseo ver noticias relacionadas con la salud.
+
+En los presentes User Flows se muestran las dos diferentes formas para realizar este User Goal. En el primero, el proceso comienza en la sección principal de la plataforma para luego ingresar a la sección de noticias, dentro de la cual se realizan los filtros necesarios de ser el caso, y luego se selecciona la noticia que se desea leer. Finalmente, la noticia seleccionada se despliega y muestra toda la información disponible. Por otro lado, hay la posibilidad de que la sección de noticias esté en mantenimiento. En ese caso se le mostrará un mensaje al usuario de que pronto habrá noticias disponibles.
+
+Imagen
+
+En el segundo, el proceso comienza en la sección de Inicio de sesión para luego rellenar los datos de ingreso y ser llevado a la sección principal de la plataforma dentro de la cual se selecciona una de las noticias destacadas. Esto lleva al usuario a la noticia completa dónde se detalla toda la información. Por otro lado, hay la posibilidad de que no haya noticias recomendadas, ya que la sección puede estar en mantenimiento. En esos casos se le mostrará un mensaje al usuario de que pronto habrá noticias disponibles.
+
+Imagen
 
 ## **4.5. Web Applications Prototyping** 
 
