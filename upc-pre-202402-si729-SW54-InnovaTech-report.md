@@ -703,18 +703,26 @@ Imagen
 
 ### **4.6.1. Software Architecture Context Diagram** 
 
+El Diagrama de Contexto muestra la plataforma "Connex" y su interacción con los actores externos principales: Influencers y Empresas Medianas. Los influencers utilizan la plataforma para gestionar sus perfiles, contratos y reseñas, mientras que las empresas medianas se conectan con Connex para buscar y gestionar contratos con influencers. Este diagrama proporciona una vista general del sistema y cómo interactúa con sus usuarios externos.
+
 ![](Assets/diagramaC4_contexto.png)
 
 ### **4.6.2. Software Architecture Container Diagrams** 
+
+El Diagrama de Contenedores detalla la arquitectura interna de "Connex", mostrando sus principales componentes: Landing Page, Aplicación Web, Aplicación Móvil, API Backend, Base de Datos, Servicio de Autenticación y Servicio de Almacenamiento de Archivos. La Landing Page actúa como el punto de entrada inicial para los usuarios, redirigiéndolos a las aplicaciones web y móvil. Las aplicaciones web y móvil interactúan con el Backend API para procesar la lógica de negocio, mientras que la Base de Datos almacena la información y los servicios de autenticación y almacenamiento manejan la seguridad y los archivos de los usuarios, respectivamente.
 
 ![](Assets/diagramaC4_contenedores.png)
 
 ### **4.6.3. Software Architecture Components Diagrams** 
 
+El Diagrama de Componentes se centra en los componentes específicos dentro del Backend API de "Connex". Los principales módulos incluyen la Gestión de Usuarios, Gestión de Contratos, Gestión de Reseñas, Gestión de Historiales de Interacción y el Servicio de Notificaciones. Estos componentes manejan las funcionalidades clave de la plataforma, como la administración de perfiles, contratos, reseñas y la interacción de los usuarios con la plataforma. Las aplicaciones web y móvil interactúan con estos componentes a través del Backend API para ofrecer una experiencia completa a los usuarios.
+
 ![](Assets/diagramaC4_componentes.png)
 
 ## **4.7. Software Object-Oriented Design** 
 ### **4.7.1. Class Diagrams** 
+
+El Diagrama de Clases muestra la estructura detallada de las clases principales dentro del sistema "Connex". Incluye las clases: User, Profile, Contract, Review y InteractionHistory, con sus atributos y métodos clave. Las relaciones entre las clases, como asociaciones y composiciones, destacan cómo los diferentes elementos del sistema interactúan entre sí. Por ejemplo, un User puede tener un Profile, participar en múltiples Contracts, escribir Reviews y subir InteractionHistories. Este diagrama es esencial para comprender la estructura de datos y las relaciones en el sistema.
 
 ![](Assets/diagrama_de_clases1.png)
 
