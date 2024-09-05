@@ -353,7 +353,7 @@ Socialpubli es una empresa de publicidad social que pone en contacto a empresas 
 # **Capítulo III: Requirements Specification** 
 
 ## **3.1. To-Be Scenario Mapping**
-## 4. Escenario Futuro (To-Be Scenario Mapping)
+### Escenario Futuro (To-Be Scenario Mapping)
 
 ### Influencers:
 
