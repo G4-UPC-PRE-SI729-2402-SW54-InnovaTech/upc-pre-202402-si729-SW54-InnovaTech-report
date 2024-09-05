@@ -380,11 +380,34 @@ A continuación, se presenta el logo o marca de nuestra solución propuesta.
 
 
 ### **4.1.2. Web Style Guidelines** 
+Desarrollaremos una aplicación que se adapte perfectamente a cualquier dispositivo tecnológico sin comprometer el diseño del contenido. Para lograrlo, consideraremos las características de cada tipo de dispositivo, asegurando que el contenido esté estructurado de manera óptima para cada uno.
 
 ## **4.2. Information Architecture** 
 ### **4.2.1. Organization Systems** 
 ### **4.2.2. Labeling Systems** 
 ### **4.2.3. SEO Tags and Meta Tags** 
+En este apartado se le mostrará los Meta Tags y los SEO tags que hemos utilizado en el Landing Page con el objetivo de tener una buena experiencia como usuario y ser de facil accesibilidad.
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <meta name="description" content="Connex es la plataforma ideal para conectar empresas e influencers, optimizando las colaboraciones estratégicas entre marcas y creadores de contenido.">
+    
+    <meta name="keywords" content="Connex, Conexión de influencers, Marketing digital, Colaboraciones estratégicas, Gestión de campañas, Plataformas para influencers">
+    
+    <meta name="author" content="Connex">
+
+    <link rel="icon" type="image/x-icon" href="assets/img/logo-black.svg">
+
+    <title>Connex - Conecta empresas e influencers fácilmente</title>
+
+    <link rel="stylesheet" href="./assets/styles/styles.css">
+</head>
+```
 ### **4.2.4. Searching Systems** 
 ### **4.2.5. Navigation Systems** 
 
