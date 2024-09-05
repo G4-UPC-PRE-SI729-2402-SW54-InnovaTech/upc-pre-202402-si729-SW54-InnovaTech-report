@@ -493,16 +493,6 @@ En el primer sprint, el equipo se enfocó en crear una landing page atractiva y 
 |US08|Comparar Influencers |UT08|Comparativa de Influencers|Opción de comparar varios influencers lado a lado, viendo sus estadísticas clave y característica|2|Sebastian Escobar|Done|
 
 #### **5.2.1.3. Development Evidence for Sprint Review**
-#### **5.2.1.4. Testing Suite Evidence for Sprint Review**
-#### **5.2.1.5. Execution Evidence for Sprint Review**
-#### **5.2.1.6. Services Documentation Evidence for Sprint Review**
-#### **5.2.1.7. Software Deployment Evidence for Sprint Review**
-#### **5.2.1.8. Team Collaboration Insights during Sprint**
-
-### **5.2.2. Sprint 2**
-#### **5.2.2.1. Sprint Planning 2**
-#### **5.2.2.2. Sprint Backlog 2**
-#### **5.2.2.3. Development Evidence for Sprint Review**
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
 |------------|--------|-----------|----------------|---------------------|---------------------|
@@ -522,7 +512,22 @@ En el primer sprint, el equipo se enfocó en crear una landing page atractiva y 
 | upc-pre-202402-si729-SW54-InnovaTech-landing-page | feature/contactus |10bf73b |feat(contactus):add contact us section  |  | Sep 4, 2024 |
 | upc-pre-202402-si729-SW54-InnovaTech-landing-page | develop |86e3e91 |Merge pull request #1 from G4-UPC-PRE-SI729-2402-SW54-InnovaTech/feature/contactus  |  | Sep 4, 2024 |
 
+#### **5.2.1.4. Testing Suite Evidence for Sprint Review**
+#### **5.2.1.5. Execution Evidence for Sprint Review**
+En esta sección se abordará el rendimiento de la aplicación durante el sprint. Se explicará cómo los usuarios han utilizado la plataforma, destacando su experiencia y cualquier observación o comentario que hayan compartido. Además, se presentarán las mejoras implementadas en la funcionalidad y en la interfaz de usuario para optimizar la experiencia general.
 
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Captura%20de%20pantalla%202024-09-05%20143934.png)
+#### **5.2.1.6. Services Documentation Evidence for Sprint Review**
+En esta sección se presentará la documentación relacionada con los servicios de conexión entre influencers y marcas a través de nuestra plataforma. Se incluirán los perfiles detallados de los influencers, con información sobre su audiencia, métricas clave de rendimiento y tarifas de colaboración, así como ejemplos de campañas anteriores y resultados obtenidos. Además, se proporcionarán detalles sobre las recomendaciones de marcas que han trabajado previamente con estos creadores de contenido.
+
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Captura%20de%20pantalla%202024-09-05%20144902.png)
+#### **5.2.1.7. Software Deployment Evidence for Sprint Review**
+#### **5.2.1.8. Team Collaboration Insights during Sprint**
+
+### **5.2.2. Sprint 2**
+#### **5.2.2.1. Sprint Planning 2**
+#### **5.2.2.2. Sprint Backlog 2**
+#### **5.2.2.3. Development Evidence for Sprint Review**
 #### **5.2.2.4. Testing Suite Evidence for Sprint Review**
 #### **5.2.2.5. Execution Evidence for Sprint Review**
 #### **5.2.2.6. Services Documentation Evidence for Sprint Review**
@@ -535,13 +540,7 @@ En el primer sprint, el equipo se enfocó en crear una landing page atractiva y 
 #### **5.2.3.3. Development Evidence for Sprint Review**
 #### **5.2.3.4. Testing Suite Evidence for Sprint Review**
 #### **5.2.2.5. Execution Evidence for Sprint Review**
-En esta sección se abordará el rendimiento de la aplicación durante el sprint. Se explicará cómo los usuarios han utilizado la plataforma, destacando su experiencia y cualquier observación o comentario que hayan compartido. Además, se presentarán las mejoras implementadas en la funcionalidad y en la interfaz de usuario para optimizar la experiencia general.
-
-![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Captura%20de%20pantalla%202024-09-05%20143934.png)
 #### **5.2.2.6. Services Documentation Evidence for Sprint Review**
-En esta sección se presentará la documentación relacionada con los servicios de conexión entre influencers y marcas a través de nuestra plataforma. Se incluirán los perfiles detallados de los influencers, con información sobre su audiencia, métricas clave de rendimiento y tarifas de colaboración, así como ejemplos de campañas anteriores y resultados obtenidos. Además, se proporcionarán detalles sobre las recomendaciones de marcas que han trabajado previamente con estos creadores de contenido.
-
-![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Captura%20de%20pantalla%202024-09-05%20144902.png)
 #### **5.2.3.7. Software Deployment Evidence for Sprint Review**
 #### **5.2.3.8. Team Collaboration Insights during Sprint**
 
