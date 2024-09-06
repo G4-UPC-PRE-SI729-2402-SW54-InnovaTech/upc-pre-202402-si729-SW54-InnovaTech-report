@@ -691,6 +691,7 @@ Descripción: En este wireflow, el usuario accede a la sección de "Métricas", 
 User Goal: Como usuario, deseo ver noticias y actualizaciones relevantes en Connex.
 Descripción: En este wireflow, los usuarios pueden acceder a la sección de "Noticias", donde se les muestran las últimas actualizaciones y contenido relevante para influencers y empresas. Si la sección de noticias está en mantenimiento o no hay contenido disponible, se mostrará un mensaje indicando que pronto habrá nuevas noticias disponibles para su visualización.
 
+![](Assets/UserFlowDiagrams.PNG)
 
 ## **4.5. Web Applications Prototyping** 
 
