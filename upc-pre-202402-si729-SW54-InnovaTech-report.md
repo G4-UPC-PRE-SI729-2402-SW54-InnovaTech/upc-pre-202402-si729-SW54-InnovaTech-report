@@ -510,9 +510,17 @@ En el primer sprint, el equipo se enfocó en crear una landing page atractiva y 
 
 #### **5.2.1.4. Testing Suite Evidence for Sprint Review**
 #### **5.2.1.5. Execution Evidence for Sprint Review**
-En esta sección se abordará el rendimiento de la aplicación durante el sprint. Se explicará cómo los usuarios han utilizado la plataforma, destacando su experiencia y cualquier observación o comentario que hayan compartido. Además, se presentarán las mejoras implementadas en la funcionalidad y en la interfaz de usuario para optimizar la experiencia general.
+En el sprint 1 hemos logrado el desarrollo, diseño e implementación del Landing Page. En el mismo podemos encontrar las secciones que el usuario puede encontrar acerca de la Startup y del producto que estariamos ofreciendo. Ahora mostraremos las evidencias: 
 
-![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/c703034dc33ecffbad5a7ce2665e47da72f4133b/Assets/Captura%20de%20pantalla%202024-09-05%20143934.png)
+1. Sección Home: En esta sección, el usuario podrá informarse un poco sobre lo que es nuestro producto junto con un botón para poder suscribirse.
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/7449a5c97001b91a3cfd2bcc83d4403eedbcd415/Assets/HomeLanding.png)
+2. Sección About Us: En esta parte, el usuario podrá conocer a nuestro equipo de InnovaTech e informarse sobre quienes desarrollaron el producto.
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/7449a5c97001b91a3cfd2bcc83d4403eedbcd415/Assets/IntegrantesLanding.png)
+3. Sección For You: En esta sección el usuario podrá ver cuales son los servicios que le ofrecemos dentro de nuestro producto.
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/7449a5c97001b91a3cfd2bcc83d4403eedbcd415/Assets/ServiciosLanding.png)
+4. Sección Contact Us: En esta parte, el usuario podrá ver las formas o maneras de poder contactarse con nosotros, en caso haya algún problema o requiera información extra.
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/7449a5c97001b91a3cfd2bcc83d4403eedbcd415/Assets/ContactoLanding.png)
+
 #### **5.2.1.6. Services Documentation Evidence for Sprint Review**
 En esta sección se presentará la documentación relacionada con los servicios de conexión entre influencers y marcas a través de nuestra plataforma. Se incluirán los perfiles detallados de los influencers, con información sobre su audiencia, métricas clave de rendimiento y tarifas de colaboración, así como ejemplos de campañas anteriores y resultados obtenidos. Además, se proporcionarán detalles sobre las recomendaciones de marcas que han trabajado previamente con estos creadores de contenido.
 
