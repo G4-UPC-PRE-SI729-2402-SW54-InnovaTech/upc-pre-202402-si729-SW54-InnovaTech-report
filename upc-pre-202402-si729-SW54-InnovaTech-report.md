@@ -516,7 +516,7 @@ En el sprint 1 hemos logrado el desarrollo, diseño e implementación del Landin
 ![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/7449a5c97001b91a3cfd2bcc83d4403eedbcd415/Assets/HomeLanding.png)
 2. Sección About Us: En esta parte, el usuario podrá conocer a nuestro equipo de InnovaTech e informarse sobre quienes desarrollaron el producto.
 ![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/7449a5c97001b91a3cfd2bcc83d4403eedbcd415/Assets/IntegrantesLanding.png)
-3. Sección For You: En esta sección el usuario podrá ver cuales son los servicios que le ofrecemos dentro de nuestro producto.
+3. Sección For You: En esta sección el usuario podrá ver cuales son los servicios que le ofrecemos dentro de nuestro producto.<br>
 ![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/7449a5c97001b91a3cfd2bcc83d4403eedbcd415/Assets/ServiciosLanding.png)
 4. Sección Contact Us: En esta parte, el usuario podrá ver las formas o maneras de poder contactarse con nosotros, en caso haya algún problema o requiera información extra.
 ![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/7449a5c97001b91a3cfd2bcc83d4403eedbcd415/Assets/ContactoLanding.png)
