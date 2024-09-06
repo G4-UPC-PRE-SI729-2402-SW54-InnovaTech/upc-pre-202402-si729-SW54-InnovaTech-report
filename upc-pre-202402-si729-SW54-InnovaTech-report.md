@@ -511,7 +511,9 @@ En el primer sprint, el equipo se enfocó en crear una landing page atractiva y 
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
 |------------|--------|-----------|----------------|---------------------|---------------------|
-| Tests | main |c5fcdad | Initial commit |  | Sep 2, 2024 |
+| Tests | main |468c3be | feat: added UT01 |  | Sep 6, 2024 |
+| Tests | main |f2aaadb | feat: added UT02 |  | Sep 6, 2024 |
+| Tests | main |ffbf018 | feat: added UT03 |  | Sep 6, 2024 |
 
 #### **5.2.1.5. Execution Evidence for Sprint Review**
 En el sprint 1 hemos logrado el desarrollo, diseño e implementación del Landing Page. En el mismo podemos encontrar las secciones que el usuario puede encontrar acerca de la Startup y del producto que estariamos ofreciendo. Ahora mostraremos las evidencias: 
