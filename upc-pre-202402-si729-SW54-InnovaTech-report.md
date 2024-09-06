@@ -436,6 +436,17 @@ En este apartado se le mostrará los Meta Tags y los SEO tags que hemos utilizad
 
 ## **4.3. Landing Page UI Design** 
 ### **4.3.1. Landing Page Wireframe** 
+**Landing Page para Desktop Web Browser**
+La página web, vista desde un navegador de escritorio, incluye secciones clave como una descripción de la página y sus principales apartados. También ofrece un formulario para contactar a los desarrolladores a través de correo electrónico.
+
+<img src="Assets/webpage/Desktop landing page 1.png" style="width: 50%;"/>
+
+<img src="Assets/webpage/Desktop landing page 2.png" style="width: 50%;"/>
+
+<img src="Assets/webpage/Desktop landing page 3.png" style="width: 50%;"/>
+
+<img src="Assets/webpage/Desktop landing page 4.png" style="width: 50%;"/>
+
 ### **4.3.2. Landing Page Mock-up** 
 
 ## **4.4. Web Applications UX/UI Design** 
