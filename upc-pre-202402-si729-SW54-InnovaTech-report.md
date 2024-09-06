@@ -17,6 +17,7 @@
 - Javier Murillo, Mathias - U202022211
 - Macavilca Quispe, Ian - U202121325
 - Nakasone Gomes, Marco Antonio - U202210790
+- Laban Hijar, Jorge Armando - U201616054
 </div>
 
 ---
@@ -666,21 +667,167 @@ A continuación, se presenta el logo o marca de nuestra solución propuesta.
 
 ## **5.1. Software Configuration Management**
 ### **5.1.1. Software Development Environment Configuration**
+**Requirements Managment**
+1. Figma: Plataforma de Elaboración de prototipos y edición gráfica, que usamos principalmente para la elaboración de los Wireframes y Mockups de nuestra Landing Page y Web Application, de igual manera se desarrollo nuestros Wireflow Diagrams en la misma plataforma.
+
+**Software Development**
+1. JetBrains WebStorm: Entorno de desarrollo especializado en el desarrollo web, usando accesos más simples para pruebas en distintos navegadores web, como, Chrome, Microsoft Edge, Safari y Mozilla Firefox. Usar este IDE nos agrega un valor para el desarrollo de nuestra startup, ya que, nos brinda la posiblidad de explorar y descubrir como funciona nuestros productos en diferentes entornos web. <br> Ruta de referencia: <https://www.jetbrains.com/es-es/webstorm/>
+2. HTML5: Lenguaje utilizado para el etiquetado web. Es implementado para nuestro desarrollo de la startup, por el lado del Landing Page y en más adelante en nuestra Web Application, dandonos el contenido de las mismas. <br> Ruta de referencia: <https://www.w3schools.com/html/>
+3. CSS: El Cascading Style Stheets, va juntos con HTML5, dandonos la opción de personalización de los estilos de nuestro contenido elaborado en HTML. <br> Ruta de referencia: <https://developer.mozilla.org/es/docs/Web/CSS>
+
+**Software Deployment**
+1. Git: Software de control de versiones, brindando eficiencia, confiabilidad y compatibilidad en el mantenimiento de versiones de nuestros productos y del mismo informe que desarrollamos. Todos los miembros del equipo accederán por medio de líneas de comando en su consola. <br> Ruta de referencia: <https://git-scm.com/>
+
+**Software Documentation and Project Managment**
+1. Github: Plataforma con la cual podemos alojar nuestros repositorios, utilizando el control de versiones de Git. Esto nos facilita la colaboración en tiempo real y en simultaneo, además, en la revisión de nuestros aportes por parte de los miembros del equipo. <br> Ruta de referencia: <https://github.com/>
+
 ### **5.1.2. Source Code Management**
+El proyecto contiene las convenciones de flujo establecidas por el modelo GitFlow para el control de versiones usando Github como plataforma y sistema de control de versiones. Serán compartidos los URLs de nuestros repositorios, como, Landing Page y de igual manera se implementarán futuros productos de nuestra Startup
+
+**Repositorios de Github** <br>
+URL de acceso a nuestra organización de Github: <https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech>   <br>
+URL de acceso a nuestra Landing Page: <https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-landing-page>
+
 ### **5.1.3. Source Code Style Guide & Conventions**
+
+El Lenguaje de Marcado de Hipertexto (HTML) es fundamental para estructurar y presentar el contenido en páginas web. La convención comúnmente utilizada para la página principal de un sitio web es nombrarla index.html.
+Aquí están algunas convenciones clave para el uso de HTML:
+1.	Utilizar nombres de elementos en minúsculas para mantener la consistencia y la legibilidad del código.
+2.	Cerrar todos los elementos en HTML, es una buena práctica hacerlo para evitar problemas de compatibilidad y mejorar la claridad del código.
+3.	Escribir comentarios cortos en una sola línea para una mayor claridad y organización del código.
+4.	Evitar líneas de código excesivamente largas y agregar espacios en blanco solo cuando sea necesario para mejorar la organización del código.
+5.	Nunca omitir elementos importantes como  `<title>` , `<html>`, `<body>`, y `<head>`, ya que desempeñan un papel crucial en la estructura y el contenido de la página.
+6.	Incluir el atributo lang dentro de la etiqueta <html> para especificar el idioma de la página.
+7.	Es importante especificar atributos como alt, ancho y altura para las imágenes para mejorar la accesibilidad y reducir el parpadeo.
+8.	Evitar el uso de espacios alrededor de los signos en HTML para una mejor legibilidad.
+9.	Es importante agregar siempre el elemento <meta> en todas las páginas para configurar la ventana gráfica de manera óptima.
+
+Cascading Style Sheets (CSS) es un lenguaje utilizado para dar estilo y diseñar páginas web. Se considera una buena práctica seguir ciertas convenciones al escribir CSS para garantizar un código limpio y mantenible.
+A continuación, se presentan algunas convenciones importantes para el uso de CSS:
+1.	Mantener una nomenclatura coherente para clases, IDs y selectores, lo que facilita la comprensión del código para otros desarrolladores.
+2.	Utiliza una indentación consistente y espacios en blanco para mejorar la legibilidad, incluyendo espacios después de los dos puntos en las reglas CSS.
+3.	Emplea comentarios para documentar el código.
+4.	Agrupa propiedades CSS relacionadas para una mejor organización del código.
+5.	Evita selectores demasiado específicos que puedan causar conflictos o complicaciones a largo plazo.
+6.	Usa prefijos vendor de manera coherente para asegurar compatibilidad con distintos navegadores.
+7.	Optimiza el código CSS evitando la duplicación de reglas y combinando propiedades similares.
+8.	Realiza pruebas en diversos navegadores y dispositivos para asegurar la consistencia del diseño, y valida el código CSS para evitar posibles errores de sintaxis mediante herramientas como el validador de CSS de W3C.
+
+El lenguaje de programación JavaScript se utiliza para agregar interactividad y dinamismo a las páginas web. Al igual que con HTML y CSS, es importante seguir convenciones al escribir JavaScript para mantener un código claro y fácilmente mantenible. A continuación, se presentan algunas pautas importantes:
+1.	Utiliza una nomenclatura consistente para variables, funciones y nombres de objetos en JavaScript.
+2.	Mantén una indentación uniforme y utiliza espacios en blanco de manera adecuada para mejorar la legibilidad. Esto incluye dejar un espacio después de palabras clave como if, for, function, etc.
+3.	Emplea comentarios para explicar la lógica detrás de ciertas partes del código. 
+4.	Minimiza el uso de variables globales y prefiere el uso de ámbitos locales siempre que sea posible. 
+5.	Asegúrate de manejar adecuadamente los errores y excepciones en tu código utilizando bloques try-catch o manejo de errores adecuado para garantizar una experiencia de usuario más robusta y libre de errores.
+6.	Utiliza técnicas de optimización como el caching, la minimización y la concatenación de archivos para mejorar el rendimiento del código y reducir los tiempos de carga de la página.
+7.	Realiza pruebas exhaustivas de tu código JavaScript en diferentes navegadores y dispositivos para asegurarte de que funcione correctamente en todas las plataformas.
+
+Gherkin es un lenguaje simple y estructurado diseñado para escribir escenarios de prueba en un formato legible para humanos. Utiliza palabras clave predefinidas para describir el comportamiento del software, lo que facilita la colaboración entre los miembros del equipo técnico y no técnico
+1.	Utiliza un lenguaje claro y comprensible para describir los escenarios en Gherkin, asegurándote de que sean fáciles de entender para todos los miembros del equipo.
+2.	Mantén una estructura coherente en tus archivos de características de Gherkin, utilizando palabras clave como Feature, Scenario, Given, When, Then, y And de manera consistente para mantener la legibilidad.
+3.	Describe los escenarios de manera detallada, utilizando las palabras clave como Given, When, y Then para proporcionar información clara sobre el estado inicial, las acciones y los resultados esperados.
+4.	Identifica patrones comunes en tus escenarios y reutiliza pasos de escenarios existentes utilizando la palabra clave And para mantener la concisión y evitar la duplicación de código.
+5.	Evita la inclusión de pasos redundantes o irrelevantes en tus escenarios de Gherkin para mantenerlos concisos y enfocados en los aspectos importantes del comportamiento del sistema.
+6.	Utiliza comentarios para proporcionar contexto adicional o explicaciones sobre tus escenarios de Gherkin, especialmente útiles para explicar decisiones de diseño o comportamientos complejos.
+7.	Colabora con otros miembros del equipo para revisar y refinar tus escenarios de Gherkin, asegurándote de que sean comprensibles y reflejen con precisión los requisitos del negocio.
+
 ### **5.1.4. Software Deployment Configuration**
+
+Netlify es una plataforma de alojamiento web y despliegue continuo que simplifica el proceso de lanzamiento de sitios web y aplicaciones estáticas. Ofrece y funciona de la siguiente manera:
+
+1. Se sincroniza con repositorios Git como GitHub, GitLab y Bitbucket. Al actualizar tu código y subirlo al repositorio, Netlify inicia automáticamente la construcción y publicación del sitio.
+2. Emplea un sistema automatizado para transformar tu código (HTML, CSS, JavaScript) en un sitio estático. Durante la construcción, realiza tareas como compilar archivos y optimizar imágenes. Finalizada la construcción, despliega el sitio a través de su red CDN global.
+3. Permite generar vistas previas automáticas para cada rama de tu repositorio, lo que facilita la visualización de cambios antes de integrarlos a la rama principal, favoreciendo la colaboración y revisión de código.
+4. Netlify facilita la configuración de publicaciones automáticas para cada pull request o fusión en tu repositorio, activando la construcción y publicación con cada actualización, manteniendo tu sitio al día con la última versión del código.de construcción y despliegue, asegurando que tu sitio esté siempre actualizado con la última versión de tu código.
 
 ## **5.2. Landing Page, Services & Applications Implementation**
 ### **5.2.1. Sprint 1**
 #### **5.2.1.1. Sprint Planning 1**
-#### **5.2.1.2. Sprint Backlog 1**
-#### **5.2.1.3. Development Evidence for Sprint Review**
-#### **5.2.1.4. Testing Suite Evidence for Sprint Review**
-#### **5.2.1.5. Execution Evidence for Sprint Review**
-#### **5.2.1.6. Services Documentation Evidence for Sprint Review**
-#### **5.2.1.7. Software Deployment Evidence for Sprint Review**
-#### **5.2.1.8. Team Collaboration Insights during Sprint**
+En la próxima sección, se presentará el sprint #1 con la primera versión del trabajo para la entrega del proyecto, donde se mostrará la organización, distribución y resultados del landing page.
 
+Sprint # |Date |Time |Location |Prepared By |Attendees|
+| :- | :- | :- | :- | :- | :- |
+|1|28/08/2024 |7:00 pm|Reunión mediante Meet|Javier Murillo, Mathias|<p>Escobar Palomino, Sebastian. </p><p>Macavilca Quispe, Ian.</p><p>Nakasone Gomes, Marco.</p><p>Laban Hijar, Jorge.</p>|
+|Sprint 1 Goal |Sprint 1 Velocity |Sum of Story Points||||
+|Elaborar y diseñar el landing page informativa para la aplicación Connex.|<p>18</p><p></p>|18||||
+
+#### **5.2.1.2. Sprint Backlog 1**
+En el primer sprint, el equipo se enfocó en crear una landing page atractiva y funcional, organizando y asignando tareas mediante el cuadro de Sprint según las habilidades de cada miembro.
+
+|Sprint #||Sprint 1||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story||Work Item / Task||||||
+|Id|Title|Id|Title|Descripción|Estimación (Hours)|Assigned to|Status (In -process / To - review / Done)|
+|US01|Descripción de la web|UT01|Acerca de la web|Descripción de lo que trata nuestra pagina web. |1|Mathias Javier|Done|
+|US02|Accesibilidad del contenido|UT02|Disponibilidad accesible del contenido.|Que la página muestre el contenido correctamente (imágenes y enlaces).|2|Marco Nakasone y Sebastian Escobar|Done|
+|US02|Accesibilidad del contenido|UT03|Diseño responsive de la página|Que la página se visualice correctamente en cualquier dispositivo.|3|Ian Macavilca|Done|
+
+#### **5.2.1.3. Development Evidence for Sprint Review**
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|------------|--------|-----------|----------------|---------------------|---------------------|
+| upc-pre-202402-si729-SW54-InnovaTech-landing-page | main |c5fcdad | Initial commit |  | Sep 2, 2024 |
+| upc-pre-202402-si729-SW54-InnovaTech-landing-page | main |e35893a | Add files via upload |  | Sep 3, 2024 |
+| upc-pre-202402-si729-SW54-InnovaTech-landing-page | develop |7838a81|fix: correct marco pic error|There was no picture of Marco in it, so it didn't appear on the page.  | Sep 3, 2024 |
+| upc-pre-202402-si729-SW54-InnovaTech-landing-page | develop |6430f40|feat: add pics to service cards|  | Sep 3, 2024 |
+| upc-pre-202402-si729-SW54-InnovaTech-landing-page | develop |53963b3|fix: navbar width bug|The navbar is not 100% wide, but now it is.| Sep 3, 2024 |
+| upc-pre-202402-si729-SW54-InnovaTech-landing-page | feature/services |63a173d |feat: add blank footer |  | Sep 3, 2024 |
+| upc-pre-202402-si729-SW54-InnovaTech-landing-page | feature/footer |bb99ea8 |feat: add pics for social media logos|  | Sep 3, 2024 |
+| upc-pre-202402-si729-SW54-InnovaTech-landing-page | feature/footer |6cf28cc |fix: styles and footer design  |  | Sep 3, 2024 |
+| upc-pre-202402-si729-SW54-InnovaTech-landing-page | feature/footer |573bd37 |fix: footer logos error  |  | Sep 3, 2024 |
+| upc-pre-202402-si729-SW54-InnovaTech-landing-page | feature/footer |0cc9982 |fix(footer): fixed style css  |  | Sep 3, 2024 |
+| upc-pre-202402-si729-SW54-InnovaTech-landing-page | feature/footer |c9daf0d |fix(header):menu compression and resposiveness  |  | Sep 4, 2024 |
+| upc-pre-202402-si729-SW54-InnovaTech-landing-page | feature/contactus |18d08e8 |fix(home): fixed home image and text align  |  | Sep 4, 2024 |
+| upc-pre-202402-si729-SW54-InnovaTech-landing-page | feature/contactus |4f5463f |fix(home):mixed class error  |  | Sep 4, 2024 |
+| upc-pre-202402-si729-SW54-InnovaTech-landing-page | feature/contactus |10bf73b |feat(contactus):add contact us section  |  | Sep 4, 2024 |
+| upc-pre-202402-si729-SW54-InnovaTech-landing-page | develop |86e3e91 |Merge pull request #1 from G4-UPC-PRE-SI729-2402-SW54-InnovaTech/feature/contactus  |  | Sep 4, 2024 |
+
+#### **5.2.1.4. Testing Suite Evidence for Sprint Review**
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|------------|--------|-----------|----------------|---------------------|---------------------|
+| Tests | main |468c3be | feat: added UT01 |  | Sep 6, 2024 |
+| Tests | main |f2aaadb | feat: added UT02 |  | Sep 6, 2024 |
+| Tests | main |ffbf018 | feat: added UT03 |  | Sep 6, 2024 |
+
+#### **5.2.1.5. Execution Evidence for Sprint Review**
+En el sprint 1 hemos logrado el desarrollo, diseño e implementación del Landing Page. En el mismo podemos encontrar las secciones que el usuario puede encontrar acerca de la Startup y del producto que estariamos ofreciendo. Ahora mostraremos las evidencias: 
+
+1. Sección Home: En esta sección, el usuario podrá informarse un poco sobre lo que es nuestro producto junto con un botón para poder suscribirse.<br>
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/7449a5c97001b91a3cfd2bcc83d4403eedbcd415/Assets/HomeLanding.png)
+2. Sección About Us: En esta parte, el usuario podrá conocer a nuestro equipo de InnovaTech e informarse sobre quienes desarrollaron el producto.<br>
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/7449a5c97001b91a3cfd2bcc83d4403eedbcd415/Assets/IntegrantesLanding.png)
+3. Sección For You: En esta sección el usuario podrá ver cuales son los servicios que le ofrecemos dentro de nuestro producto.<br>
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/7449a5c97001b91a3cfd2bcc83d4403eedbcd415/Assets/ServiciosLanding.png)
+4. Sección Contact Us: En esta parte, el usuario podrá ver las formas o maneras de poder contactarse con nosotros, en caso haya algún problema o requiera información extra.<br>
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/7449a5c97001b91a3cfd2bcc83d4403eedbcd415/Assets/ContactoLanding.png)
+
+#### **5.2.1.6. Services Documentation Evidence for Sprint Review**
+En esta sección se presentará la documentación relacionada con los servicios de conexión entre influencers y marcas a través de nuestra plataforma. Se incluirán los perfiles detallados de los influencers, con información sobre su audiencia, métricas clave de rendimiento y tarifas de colaboración, así como ejemplos de campañas anteriores y resultados obtenidos. Además, se proporcionarán detalles sobre las recomendaciones de marcas que han trabajado previamente con estos creadores de contenido.
+
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/c703034dc33ecffbad5a7ce2665e47da72f4133b/Assets/Captura%20de%20pantalla%202024-09-05%20144902.png)
+#### **5.2.1.7. Software Deployment Evidence for Sprint Review**
+Utilizando la herramienta de GitHub Pages completamos
+la información que nos piden como la fuente y rama de donde
+desplegaremos el trabajo, y luego de ellos nos brindará el link de
+nuestro sitio web desplegado.
+
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/ghpages.JPG?raw=true)
+Aquí la pagina desplegada
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/landing.JPG?raw=true)
+
+Link de la landing page desplegada:. <https://g4-upc-pre-si729-2402-sw54-innovatech.github.io/upc-pre-202402-si729-SW54-InnovaTech-landing-page/>
+
+#### **5.2.1.8. Team Collaboration Insights during Sprint**
+Durante el desarrollo de este sprint, todos colaboramos de manera activa y continua para la elaboración de las task correspondientes. Mostramos la evidencia de los avances individuales:
+
+Report:
+
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/s1ins2.JPG?raw=true)
+
+Landing Page:
+
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/s1ins1.JPG?raw=true)
 ### **5.2.2. Sprint 2**
 #### **5.2.2.1. Sprint Planning 2**
 #### **5.2.2.2. Sprint Backlog 2**
@@ -696,8 +843,8 @@ A continuación, se presenta el logo o marca de nuestra solución propuesta.
 #### **5.2.3.2. Sprint Backlog 3**
 #### **5.2.3.3. Development Evidence for Sprint Review**
 #### **5.2.3.4. Testing Suite Evidence for Sprint Review**
-#### **5.2.3.5. Execution Evidence for Sprint Review**
-#### **5.2.3.6. Services Documentation Evidence for Sprint Review**
+#### **5.2.2.5. Execution Evidence for Sprint Review**
+#### **5.2.2.6. Services Documentation Evidence for Sprint Review**
 #### **5.2.3.7. Software Deployment Evidence for Sprint Review**
 #### **5.2.3.8. Team Collaboration Insights during Sprint**
 
@@ -723,3 +870,5 @@ A continuación, se presenta el logo o marca de nuestra solución propuesta.
 # **Bibliografía**
 
 # **Anexos**
+1. Despliegue del Landing Page: <https://g4-upc-pre-si729-2402-sw54-innovatech.github.io/upc-pre-202402-si729-SW54-InnovaTech-landing-page/>
+2. Figma con los Wireframes, MockUps y User Flow Diagrams, tanto del Landing como del Web Application: <https://www.figma.com/design/uXYz1dq5QRdRAHkwtRY8bz/InnovaTech?node-id=6-185&t=Ko92iM4B2N0ar8xW-1>
