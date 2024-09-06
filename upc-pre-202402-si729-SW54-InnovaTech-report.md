@@ -821,6 +821,23 @@ La rama principal (main) de ambos repositorios se utiliza para integrar las func
 
 #### **5.2.1.8. Team Collaboration Insights during Sprint**
 
+Este capítulo debe resaltar cómo el equipo colaboró durante el sprint, mostrando las dinámicas de trabajo y la contribución de cada miembro.
+
+Colaboración del Equipo:
+
+Durante el período del 30 de agosto de 2024 al 6 de septiembre de 2024, 5 autores contribuyeron activamente al proyecto, con un total de 14 commits realizados a la rama principal y 80 commits a todas las ramas del repositorio.
+Contribuciones por Autor:
+
+Los gráficos muestran la actividad de los miembros del equipo, visualizando la frecuencia de commits y el flujo de trabajo. La participación activa de cada miembro puede ser resaltada para demostrar una colaboración efectiva.
+Manejo de Pull Requests:
+
+No hubo issues activos durante el periodo, lo cual indica una buena gestión de tareas y una comunicación clara entre los miembros para resolver problemas antes de que se conviertan en issues formales.
+Frecuencia y Distribución del Trabajo:
+
+La imagen del gráfico de commits muestra picos de actividad que pueden ser indicativos de sesiones de trabajo conjunto, revisiones de código en equipo, o sprints de desarrollo intensivo.
+
+![Reporte Sprint1](Assets/reports/git_insights.JPG)
+
 ### **5.2.2. Sprint 2**
 #### **5.2.2.1. Sprint Planning 2**
 #### **5.2.2.2. Sprint Backlog 2**
