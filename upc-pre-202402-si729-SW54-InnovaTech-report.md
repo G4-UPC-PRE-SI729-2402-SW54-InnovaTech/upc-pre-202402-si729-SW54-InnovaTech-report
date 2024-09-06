@@ -531,25 +531,11 @@ Descripción: Al momento de inciar sesión, se presentará una opción de Olvide
 
 ![](Assets/appweb/cambiar_contraseña.JPG)
 
-User Goal: Como influencer deseo visualizar mi historial contratos con microempresas.
-Descripción:
-En el presente Wireflow, se presenta el camino que deberá seguir el usuario influencer para poder visualizar su historial de contratos dentro de la plataforma. Se comenzará desde la pantalla de inicio, donde se seleccionará el perfil del usuario, finalmente se elegirá la opción de “Contracts History” para poder obtener su historial de contratos presente en Connex.
-
-![](Assets/webpage/4.4.2 Web Applications Wireflow Diagrams. 4.png)
-
 User Goal: Como influencer deseo subir mi historial de sintonia sobre las redes sociales.
 Descripción:
 En el presente Wireflow, se presenta el camino que deberá seguir el usuario influencer para poder subir su historial de sintonia dentro de la plataforma. Se empezará desde la pantalla de inicio, luego se dirigirá al perfil de usuario e ingresará a “Contract History”; por último, se subirá el archivo en PDF. Después de ello, se podrá visualizar el historial adjuntado en Connex.
 
-![](Assets/webpage/4.4.2 Web Applications Wireflow Diagrams. 5.png)
-
-User Goal: Como influencer deseo visualizar el perfil de una empresa mediana
-
-Descripción:
-
-En el presente Wireflow, se presenta el camino que deberá seguir el usuario influencer para poder visualizar el perfil de un doctor. Se empezará desde la pantalla de inicio, luego se dirigirá a la sección de empresas medianas y, con ello, se mostrarán los distintos médicos disponibles, se seleccionará el de su preferencia para ver su perfil de MediCare.
-
-Imagen
+![](Assets/appweb/influencer_history.JPG)
 
 User Goal: Como influencer deseo ver las reseñas de una empresa mediana
 
