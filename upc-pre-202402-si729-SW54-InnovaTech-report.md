@@ -368,7 +368,7 @@ La tipografía organiza el lenguaje visual de las plataformas, garantizando legi
 
 **Head**
 
-Imagen
+<img src="Assets/webpage/Head.png" style="width: 50%;"/>
 
 **Body**
 
