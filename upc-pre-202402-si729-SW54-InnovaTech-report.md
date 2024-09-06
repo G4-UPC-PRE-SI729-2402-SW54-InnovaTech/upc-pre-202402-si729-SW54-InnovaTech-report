@@ -739,6 +739,31 @@ Notification maneja las notificaciones enviadas a los usuarios sobre nuevas opor
 ## **4.8. Database Design** 
 ### **4.8.1. Database Diagram** 
 
+El diagrama de base de datos presentado corresponde a la plataforma "Connex", que conecta a influencers y empresas medianas, facilitando la colaboración entre ambos grupos. El diagrama muestra la estructura de las tablas principales y sus relaciones, proporcionando una vista clara de cómo se organiza y gestiona la información dentro del sistema.
+
+Resumen de las Tablas y Relaciones:
+Users: Es la tabla central que almacena la información de los usuarios registrados, incluyendo influencers y empresas medianas. Está relacionada con múltiples entidades como Profiles, Contracts, Reviews, InteractionHistories, Opportunities, Notifications, y Applications, reflejando la interacción amplia de los usuarios con la plataforma.
+
+Profiles: Almacena información adicional del usuario, como biografía y enlaces a redes sociales, y tiene una relación uno a uno con la tabla Users.
+
+Contracts: Representa los contratos o acuerdos entre influencers y empresas, con una relación de uno a muchos con Users.
+
+Reviews: Contiene las reseñas escritas por los usuarios sobre sus colaboraciones, conectada con Users en una relación uno a muchos.
+
+InteractionHistories: Registra los historiales de interacción de los influencers en distintas plataformas, con una relación de uno a muchos con Users.
+
+Opportunities: Esta tabla almacena oportunidades de colaboración creadas por las empresas y tiene una relación de uno a muchos con Users (como "Company Users"). También está relacionada con la tabla Applications.
+
+Notifications: Gestiona las notificaciones enviadas a los usuarios sobre actividades y actualizaciones en la plataforma, con una relación de uno a muchos con Users.
+
+Applications: Registra las aplicaciones de los influencers a las oportunidades publicadas por las empresas, conectando las tablas Users y Opportunities.
+
+Este diseño de base de datos está estructurado para gestionar eficientemente la interacción y los datos entre los diferentes actores dentro de Connex, asegurando que las funcionalidades clave, como la gestión de contratos, revisiones, y aplicaciones, estén bien integradas y conectadas.
+
+![](Assets/Diagrama_base_datos.png)
+
+Link: [Lucidchart Diagrama de Base de Datos](https://lucid.app/lucidchart/65a43a21-9804-49d7-b14e-95a3f8bfaf1b/edit?viewport_loc=-775%2C-423%2C3307%2C1495%2C0_0&invitationId=inv_d5c4b7d2-a8bb-4b2a-a85c-4617c1a2402a) 
+
 # **Capítulo V: Product Implementation, Validation & Deployment**
 
 ## **5.1. Software Configuration Management**
