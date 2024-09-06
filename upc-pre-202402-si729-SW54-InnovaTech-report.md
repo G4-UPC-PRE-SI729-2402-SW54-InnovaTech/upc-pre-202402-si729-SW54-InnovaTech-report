@@ -572,7 +572,6 @@ Estos wireframes ofrecen una visión clara y funcional del diseño de la aplicac
 ![](Assets/appweb/web_applications_wireframe1.JPG)
 
 ![](Assets/appweb/web_applications_wireframe2.JPG)
-Aquí tienes el enlace de Figma en formato markdown:
 
 [Enlace a Figma: InnovaTech](https://www.figma.com/design/uXYz1dq5QRdRAHkwtRY8bz/InnovaTech?node-id=6-185&node-type=CANVAS&t=pS1JXoGyCpEdOoio-0)
 
