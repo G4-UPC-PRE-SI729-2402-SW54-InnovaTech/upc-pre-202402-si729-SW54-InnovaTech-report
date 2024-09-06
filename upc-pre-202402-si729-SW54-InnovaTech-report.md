@@ -32,14 +32,14 @@
 
 **Commits del Informe**
 
-Link del repositorio: 
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/2615d25907147f917ce886746edce95bf5e9a8a7/Assets/Commits1.PNG" width="100%"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/2615d25907147f917ce886746edce95bf5e9a8a7/Assets/Commits2.PNG" width="100%"/>
+
+Link del repositorio: <https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report>
 
 # **Student Outcome**
 
 **ABET - EAC - Student Outcome 3:** Capacidad de comunicarse efectivamente con un rango de audiencias.
-
-
-
 
 # Contenido
 
