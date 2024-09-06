@@ -432,6 +432,7 @@ En este apartado se le mostrará los Meta Tags y los SEO tags que hemos utilizad
 </head>
 ```
 ### **4.2.4. Searching Systems** 
+Las empresas podrán buscar influencers adecuados para sus campañas a través de un menú en la página principal, accesible después de iniciar sesión. Podrán filtrar influencers por categorías como la temática de su contenido, la plataforma en la que operan (Instagram, TikTok, YouTube, etc.), la cantidad de seguidores y las herramientas de promoción que utilizan. Además, los usuarios podrán ver videos o publicaciones relevantes de los influencers para evaluar si son adecuados para su marca.
 ### **4.2.5. Navigation Systems** 
 
 ## **4.3. Landing Page UI Design** 
