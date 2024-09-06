@@ -434,6 +434,9 @@ En este apartado se le mostrará los Meta Tags y los SEO tags que hemos utilizad
 ### **4.2.4. Searching Systems** 
 Las empresas podrán buscar influencers adecuados para sus campañas a través de un menú en la página principal, accesible después de iniciar sesión. Podrán filtrar influencers por categorías como la temática de su contenido, la plataforma en la que operan (Instagram, TikTok, YouTube, etc.), la cantidad de seguidores y las herramientas de promoción que utilizan. Además, los usuarios podrán ver videos o publicaciones relevantes de los influencers para evaluar si son adecuados para su marca.
 ### **4.2.5. Navigation Systems** 
+El sistema de navegación del sitio web incluye menús superiores e inferiores que permiten a los usuarios iniciar sesión, registrarse, explorar planes de suscripción o leer más sobre el equipo detrás de la plataforma. También es posible desplazarse verticalmente a lo largo de la página para obtener más información sobre los servicios.
+
+Después de iniciar sesión, los usuarios accederán a un menú jerárquico que presenta las principales funciones, como la búsqueda de influencers, la revisión de campañas activas, la configuración de la cuenta y el acceso a videos o guías educativas sobre cómo gestionar campañas. Cada menú permite regresar a la página anterior y cuenta con botones que destacan claramente las opciones disponibles para facilitar la navegación.
 
 ## **4.3. Landing Page UI Design** 
 ### **4.3.1. Landing Page Wireframe** 
