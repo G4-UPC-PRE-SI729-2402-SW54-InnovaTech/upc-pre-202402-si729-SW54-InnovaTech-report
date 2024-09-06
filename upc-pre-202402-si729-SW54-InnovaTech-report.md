@@ -673,7 +673,6 @@ User representa los datos que el usuario debe completar con su información para
 | email        | string - Correo electrónico del usuario.         |
 | role         | string - Rol del usuario en la plataforma (Influencer, Empresa, Streamer). |
 
----
 
 ### **Profile**
 Profile contiene detalles adicionales sobre un usuario, incluyendo su biografía y enlaces a redes sociales.
@@ -684,7 +683,6 @@ Profile contiene detalles adicionales sobre un usuario, incluyendo su biografía
 | bio          | string - Biografía del usuario.                  |
 | socialLinks  | list<string> - Enlaces a las redes sociales del usuario. |
 
----
 
 ### **Contract**
 Contract representa un contrato o acuerdo entre un influencer o streamer y una empresa para colaborar.
@@ -695,7 +693,6 @@ Contract representa un contrato o acuerdo entre un influencer o streamer y una e
 | status       | string - Estado actual del contrato (activo, en negociación, completado). |
 | terms        | string - Términos y condiciones del contrato.    |
 
----
 
 ### **Review**
 Review representa una reseña escrita por un usuario (influencer o empresa) sobre una colaboración o servicio.
@@ -706,7 +703,6 @@ Review representa una reseña escrita por un usuario (influencer o empresa) sobr
 | rating       | int - Puntuación de la reseña.                   |
 | comment      | string - Comentario escrito por el usuario.      |
 
----
 
 ### **InteractionHistory**
 InteractionHistory registra los historiales de interacción de un influencer o streamer en diferentes plataformas, incluyendo métricas de engagement.
@@ -717,7 +713,6 @@ InteractionHistory registra los historiales de interacción de un influencer o s
 | platform        | string - Plataforma donde se registró la interacción (e.g., Instagram, YouTube). |
 | engagementData  | string - Datos sobre la interacción, como número de likes, comentarios, etc. |
 
----
 
 ### **Opportunity**
 Opportunity representa una oportunidad de colaboración publicada por empresas para que los influencers puedan aplicar.
@@ -729,7 +724,6 @@ Opportunity representa una oportunidad de colaboración publicada por empresas p
 | requirements    | string - Requisitos específicos que debe cumplir el influencer o streamer. |
 | status          | string - Estado de la oportunidad (abierta, cerrada). |
 
----
 
 ### **Notification**
 Notification maneja las notificaciones enviadas a los usuarios sobre nuevas oportunidades, mensajes, o actualizaciones en la plataforma.
