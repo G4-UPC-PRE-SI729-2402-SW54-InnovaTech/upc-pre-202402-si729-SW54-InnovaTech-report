@@ -507,6 +507,8 @@ Estos wireframes ofrecen una visión clara y funcional del diseño de la aplicac
 
 ![](Assets/web_applications_wireframe2.png)
 
+![Link Figma Web Applications Wireframes Connex](https://www.figma.com/design/6L2Bb5po6Rord0LqHStnqG/Wireframe-Web-Design-Connex?node-id=0-1&t=YATYXEivOVFpD63R-1)
+
 ### **4.4.2. Web Applications Wireflow Diagrams**
 
 Segmento Objetivo: Influencers (Microinfluencers y Medianos Influencers)
