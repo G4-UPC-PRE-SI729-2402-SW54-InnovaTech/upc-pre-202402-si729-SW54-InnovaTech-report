@@ -663,88 +663,84 @@ El Diagrama de Clases muestra la estructura detallada de las clases principales 
 
 ### **4.7.2. Class Dictionary** 
 
-User
+### **User**
+User representa los datos que el usuario debe completar con su información para registrarse.
 
-Descripción: Representa a cualquier usuario registrado en la plataforma Connex, incluyendo influencers y empresas medianas.
-Atributos:
-userId (String): Identificador único del usuario.
-name (String): Nombre del usuario.
-email (String): Correo electrónico del usuario.
-role (String): Rol del usuario en la plataforma (Influencer, Empresa, Streamer).
-Métodos:
-login(): Permite al usuario iniciar sesión en la plataforma.
-logout(): Permite al usuario cerrar sesión.
-register(): Registra a un nuevo usuario en la plataforma.
-updateProfile(): Permite al usuario actualizar su información de perfil.
+| **Atributo** | **Descripción**                                  |
+|--------------|--------------------------------------------------|
+| userId       | string - Identificador único del usuario.        |
+| name         | string - Nombre del usuario.                     |
+| email        | string - Correo electrónico del usuario.         |
+| role         | string - Rol del usuario en la plataforma (Influencer, Empresa, Streamer). |
 
-Profile
+---
 
-Descripción: Detalles adicionales sobre un usuario, incluyendo su biografía y enlaces a redes sociales.
-Atributos:
-profileId (String): Identificador único del perfil.
-bio (String): Biografía del usuario.
-socialLinks (List<String>): Enlaces a las redes sociales del usuario.
-Métodos:
-editProfile(): Permite editar los detalles del perfil.
+### **Profile**
+Profile contiene detalles adicionales sobre un usuario, incluyendo su biografía y enlaces a redes sociales.
 
-Contract
+| **Atributo** | **Descripción**                                  |
+|--------------|--------------------------------------------------|
+| profileId    | string - Identificador único del perfil.         |
+| bio          | string - Biografía del usuario.                  |
+| socialLinks  | list<string> - Enlaces a las redes sociales del usuario. |
 
-Descripción: Representa un contrato o acuerdo entre un influencer o streamer y una empresa para colaborar.
-Atributos:
-contractId (String): Identificador único del contrato.
-status (String): Estado actual del contrato (activo, en negociación, completado).
-terms (String): Términos y condiciones del contrato.
-Métodos:
-createContract(): Permite la creación de un nuevo contrato.
-updateContract(): Actualiza los términos o el estado del contrato.
-cancelContract(): Cancela un contrato existente.
+---
 
-Review
+### **Contract**
+Contract representa un contrato o acuerdo entre un influencer o streamer y una empresa para colaborar.
 
-Descripción: Representa una reseña escrita por un usuario (influencer o empresa) sobre una colaboración o servicio.
-Atributos:
-reviewId (String): Identificador único de la reseña.
-rating (Int): Puntuación de la reseña.
-comment (String): Comentario escrito por el usuario.
-Métodos:
-writeReview(): Permite al usuario escribir una nueva reseña.
-editReview(): Permite editar una reseña existente.
-deleteReview(): Elimina una reseña existente.
+| **Atributo** | **Descripción**                                  |
+|--------------|--------------------------------------------------|
+| contractId   | string - Identificador único del contrato.       |
+| status       | string - Estado actual del contrato (activo, en negociación, completado). |
+| terms        | string - Términos y condiciones del contrato.    |
 
-InteractionHistory
+---
 
-Descripción: Registra los historiales de interacción de un influencer o streamer en diferentes plataformas, incluyendo métricas de engagement.
-Atributos:
-historyId (String): Identificador único del historial de interacción.
-platform (String): Plataforma donde se registró la interacción (e.g., Instagram, YouTube).
-engagementData (String): Datos sobre la interacción, como número de likes, comentarios, etc.
-Métodos:
-uploadHistory(): Permite subir un nuevo historial de interacción.
-viewHistory(): Permite al usuario visualizar sus historiales subidos.
+### **Review**
+Review representa una reseña escrita por un usuario (influencer o empresa) sobre una colaboración o servicio.
 
-Opportunity
+| **Atributo** | **Descripción**                                  |
+|--------------|--------------------------------------------------|
+| reviewId     | string - Identificador único de la reseña.       |
+| rating       | int - Puntuación de la reseña.                   |
+| comment      | string - Comentario escrito por el usuario.      |
 
-Descripción: Representa una oportunidad de colaboración publicada por empresas para que los influencers puedan aplicar.
-Atributos:
-opportunityId (String): Identificador único de la oportunidad.
-description (String): Descripción de la oportunidad de colaboración.
-requirements (String): Requisitos específicos que debe cumplir el influencer o streamer.
-status (String): Estado de la oportunidad (abierta, cerrada).
-Métodos:
-applyForOpportunity(): Permite a los influencers aplicar a una oportunidad.
-reviewApplications(): Permite a las empresas revisar las aplicaciones recibidas.
+---
 
-Notification
+### **InteractionHistory**
+InteractionHistory registra los historiales de interacción de un influencer o streamer en diferentes plataformas, incluyendo métricas de engagement.
 
-Descripción: Maneja las notificaciones enviadas a los usuarios sobre nuevas oportunidades, mensajes, o actualizaciones en la plataforma.
-Atributos:
-notificationId (String): Identificador único de la notificación.
-type (String): Tipo de notificación (oportunidad, mensaje, actualización).
-message (String): Contenido del mensaje de notificación.
-readStatus (Boolean): Indica si la notificación ha sido leída.
-Métodos:
-sendNotification(): Envía una notificación al usuario.
-markAsRead(): Marca una notificación como leída.
+| **Atributo**    | **Descripción**                               |
+|-----------------|-----------------------------------------------|
+| historyId       | string - Identificador único del historial de interacción. |
+| platform        | string - Plataforma donde se registró la interacción (e.g., Instagram, YouTube). |
+| engagementData  | string - Datos sobre la interacción, como número de likes, comentarios, etc. |
+
+---
+
+### **Opportunity**
+Opportunity representa una oportunidad de colaboración publicada por empresas para que los influencers puedan aplicar.
+
+| **Atributo**    | **Descripción**                               |
+|-----------------|-----------------------------------------------|
+| opportunityId   | string - Identificador único de la oportunidad. |
+| description     | string - Descripción de la oportunidad de colaboración. |
+| requirements    | string - Requisitos específicos que debe cumplir el influencer o streamer. |
+| status          | string - Estado de la oportunidad (abierta, cerrada). |
+
+---
+
+### **Notification**
+Notification maneja las notificaciones enviadas a los usuarios sobre nuevas oportunidades, mensajes, o actualizaciones en la plataforma.
+
+| **Atributo**    | **Descripción**                               |
+|-----------------|-----------------------------------------------|
+| notificationId  | string - Identificador único de la notificación. |
+| type            | string - Tipo de notificación (oportunidad, mensaje, actualización). |
+| message         | string - Contenido del mensaje de notificación. |
+| readStatus      | bool - Indica si la notificación ha sido leída. |
+
 
 ## **4.8. Database Design** 
 ### **4.8.1. Database Diagram** 
