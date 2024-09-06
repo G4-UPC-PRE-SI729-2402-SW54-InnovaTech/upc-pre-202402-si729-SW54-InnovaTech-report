@@ -411,7 +411,46 @@ Esta sección se centra en los elementos clave del contenido visual, estilos, et
 
 ### **4.2.1. Organization Systems** 
 
+**Menú Principal:**
+- **Home:** Vista general de la empresa Connex, sus objetivos y una opción para suscribirse.
+- **About Us:** Página que presenta al equipo de Innovatech, con información sobre su rol y experiencia.
+- **Services:** Página que muestra los servicios disponibles: gestión de redes sociales, análisis de datos y gestión de campañas.
+- **Contact Us:** Página de contacto con información para conectarse con la empresa, incluyendo correo electrónico y teléfono.
+
+**Página de Home:**
+- Presenta una descripción de la empresa Connex y la importancia de sus soluciones tecnológicas.
+- Botón de acción principal: "Suscríbete ahora".
+
+**Página de About Us:**
+- Información detallada sobre el equipo Innovatech: incluye nombres, fotos, posiciones y una breve descripción de sus áreas de especialización.
+
+**Página de Services:**
+- Lista de servicios ofrecidos:
+  - Gestión de redes sociales.
+  - Análisis de métricas automatizadas.
+  - Gestión de campañas.
+
+**Página de Contact Us:**
+- Muestra los métodos de contacto disponibles, incluyendo:
+  - Correo electrónico.
+  - Número telefónico.
+  - Dirección física.
+
+
 ### **4.2.2. Labeling Systems** 
+
+Los sistemas de etiquetado garantizan una navegación sencilla y fácil de entender para el usuario, haciendo más accesible el uso del sitio web. 
+**Principios de Etiquetado:**
+- **Consistencia:** Uso uniforme de términos claros para todas las secciones.
+- **Claridad y Precisión:** Las etiquetas son directas y describen con exactitud el contenido de cada página o sección.
+
+**Ejemplos de Etiquetas:**
+
+- **Menú Principal:** "Home", "About Us", "Services", "Contact Us".
+- **Subsecciones:**
+  - **About Us:** Nombres y títulos del equipo: "Sebastián Escobar", "Matías Javier", "Ian Montoya", "Marco Nakazone", "Jorge León".
+  - **Services:** "Gestión de redes sociales", "Análisis de métricas", "Gestión de campañas".
+- **Campos de Formulario (en Contact Us):** "Nombre", "Correo electrónico", "Mensaje", "Enviar".
 
 ### **4.2.3. SEO Tags and Meta Tags** 
 En este apartado se le mostrará los Meta Tags y los SEO tags que hemos utilizado en el Landing Page con el objetivo de tener una buena experiencia como usuario y ser de facil accesibilidad.
