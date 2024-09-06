@@ -410,7 +410,9 @@ Uno de los enfoques clave en nuestro diseño es el uso del patrón en forma de Z
 Esta sección se centra en los elementos clave del contenido visual, estilos, etiquetas, y otros aspectos relevantes que se tendrán en cuenta durante el desarrollo del sitio web y el landing page.
 
 ### **4.2.1. Organization Systems** 
+
 ### **4.2.2. Labeling Systems** 
+
 ### **4.2.3. SEO Tags and Meta Tags** 
 En este apartado se le mostrará los Meta Tags y los SEO tags que hemos utilizado en el Landing Page con el objetivo de tener una buena experiencia como usuario y ser de facil accesibilidad.
 ```html
@@ -459,6 +461,18 @@ La página web, vista desde un navegador de escritorio, incluye secciones clave 
 
 La landing page vista desde un navegador móvil contiene el mismo contenido que la versión de escritorio, adaptado al tamaño del dispositivo. Un diseño responsive es valioso porque permite acceder a la misma información desde cualquier dispositivo sin problemas.
 
+
+<img src="Assets/webpage/Mobile1.png" style="width: 100%;"/>
+d
+<img src="Assets/webpage/Mobile 2.png" style="width: 100%;"/>
+
+<img src="Assets/webpage/Mobile 3.png" style="width: 100%;"/>
+
+<img src="Assets/webpage/Mobile 4.png" style="width: 100%;"/>
+
+<img src="Assets/webpage/Mobile 5.png" style="width: 100%;"/>
+
+
 ### **4.3.2. Landing Page Mock-up** 
 
 **Landing Page para Desktop Web Browser**
@@ -476,6 +490,8 @@ El wireframe de la versión desktop fue útil para organizar los elementos. Con 
 **Landing Page para Mobile Web Browser**
 
 El mock-up para la landing page móvil mantiene los mismos elementos, con una tipografía y contraste de colores que aseguran una lectura fácil en ambos dispositivos.
+
+
 
 ## **4.4. Web Applications UX/UI Design** 
 ### **4.4.1. Web Applications Wireframes** 
@@ -790,55 +806,7 @@ Link: [Lucidchart Diagrama de Base de Datos](https://lucid.app/lucidchart/65a43a
 #### **5.2.1.5. Execution Evidence for Sprint Review**
 #### **5.2.1.6. Services Documentation Evidence for Sprint Review**
 #### **5.2.1.7. Software Deployment Evidence for Sprint Review**
-
-Durante el desarrollo del proyecto, se implementaron dos repositorios separados en GitHub para gestionar los distintos componentes de la aplicación:
-
-Repositorio para la Landing Page: `upc-pre-202402-si729-SW54-InnovaTech-landing-page`.
-
-Repositorio para el Reporte: `upc-pre-202402-si729-SW54-InnovaTech-report` .
-
-Evidencia de Despliegue y Colaboración:
-
-Repositorios Utilizados:
-
-El repositorio de la Landing Page contiene ramas específicas para funcionalidades como `feature/contactus`, `feature/footer`, y `feature/services`. Estas ramas indican un enfoque modular para el desarrollo, permitiendo a los miembros del equipo trabajar en características específicas de la landing page de forma simultánea y organizada.
-
-El repositorio del Reporte ha tenido actualizaciones constantes. Este repositorio incluye ramas designadas para cada capítulo del reporte, como `feature/chapter1`, `feature/chapter2`, etc., lo cual facilita la colaboración entre los miembros del equipo y asegura que cada sección del reporte sea desarrollada y revisada individualmente antes de ser integrada al documento principal.
-
-Ramas de Desarrollo:
-
-Para la Landing Page, se crearon ramas específicas para cada funcionalidad clave, como `feature/contactus`, `feature/footer`, y `feature/services`. Esto demuestra un enfoque estructurado y modular al desarrollo, permitiendo que diferentes funcionalidades sean trabajadas y probadas independientemente antes de ser fusionadas en la rama principal.
-
-En el caso del Reporte, se emplearon ramas como `feature/chapter1` hasta `feature/chapter5`, asignadas a cada miembro del grupo para el desarrollo de capítulos específicos. Esta estrategia de ramas por capítulos no solo facilita la colaboración y el control de versiones, sino que también permite revisiones específicas y mejoras iterativas.
-
-Estructura de Ramas y Despliegue:
-
-La rama principal (`main`) de ambos repositorios se utiliza para integrar las funcionalidades y los capítulos finalizados y revisados. Además, se observa una rama de desarrollo (`develop`), que probablemente sirve como un entorno intermedio para pruebas y revisiones adicionales antes de fusionar los cambios a la rama principal.
-
-![Repositorios Connex](Assets/reports/repositorios_connex.JPG)
-
-![Ramas de Landing Page](Assets/reports/ramas_landing_page.JPG)
-
-![Ramas del Reporte](Assets/reports/ramas_reporte.JPG)
-
 #### **5.2.1.8. Team Collaboration Insights during Sprint**
-
-Este capítulo debe resaltar cómo el equipo colaboró durante el sprint, mostrando las dinámicas de trabajo y la contribución de cada miembro.
-
-Colaboración del Equipo:
-
-Durante el período del 30 de agosto de 2024 al 6 de septiembre de 2024, 5 autores contribuyeron activamente al proyecto, con un total de 14 commits realizados a la rama principal y 80 commits a todas las ramas del repositorio.
-Contribuciones por Autor:
-
-Los gráficos muestran la actividad de los miembros del equipo, visualizando la frecuencia de commits y el flujo de trabajo. La participación activa de cada miembro puede ser resaltada para demostrar una colaboración efectiva.
-Manejo de Pull Requests:
-
-No hubo issues activos durante el periodo, lo cual indica una buena gestión de tareas y una comunicación clara entre los miembros para resolver problemas antes de que se conviertan en issues formales.
-Frecuencia y Distribución del Trabajo:
-
-La imagen del gráfico de commits muestra picos de actividad que pueden ser indicativos de sesiones de trabajo conjunto, revisiones de código en equipo, o sprints de desarrollo intensivo.
-
-![Reporte Sprint1](Assets/reports/git_insights.JPG)
 
 ### **5.2.2. Sprint 2**
 #### **5.2.2.1. Sprint Planning 2**
