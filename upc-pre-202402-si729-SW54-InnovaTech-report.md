@@ -440,33 +440,6 @@ Después de iniciar sesión, los usuarios accederán a un menú jerárquico que 
 
 ## **4.3. Landing Page UI Design** 
 ### **4.3.1. Landing Page Wireframe** 
-
-Los wireframes presentados corresponden a la aplicación web de la plataforma "Connex", diseñada para facilitar la interacción entre influencers y empresas medianas. Estos prototipos muestran una variedad de pantallas clave que abarcan desde el inicio de sesión y registro de usuarios hasta la gestión de perfiles, contratos, y citas, así como la publicación y visualización de reseñas.
-
-Descripción General de los Wireframes:
-Pantallas de Autenticación:
-
-Incluyen el flujo para la pantalla de inicio de sesión, registro de nuevos usuarios, y la opción para recuperar y cambiar contraseñas. Estas pantallas aseguran un acceso seguro y simplificado a la plataforma para todos los usuarios.
-Dashboard y Gestión de Perfil:
-
-Tras el inicio de sesión, los usuarios son dirigidos a un dashboard que sirve como el centro de operaciones dentro de la aplicación. Aquí, los usuarios pueden acceder a sus perfiles, editar su información personal y ver un resumen de sus actividades en la plataforma.
-Agendar y Gestionar Citas:
-
-Los wireframes muestran cómo los usuarios pueden explorar fechas disponibles y agendar citas, proporcionando una interfaz intuitiva para seleccionar horarios convenientes y gestionar sus compromisos.
-Procesos de Pago:
-
-Se incluyen pantallas detalladas para la realización de pagos, donde los usuarios pueden ver los detalles de sus transacciones, confirmar pagos y manejar posibles errores durante el proceso.
-Historial de Interacción y Colaboración:
-
-Los usuarios pueden acceder a un historial detallado de sus interacciones pasadas, permitiendo revisar y gestionar contratos y colaboraciones con empresas. Estas pantallas están diseñadas para ofrecer una visión clara y organizada del historial de actividades.
-Visualización y Publicación de Reseñas:
-
-Los wireframes también cubren la funcionalidad de reseñas, donde los usuarios pueden ver comentarios y valoraciones de otros, así como publicar sus propias reseñas sobre las colaboraciones. Esto fomenta la transparencia y la retroalimentación dentro de la plataforma.
-Componentes y Activos:
-
-Las pantallas de componentes y activos muestran elementos reutilizables dentro de la interfaz de usuario, asegurando una experiencia consistente y cohesiva en toda la aplicación.
-Estos wireframes ofrecen una visión clara y funcional del diseño de la aplicación web de Connex, centrada en la facilidad de uso y la eficiencia para los usuarios, desde el acceso y configuración del perfil hasta la gestión completa de interacciones y colaboraciones. Este diseño iterativo sirve como base para el desarrollo y refinamiento continuo de la plataforma.
-
 **Landing Page para Desktop Web Browser**
 
 La página web, vista desde un navegador de escritorio, incluye secciones clave como una descripción de la página y sus principales apartados. También ofrece un formulario para contactar a los desarrolladores a través de correo electrónico.
@@ -503,6 +476,37 @@ El mock-up para la landing page móvil mantiene los mismos elementos, con una ti
 
 ## **4.4. Web Applications UX/UI Design** 
 ### **4.4.1. Web Applications Wireframes** 
+
+Los wireframes presentados corresponden a la aplicación web de la plataforma "Connex", diseñada para facilitar la interacción entre influencers y empresas medianas. Estos prototipos muestran una variedad de pantallas clave que abarcan desde el inicio de sesión y registro de usuarios hasta la gestión de perfiles, contratos, y citas, así como la publicación y visualización de reseñas.
+
+Descripción General de los Wireframes:
+Pantallas de Autenticación:
+
+Incluyen el flujo para la pantalla de inicio de sesión, registro de nuevos usuarios, y la opción para recuperar y cambiar contraseñas. Estas pantallas aseguran un acceso seguro y simplificado a la plataforma para todos los usuarios.
+Dashboard y Gestión de Perfil:
+
+Tras el inicio de sesión, los usuarios son dirigidos a un dashboard que sirve como el centro de operaciones dentro de la aplicación. Aquí, los usuarios pueden acceder a sus perfiles, editar su información personal y ver un resumen de sus actividades en la plataforma.
+Agendar y Gestionar Citas:
+
+Los wireframes muestran cómo los usuarios pueden explorar fechas disponibles y agendar citas, proporcionando una interfaz intuitiva para seleccionar horarios convenientes y gestionar sus compromisos.
+Procesos de Pago:
+
+Se incluyen pantallas detalladas para la realización de pagos, donde los usuarios pueden ver los detalles de sus transacciones, confirmar pagos y manejar posibles errores durante el proceso.
+Historial de Interacción y Colaboración:
+
+Los usuarios pueden acceder a un historial detallado de sus interacciones pasadas, permitiendo revisar y gestionar contratos y colaboraciones con empresas. Estas pantallas están diseñadas para ofrecer una visión clara y organizada del historial de actividades.
+Visualización y Publicación de Reseñas:
+
+Los wireframes también cubren la funcionalidad de reseñas, donde los usuarios pueden ver comentarios y valoraciones de otros, así como publicar sus propias reseñas sobre las colaboraciones. Esto fomenta la transparencia y la retroalimentación dentro de la plataforma.
+Componentes y Activos:
+
+Las pantallas de componentes y activos muestran elementos reutilizables dentro de la interfaz de usuario, asegurando una experiencia consistente y cohesiva en toda la aplicación.
+Estos wireframes ofrecen una visión clara y funcional del diseño de la aplicación web de Connex, centrada en la facilidad de uso y la eficiencia para los usuarios, desde el acceso y configuración del perfil hasta la gestión completa de interacciones y colaboraciones. Este diseño iterativo sirve como base para el desarrollo y refinamiento continuo de la plataforma.
+
+![](Assets/web_applications_wireframe1.png)
+
+![](Assets/web_applications_wireframe2.png)
+
 ### **4.4.2. Web Applications Wireflow Diagrams**
 
 Segmento Objetivo: Influencers (Microinfluencers y Medianos Influencers)
