@@ -483,14 +483,10 @@ En el primer sprint, el equipo se enfocó en crear una landing page atractiva y 
 | :- | :- | :- | :- | :- | :- | :- | :- |
 |User Story|Work Item/Task|||||||
 |Id|Title|Id|Title|Descripción|Estimación (Hours)|Assigned to|Status (In -process / To - review / Done)|
-|US01|Registro de las Cuenta|UT01|Página de registro de Cuenta|<p>Verificación de datos del usuario y almacenamiento protegido.</p><p></p>|2|Sebastian Escobar|Done|
-|US02|<p>Inicio de Sesión</p><p></p>|UT02|Pantalla de acceso.|Aplicación de un sistema de autenticación segura.|2|Mathias  Javier|Done|
-|US03|Obtener información sobre la App|UT03|Ver secciones de información |En este apartado se mostrará información de la App|2|Marco Nakasone|Done|
-|US04|Exploración de influencers|UT04|Listado de Influencers|Explora un listado de influencers para ver sus perfiles y determinar cuáles son adecuados|2|Jorge Laban|Done|
-|US05|Detalles de Influencers |UT05|Detalles de Perfiles de Influencers|Ve los detalles del perfil de cada influencer, incluyendo estadísticas, categorías de contenido y reseñas,|3|Ian Macavilca|Done|
-|US06|Contacto entre la marca e influencer|UT06|Contactar Influencers|Poder contactar directamente a los influencers desde la plataforma para discutir posibles colaboraciones y coordinar detalles de campañas|3|Mathias Javier|Done|
-|US07|Calificación y reseñas |UT7|<p>Valoración y Opiniones de Influencers</p><p></p>|Calificación y reseñas sobre los influencers , en base a experiencias de las empresas|4|` `Mathias Javier|Done|
-|US08|Comparar Influencers |UT08|Comparativa de Influencers|Opción de comparar varios influencers lado a lado, viendo sus estadísticas clave y característica|2|Sebastian Escobar|Done|
+|US01|Descripción de la web|UT01|Acerca de la web|Descripción de lo que trata nuestra pagina web. |1|Ian Macavilca|Done|
+|US02|Accesibilidad del contenido|UT02|Disponibilidad accesible del contenido.|Que la página de contacto sea compatible con herramientas de lectura de pantalla, para poder acceder fácilmente a la información de contacto de Connex|2|Mathias Javier|Done|
+|US03|Integración con formularios de contacto|UT03|Conexión con formularios de contacto.|Formulario de contacto integrado en la misma sección, para enviar consultas o solicitudes directamente desde la web .|2|Marco Nakasone|Done|
+|US04|Diseño responsive del formulario de contacto|UT04|Diseño del formulario|Que la sección de contacto se visualice correctamente en cualquier dispositivo.|1|Sebastian Escobar|Done|
 
 #### **5.2.1.3. Development Evidence for Sprint Review**
 #### **5.2.1.4. Testing Suite Evidence for Sprint Review**
