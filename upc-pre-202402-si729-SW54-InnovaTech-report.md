@@ -635,18 +635,7 @@ En este wireflow, se visualiza el proceso para que el usuario influencer revise 
 
 ### **4.4.3. Web Applications Mock-ups** 
 
-Segmento Objetivo influencers
-
-Imagen
-
-Link:
-
-
-Segmento Objetivo Medianas Empresas
-
-Imagen
-
-Link:
+![](Assets/MockUp_WebApp.PNG)
 
 ### **4.4.4. Web Applications User Flow Diagrams** 
 
