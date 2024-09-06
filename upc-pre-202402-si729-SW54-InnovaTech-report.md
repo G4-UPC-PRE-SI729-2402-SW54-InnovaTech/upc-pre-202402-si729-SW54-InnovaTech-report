@@ -503,9 +503,9 @@ Componentes y Activos:
 Las pantallas de componentes y activos muestran elementos reutilizables dentro de la interfaz de usuario, asegurando una experiencia consistente y cohesiva en toda la aplicación.
 Estos wireframes ofrecen una visión clara y funcional del diseño de la aplicación web de Connex, centrada en la facilidad de uso y la eficiencia para los usuarios, desde el acceso y configuración del perfil hasta la gestión completa de interacciones y colaboraciones. Este diseño iterativo sirve como base para el desarrollo y refinamiento continuo de la plataforma.
 
-![](Assets/web_applications_wireframe1.png)
+![](Assets/web_applications_wireframe1.JPG)
 
-![](Assets/web_applications_wireframe2.png)
+![](Assets/web_applications_wireframe2.JPG)
 
 ![Link Figma Web Applications Wireframes Connex](https://www.figma.com/design/6L2Bb5po6Rord0LqHStnqG/Wireframe-Web-Design-Connex?node-id=0-1&t=YATYXEivOVFpD63R-1)
 
