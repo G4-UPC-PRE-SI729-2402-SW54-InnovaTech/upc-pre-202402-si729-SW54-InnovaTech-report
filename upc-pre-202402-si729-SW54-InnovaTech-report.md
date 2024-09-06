@@ -442,7 +442,7 @@ En este apartado se le mostrará los Meta Tags y los SEO tags que hemos utilizad
 ### **4.4.1. Web Applications Wireframes** 
 ### **4.4.2. Web Applications Wireflow Diagrams**
 
-Segmento Objetivo: Influencers (Streamers, Microinfluencers y Medianos Influencers)
+Segmento Objetivo: Influencers (Microinfluencers y Medianos Influencers)
 
 User Goal:
 Como usuario streamer, deseo iniciar sesión para ingresar a Connex.
@@ -564,7 +564,7 @@ Descripción: En este wireflow, se detalla cómo la empresa puede publicar una r
 
 ### **4.4.3. Web Applications Mock-ups** 
 
-Segmento Objetivo Streamers
+Segmento Objetivo influencers
 
 Imagen
 
@@ -579,7 +579,7 @@ Link:
 
 ### **4.4.4. Web Applications User Flow Diagrams** 
 
-Segmento Objetivo: Streamers
+Segmento Objetivo: influencers
 
 User Goal: Como streamer, deseo iniciar sesión para ingresar a Connex.
 Descripción: En este wireflow, se evidencia el flujo que seguirá el streamer para iniciar sesión en Connex. Comenzará en la pantalla de login, seleccionará la opción "Streamer" e ingresará su correo electrónico y contraseña. Si los datos son correctos, podrá acceder a la plataforma; de lo contrario, se mostrarán mensajes de alerta indicando errores en el inicio de sesión.
@@ -597,7 +597,7 @@ User Goal: Como streamer, deseo explorar y aplicar a oportunidades de colaboraci
 Descripción: En este wireflow, el streamer accede a la sección de "Oportunidades" para explorar posibles colaboraciones con empresas. Puede aplicar filtros según sus intereses y aplicar a las oportunidades que se alineen con sus objetivos. Desde esta vista, también podrá enviar propuestas y comunicarse con las empresas interesadas en sus servicios.
 
 User Goal: Como streamer, deseo ver y editar mi perfil en Connex.
-Descripción: Este wireflow detalla cómo los streamers pueden acceder y modificar su perfil. Desde la página principal, el streamer hace clic en su foto de perfil y accede a "Información Personal". Puede revisar y editar los datos, como su biografía y enlaces a redes sociales, y debe hacer clic en "Guardar" para aplicar los cambios. Si decide no hacer modificaciones, puede salir sin guardar.
+Descripción: Este wireflow detalla cómo los influencers pueden acceder y modificar su perfil. Desde la página principal, el streamer hace clic en su foto de perfil y accede a "Información Personal". Puede revisar y editar los datos, como su biografía y enlaces a redes sociales, y debe hacer clic en "Guardar" para aplicar los cambios. Si decide no hacer modificaciones, puede salir sin guardar.
 
 User Goal: Como streamer, deseo recibir notificaciones sobre nuevas oportunidades y actividad en la plataforma.
 Descripción: En este wireflow, el streamer configura sus preferencias de notificación desde su perfil. Puede optar por recibir alertas sobre nuevas colaboraciones, mensajes de empresas y actualizaciones de la plataforma. Las notificaciones se envían en tiempo real para mantener al streamer informado y ayudarle a gestionar sus oportunidades de manera eficiente.
@@ -665,7 +665,7 @@ El Diagrama de Clases muestra la estructura detallada de las clases principales 
 
 User
 
-Descripción: Representa a cualquier usuario registrado en la plataforma Connex, incluyendo influencers, empresas medianas, y streamers.
+Descripción: Representa a cualquier usuario registrado en la plataforma Connex, incluyendo influencers y empresas medianas.
 Atributos:
 userId (String): Identificador único del usuario.
 name (String): Nombre del usuario.
@@ -724,14 +724,14 @@ viewHistory(): Permite al usuario visualizar sus historiales subidos.
 
 Opportunity
 
-Descripción: Representa una oportunidad de colaboración publicada por empresas para que los influencers o streamers puedan aplicar.
+Descripción: Representa una oportunidad de colaboración publicada por empresas para que los influencers puedan aplicar.
 Atributos:
 opportunityId (String): Identificador único de la oportunidad.
 description (String): Descripción de la oportunidad de colaboración.
 requirements (String): Requisitos específicos que debe cumplir el influencer o streamer.
 status (String): Estado de la oportunidad (abierta, cerrada).
 Métodos:
-applyForOpportunity(): Permite a los streamers o influencers aplicar a una oportunidad.
+applyForOpportunity(): Permite a los influencers aplicar a una oportunidad.
 reviewApplications(): Permite a las empresas revisar las aplicaciones recibidas.
 
 Notification
