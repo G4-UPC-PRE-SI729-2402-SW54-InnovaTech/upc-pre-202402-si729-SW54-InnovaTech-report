@@ -407,6 +407,7 @@ Desarrollaremos una aplicación que se adapte perfectamente a cualquier disposit
 Uno de los enfoques clave en nuestro diseño es el uso del patrón en forma de Z, que guía al usuario de manera intuitiva desde la esquina superior izquierda hasta la inferior derecha, asegurando un acceso rápido a la información clave.
 
 ## **4.2. Information Architecture** 
+Esta sección se centra en los elementos clave del contenido visual, estilos, etiquetas, y otros aspectos relevantes que se tendrán en cuenta durante el desarrollo del sitio web y el landing page.
 
 ### **4.2.1. Organization Systems** 
 ### **4.2.2. Labeling Systems** 
