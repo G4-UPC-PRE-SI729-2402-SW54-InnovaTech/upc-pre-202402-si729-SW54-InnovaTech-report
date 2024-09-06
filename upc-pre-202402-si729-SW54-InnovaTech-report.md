@@ -454,6 +454,18 @@ La landing page vista desde un navegador móvil contiene el mismo contenido que 
 
 ### **4.3.2. Landing Page Mock-up** 
 
+**Landing Page para Desktop Web Browser**
+
+El wireframe de la versión desktop fue útil para organizar los elementos. Con esa base, se creó el mock-up de la landing page, utilizando la misma paleta de colores y tipografía previamente definida.
+
+<img src="Assets/webpage/MockUp Landing 1.png" style="width: 50%;"/>
+
+<img src="Assets/webpage/MockUp Landing 2.png" style="width: 50%;"/>
+
+<img src="Assets/webpage/MockUp Landing 3.png" style="width: 50%;"/>
+
+<img src="Assets/webpage/MockUp Landing 4.png" style="width: 50%;"/>
+
 ## **4.4. Web Applications UX/UI Design** 
 ### **4.4.1. Web Applications Wireframes** 
 ### **4.4.2. Web Applications Wireflow Diagrams**
