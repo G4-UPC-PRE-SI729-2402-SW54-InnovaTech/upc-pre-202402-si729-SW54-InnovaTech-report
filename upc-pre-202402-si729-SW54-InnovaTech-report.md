@@ -372,15 +372,15 @@ La tipografía organiza el lenguaje visual de las plataformas, garantizando legi
 
 **Body**
 
-Imagen
+<img src="Assets/webpage/Body.png" style="width: 50%;"/>
 
 **Colors**
 
-imagen
+<img src="Assets/webpage/Colors.png" style="width: 50%;"/>
 
 **Spacing**
 
-imagen
+<img src="Assets/webpage/Spacing.png" style="width: 50%;"/>
 
 **Color Primario:** El azul como color primario transmite confianza, seguridad y profesionalismo, mientras que el blanco aporta simplicidad, pureza y limpieza, creando una combinación visual que inspira seriedad y accesibilidad en la plataforma.
 
