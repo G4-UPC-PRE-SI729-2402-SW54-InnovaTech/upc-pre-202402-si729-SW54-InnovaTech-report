@@ -479,14 +479,13 @@ Sprint # |Date |Time |Location |Prepared By |Attendees|
 #### **5.2.1.2. Sprint Backlog 1**
 En el primer sprint, el equipo se enfocó en crear una landing page atractiva y funcional, organizando y asignando tareas mediante el cuadro de Sprint según las habilidades de cada miembro.
 
-|# Sprint|Sprint 1|||||||
+|Sprint #||Sprint 1||||||
 | :- | :- | :- | :- | :- | :- | :- | :- |
-|User Story|Work Item/Task|||||||
+|User Story||Work Item / Task||||||
 |Id|Title|Id|Title|Descripción|Estimación (Hours)|Assigned to|Status (In -process / To - review / Done)|
-|US01|Descripción de la web|UT01|Acerca de la web|Descripción de lo que trata nuestra pagina web. |1|Ian Macavilca|Done|
-|US02|Accesibilidad del contenido|UT02|Disponibilidad accesible del contenido.|Que la página de contacto sea compatible con herramientas de lectura de pantalla, para poder acceder fácilmente a la información de contacto de Connex|2|Mathias Javier|Done|
-|US03|Integración con formularios de contacto|UT03|Conexión con formularios de contacto.|Formulario de contacto integrado en la misma sección, para enviar consultas o solicitudes directamente desde la web .|2|Marco Nakasone|Done|
-|US04|Diseño responsive del formulario de contacto|UT04|Diseño del formulario|Que la sección de contacto se visualice correctamente en cualquier dispositivo.|1|Sebastian Escobar|Done|
+|US01|Descripción de la web|UT01|Acerca de la web|Descripción de lo que trata nuestra pagina web. |1|Mathias Javier|Done|
+|US02|Accesibilidad del contenido|UT02|Disponibilidad accesible del contenido.|Que la página muestre el contenido correctamente (imágenes y enlaces).|2|Marco Nakasone y Sebastian Escobar|Done|
+|US02|Accesibilidad del contenido|UT03|Diseño responsive de la página|Que la página se visualice correctamente en cualquier dispositivo.|3|Ian Macavilca|Done|
 
 #### **5.2.1.3. Development Evidence for Sprint Review**
 
@@ -509,6 +508,11 @@ En el primer sprint, el equipo se enfocó en crear una landing page atractiva y 
 | upc-pre-202402-si729-SW54-InnovaTech-landing-page | develop |86e3e91 |Merge pull request #1 from G4-UPC-PRE-SI729-2402-SW54-InnovaTech/feature/contactus  |  | Sep 4, 2024 |
 
 #### **5.2.1.4. Testing Suite Evidence for Sprint Review**
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|------------|--------|-----------|----------------|---------------------|---------------------|
+| Tests | main |c5fcdad | Initial commit |  | Sep 2, 2024 |
+
 #### **5.2.1.5. Execution Evidence for Sprint Review**
 En el sprint 1 hemos logrado el desarrollo, diseño e implementación del Landing Page. En el mismo podemos encontrar las secciones que el usuario puede encontrar acerca de la Startup y del producto que estariamos ofreciendo. Ahora mostraremos las evidencias: 
 
