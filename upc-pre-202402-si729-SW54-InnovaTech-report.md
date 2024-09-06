@@ -512,13 +512,13 @@ En el primer sprint, el equipo se enfocó en crear una landing page atractiva y 
 #### **5.2.1.5. Execution Evidence for Sprint Review**
 En el sprint 1 hemos logrado el desarrollo, diseño e implementación del Landing Page. En el mismo podemos encontrar las secciones que el usuario puede encontrar acerca de la Startup y del producto que estariamos ofreciendo. Ahora mostraremos las evidencias: 
 
-1. Sección Home: En esta sección, el usuario podrá informarse un poco sobre lo que es nuestro producto junto con un botón para poder suscribirse.
+1. Sección Home: En esta sección, el usuario podrá informarse un poco sobre lo que es nuestro producto junto con un botón para poder suscribirse.<br>
 ![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/7449a5c97001b91a3cfd2bcc83d4403eedbcd415/Assets/HomeLanding.png)
-2. Sección About Us: En esta parte, el usuario podrá conocer a nuestro equipo de InnovaTech e informarse sobre quienes desarrollaron el producto.
+2. Sección About Us: En esta parte, el usuario podrá conocer a nuestro equipo de InnovaTech e informarse sobre quienes desarrollaron el producto.<br>
 ![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/7449a5c97001b91a3cfd2bcc83d4403eedbcd415/Assets/IntegrantesLanding.png)
 3. Sección For You: En esta sección el usuario podrá ver cuales son los servicios que le ofrecemos dentro de nuestro producto.<br>
 ![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/7449a5c97001b91a3cfd2bcc83d4403eedbcd415/Assets/ServiciosLanding.png)
-4. Sección Contact Us: En esta parte, el usuario podrá ver las formas o maneras de poder contactarse con nosotros, en caso haya algún problema o requiera información extra.
+4. Sección Contact Us: En esta parte, el usuario podrá ver las formas o maneras de poder contactarse con nosotros, en caso haya algún problema o requiera información extra.<br>
 ![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/7449a5c97001b91a3cfd2bcc83d4403eedbcd415/Assets/ContactoLanding.png)
 
 #### **5.2.1.6. Services Documentation Evidence for Sprint Review**
