@@ -595,3 +595,5 @@ Landing Page:
 # **Bibliografía**
 
 # **Anexos**
+1. Despliegue del Landing Page: <https://g4-upc-pre-si729-2402-sw54-innovatech.github.io/upc-pre-202402-si729-SW54-InnovaTech-landing-page/>
+2. Figma con los Wireframes, MockUps y User Flow Diagrams, tanto del Landing como del Web Application: <https://www.figma.com/design/uXYz1dq5QRdRAHkwtRY8bz/InnovaTech?node-id=6-185&t=Ko92iM4B2N0ar8xW-1>
