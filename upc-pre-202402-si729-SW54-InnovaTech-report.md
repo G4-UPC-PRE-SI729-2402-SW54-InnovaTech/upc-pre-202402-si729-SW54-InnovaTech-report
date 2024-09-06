@@ -532,8 +532,25 @@ En esta sección se presentará la documentación relacionada con los servicios 
 
 ![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/c703034dc33ecffbad5a7ce2665e47da72f4133b/Assets/Captura%20de%20pantalla%202024-09-05%20144902.png)
 #### **5.2.1.7. Software Deployment Evidence for Sprint Review**
-#### **5.2.1.8. Team Collaboration Insights during Sprint**
+Utilizando la herramienta de GitHub Pages completamos
+la información que nos piden como la fuente y rama de donde
+desplegaremos el trabajo, y luego de ellos nos brindará el link de
+nuestro sitio web desplegado.
 
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/ghpages.JPG?raw=true)
+Aquí la pagina desplegada
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/landing.JPG?raw=true)
+
+#### **5.2.1.8. Team Collaboration Insights during Sprint**
+Durante el desarrollo de este sprint, todos colaboramos de manera activa y continua para la elaboración de las task correspondientes. Mostramos la evidencia de los avances individuales:
+
+Report:
+
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/s1ins2.JPG?raw=true)
+
+Landing Page:
+
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/s1ins1.JPG?raw=true)
 ### **5.2.2. Sprint 2**
 #### **5.2.2.1. Sprint Planning 2**
 #### **5.2.2.2. Sprint Backlog 2**
