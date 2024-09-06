@@ -466,6 +466,10 @@ El wireframe de la versión desktop fue útil para organizar los elementos. Con 
 
 <img src="Assets/webpage/MockUp Landing 4.png" style="width: 50%;"/>
 
+**Landing Page para Mobile Web Browser**
+
+El mock-up para la landing page móvil mantiene los mismos elementos, con una tipografía y contraste de colores que aseguran una lectura fácil en ambos dispositivos.
+
 ## **4.4. Web Applications UX/UI Design** 
 ### **4.4.1. Web Applications Wireframes** 
 ### **4.4.2. Web Applications Wireflow Diagrams**
