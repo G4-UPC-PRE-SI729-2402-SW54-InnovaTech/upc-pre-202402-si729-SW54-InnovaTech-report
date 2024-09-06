@@ -503,9 +503,9 @@ Componentes y Activos:
 Las pantallas de componentes y activos muestran elementos reutilizables dentro de la interfaz de usuario, asegurando una experiencia consistente y cohesiva en toda la aplicación.
 Estos wireframes ofrecen una visión clara y funcional del diseño de la aplicación web de Connex, centrada en la facilidad de uso y la eficiencia para los usuarios, desde el acceso y configuración del perfil hasta la gestión completa de interacciones y colaboraciones. Este diseño iterativo sirve como base para el desarrollo y refinamiento continuo de la plataforma.
 
-![](Assets/web_applications_wireframe1.JPG)
+![](Assets/appweb/web_applications_wireframe1.JPG)
 
-![](Assets/web_applications_wireframe2.JPG)
+![](Assets/appweb/web_applications_wireframe2.JPG)
 
 ![Link Figma Web Applications Wireframes Connex](https://www.figma.com/design/6L2Bb5po6Rord0LqHStnqG/Wireframe-Web-Design-Connex?node-id=0-1&t=YATYXEivOVFpD63R-1)
 
@@ -517,19 +517,19 @@ User Goal:
 Como usuario influencer, deseo iniciar sesión para ingresar a Connex.
 Descripción: En el presente wireflow, se evidencia el flujo que seguirá el usuario influencer para poder iniciar sesión. Iniciará en el login, seleccionará la opción influencer e ingresará su DNI y contraseña, para poder ingresar a Connex.
 
-![](Assets/webpage/4.4.2 Web Applications Wireflow Diagrams. 1.png)
+![](Assets/appweb/iniciar_sesion.JPG)
 
 User Goal:
 Como usuario influencer, deseo registrarme para ingresar a Connex.
 Descripción: Em el presente wireflow, se evidencia el flujo que seguirá el usuario influencer para poder registrarse. Iniciará el login, seleccionará la opción stremar y luego seleccionará la opción Sign Up e ingresará sus datos necesarios para poder registrarse exitosamente.
 
-![](Assets/webpage/4.4.2 Web Applications Wireflow Diagrams. 2.png)
+![](Assets/appweb/registro_usuario.JPG)
 
 User Goal:
 Como usuario influencer deseo cambiar la contraseña
 Descripción: Al momento de inciar sesión, se presentará una opción de Olvide mi Contraseña, cuando le de clic, redireccionará al usuario a una nueva pantalla donde ingresará su email y su nueva contraseña.
 
-![](Assets/webpage/4.4.2 Web Applications Wireflow Diagrams. 3.png)
+![](Assets/appweb/cambiar_contraseña.JPG)
 
 User Goal: Como influencer deseo visualizar mi historial contratos con microempresas.
 Descripción:
