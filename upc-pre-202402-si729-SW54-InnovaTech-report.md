@@ -554,7 +554,7 @@ Este documento define el Lenguaje Ubicuo (Ubiquitous Language) que se utilizará
 # **Capítulo III: Requirements Specification** 
 
 ## **3.1. To-Be Scenario Mapping**
-## 4. Escenario Futuro (To-Be Scenario Mapping)
+### Escenario Futuro (To-Be Scenario Mapping)
 
 ### Influencers:
 
