@@ -541,23 +541,23 @@ User Goal: Como influencer deseo ver las reseñas de una empresa mediana
 
 Descripción:
 
-En el presente Wireflow, se presenta el camino que deberá seguir el usuario influencer para poder visualizar las reseñas de una empresa mediana. Se empezará desde la pantalla inicial, luego selecciona a un médico desde la sección de empresas medianas. Después, se ingresa al perfil del doctor seleccionado y se entrará al apartado de reseñas desde la opción “See Reviews”.
-
-Imagen Imagen
+Como influencer, el usuario desea acceder a las reseñas de una empresa mediana dentro de la plataforma Connex para evaluar la reputación y la experiencia previa de otros colaboradores antes de decidir colaborar con dicha empresa.
 
 User Goal: Como influencer deseo publicar una nueva reseña a una empresa mediana
 
 Descripción:
 
-En el presente Wireflow, se presenta el camino que deberá seguir el usuario influencer para poder escribir una reseña a una empresa mediana. Se empezará desde la pantalla inicial, después se ingresará al perfil del médico a reseñar. Luego, se entrará a través de “See reviews” al apartado de reseñas, en donde se seleccionará “Publish Review” para comenzar a escribir la reseña. Por último, se presionará “Publish” para publicarla y se brindará un mensaje de confirmación.
+Como influencer, el usuario desea publicar una nueva reseña sobre una empresa mediana en la plataforma Connex para compartir su experiencia de colaboración y proporcionar retroalimentación que pueda ayudar a otros influencers a tomar decisiones informadas.
 
-Imagen
+![](Assets/appweb/calificar_empresa.JPG)
 
-User Goal: Como influencer, deseo ver las fechas disponibles en las que puedo atenderme con un doctor para agendar una cita.
+User Goal: Como influencer, deseo ver las fechas disponibles en las que puedo atenderme con un representate de una marca para agendar una cita.
 
 Descripción:
 
-En el presente Wireflow, nos encontramos en la vista “Available Dates”. Aquí, vemos un calendario, donde las fechas pintadas de un color más oscuro significan que están disponibles. Al hacer click a una de ellas, me muestra, todas las horas disponibles de citas para ese día.
+Como influencer, el usuario desea revisar las fechas disponibles para agendar una cita con un representante de una marca a través de la plataforma Connex. Este proceso facilita la coordinación de reuniones y colaboraciones, permitiendo al influencer seleccionar un horario conveniente para ambas partes.
+
+![](Assets/appweb/cita_brands.JPG)
 
 ![Imagen](assets/4.4.2 Web Applications Wireflow Diagrams. 10.png)
 
