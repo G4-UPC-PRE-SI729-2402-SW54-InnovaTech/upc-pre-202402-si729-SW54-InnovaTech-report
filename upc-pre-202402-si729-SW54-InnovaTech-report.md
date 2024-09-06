@@ -635,7 +635,9 @@ En este wireflow, se visualiza el proceso para que el usuario influencer revise 
 
 ### **4.4.3. Web Applications Mock-ups** 
 
-![](Assets/MockUp_WebApp.PNG)
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/3fbec77efe665f949327e5acf996dd3e8ad35b5c/Assets/Mockup_WebApp.PNG)
+
+Link: <https://www.figma.com/design/uXYz1dq5QRdRAHkwtRY8bz/InnovaTech?node-id=0-1&t=AqSmFGPEZjsnqZOo-1>
 
 ### **4.4.4. Web Applications User Flow Diagrams** 
 
@@ -691,12 +693,14 @@ Descripción: En este wireflow, el usuario accede a la sección de "Métricas", 
 User Goal: Como usuario, deseo ver noticias y actualizaciones relevantes en Connex.
 Descripción: En este wireflow, los usuarios pueden acceder a la sección de "Noticias", donde se les muestran las últimas actualizaciones y contenido relevante para influencers y empresas. Si la sección de noticias está en mantenimiento o no hay contenido disponible, se mostrará un mensaje indicando que pronto habrá nuevas noticias disponibles para su visualización.
 
-![](Assets/UserFlowDiagrams.PNG)
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/3fbec77efe665f949327e5acf996dd3e8ad35b5c/Assets/UserFlowDiagram.PNG)
+
+Link: <https://www.figma.com/design/uXYz1dq5QRdRAHkwtRY8bz/InnovaTech?node-id=0-1&t=AqSmFGPEZjsnqZOo-1>
 
 ## **4.5. Web Applications Prototyping** 
 Hemos desarrollado un prototipo de nuestra web application en la plataforma Figma
 
-![](Assets/Home.PNG)
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/3fbec77efe665f949327e5acf996dd3e8ad35b5c/Assets/Home.png)
 
 Link: <https://www.figma.com/design/uXYz1dq5QRdRAHkwtRY8bz/InnovaTech?node-id=0-1&t=AqSmFGPEZjsnqZOo-1>
 
