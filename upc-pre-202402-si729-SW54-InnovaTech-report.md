@@ -541,6 +541,8 @@ nuestro sitio web desplegado.
 Aquí la pagina desplegada
 ![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/landing.JPG?raw=true)
 
+Link de la landing page desplegada:. <https://g4-upc-pre-si729-2402-sw54-innovatech.github.io/upc-pre-202402-si729-SW54-InnovaTech-landing-page/>
+
 #### **5.2.1.8. Team Collaboration Insights during Sprint**
 Durante el desarrollo de este sprint, todos colaboramos de manera activa y continua para la elaboración de las task correspondientes. Mostramos la evidencia de los avances individuales:
 
