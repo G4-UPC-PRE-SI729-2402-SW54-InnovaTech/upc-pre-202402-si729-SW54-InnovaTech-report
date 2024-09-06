@@ -694,6 +694,11 @@ Descripción: En este wireflow, los usuarios pueden acceder a la sección de "No
 ![](Assets/UserFlowDiagrams.PNG)
 
 ## **4.5. Web Applications Prototyping** 
+Hemos desarrollado un prototipo de nuestra web application en la plataforma Figma
+
+![](Assets/Home.PNG)
+
+Link: <https://www.figma.com/design/uXYz1dq5QRdRAHkwtRY8bz/InnovaTech?node-id=0-1&t=AqSmFGPEZjsnqZOo-1>
 
 ## **4.6. Domain-Driven Software Architecture** 
 
