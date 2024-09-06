@@ -793,25 +793,27 @@ Link: [Lucidchart Diagrama de Base de Datos](https://lucid.app/lucidchart/65a43a
 
 Durante el desarrollo del proyecto, se implementaron dos repositorios separados en GitHub para gestionar los distintos componentes de la aplicación:
 
-Repositorio para la Landing Page: upc-pre-202402-si729-SW54-InnovaTech-landing-page.
-Repositorio para el Reporte: upc-pre-202402-si729-SW54-InnovaTech-report.
+Repositorio para la Landing Page: ´upc-pre-202402-si729-SW54-InnovaTech-landing-page´.
+
+Repositorio para el Reporte: ´upc-pre-202402-si729-SW54-InnovaTech-report´ .
+
 Evidencia de Despliegue y Colaboración:
 
 Repositorios Utilizados:
 
-El repositorio de la Landing Page fue actualizado recientemente hace 2 días y contiene ramas específicas para funcionalidades como feature/contactus, feature/footer, y feature/services. Estas ramas indican un enfoque modular para el desarrollo, permitiendo a los miembros del equipo trabajar en características específicas de la landing page de forma simultánea y organizada.
+El repositorio de la Landing Page contiene ramas específicas para funcionalidades como ´feature/contactus´, ´feature/footer´, y ´feature/services´. Estas ramas indican un enfoque modular para el desarrollo, permitiendo a los miembros del equipo trabajar en características específicas de la landing page de forma simultánea y organizada.
 
-El repositorio del Reporte ha tenido actualizaciones constantes, con la última actualización realizada hace 12 minutos. Este repositorio incluye ramas designadas para cada capítulo del reporte, como feature/chapter1, feature/chapter2, etc., lo cual facilita la colaboración entre los miembros del equipo y asegura que cada sección del reporte sea desarrollada y revisada individualmente antes de ser integrada al documento principal.
+El repositorio del Reporte ha tenido actualizaciones constantes. Este repositorio incluye ramas designadas para cada capítulo del reporte, como ´feature/chapter1´, ´feature/chapter2´, etc., lo cual facilita la colaboración entre los miembros del equipo y asegura que cada sección del reporte sea desarrollada y revisada individualmente antes de ser integrada al documento principal.
 
 Ramas de Desarrollo:
 
-Para la Landing Page, se crearon ramas específicas para cada funcionalidad clave, como feature/contactus, feature/footer, y feature/services. Esto demuestra un enfoque estructurado y modular al desarrollo, permitiendo que diferentes funcionalidades sean trabajadas y probadas independientemente antes de ser fusionadas en la rama principal.
+Para la Landing Page, se crearon ramas específicas para cada funcionalidad clave, como ´feature/contactus´, ´feature/footer´, y ´feature/services´. Esto demuestra un enfoque estructurado y modular al desarrollo, permitiendo que diferentes funcionalidades sean trabajadas y probadas independientemente antes de ser fusionadas en la rama principal.
 
-En el caso del Reporte, se emplearon ramas como feature/chapter1 hasta feature/chapter5, asignadas a cada miembro del grupo para el desarrollo de capítulos específicos. Esta estrategia de ramas por capítulos no solo facilita la colaboración y el control de versiones, sino que también permite revisiones específicas y mejoras iterativas.
+En el caso del Reporte, se emplearon ramas como ´feature/chapter1´ hasta ´feature/chapter5´, asignadas a cada miembro del grupo para el desarrollo de capítulos específicos. Esta estrategia de ramas por capítulos no solo facilita la colaboración y el control de versiones, sino que también permite revisiones específicas y mejoras iterativas.
 
 Estructura de Ramas y Despliegue:
 
-La rama principal (main) de ambos repositorios se utiliza para integrar las funcionalidades y los capítulos finalizados y revisados. Además, se observa una rama de desarrollo (develop), que probablemente sirve como un entorno intermedio para pruebas y revisiones adicionales antes de fusionar los cambios a la rama principal.
+La rama principal (´main´) de ambos repositorios se utiliza para integrar las funcionalidades y los capítulos finalizados y revisados. Además, se observa una rama de desarrollo (´develop´), que probablemente sirve como un entorno intermedio para pruebas y revisiones adicionales antes de fusionar los cambios a la rama principal.
 
 ![Repositorios Connex](Assets/reports/repositorios_connex.JPG)
 
