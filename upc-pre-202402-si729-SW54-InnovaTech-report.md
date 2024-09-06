@@ -445,60 +445,60 @@ En este apartado se le mostrará los Meta Tags y los SEO tags que hemos utilizad
 Segmento Objetivo: Influencers (Microinfluencers y Medianos Influencers)
 
 User Goal:
-Como usuario streamer, deseo iniciar sesión para ingresar a Connex.
-Descripción: En el presente wireflow, se evidencia el flujo que seguirá el usuario streamer para poder iniciar sesión. Iniciará en el login, seleccionará la opción Streamer e ingresará su DNI y contraseña, para poder ingresar a Connex.
+Como usuario influencer, deseo iniciar sesión para ingresar a Connex.
+Descripción: En el presente wireflow, se evidencia el flujo que seguirá el usuario influencer para poder iniciar sesión. Iniciará en el login, seleccionará la opción influencer e ingresará su DNI y contraseña, para poder ingresar a Connex.
 
 ![](Assets/webpage/4.4.2 Web Applications Wireflow Diagrams. 1.png)
 
 User Goal:
-Como usuario streamer, deseo registrarme para ingresar a Connex.
-Descripción: Em el presente wireflow, se evidencia el flujo que seguirá el usuario streamer para poder registrarse. Iniciará el login, seleccionará la opción stremar y luego seleccionará la opción Sign Up e ingresará sus datos necesarios para poder registrarse exitosamente.
+Como usuario influencer, deseo registrarme para ingresar a Connex.
+Descripción: Em el presente wireflow, se evidencia el flujo que seguirá el usuario influencer para poder registrarse. Iniciará el login, seleccionará la opción stremar y luego seleccionará la opción Sign Up e ingresará sus datos necesarios para poder registrarse exitosamente.
 
 ![](Assets/webpage/4.4.2 Web Applications Wireflow Diagrams. 2.png)
 
 User Goal:
-Como usuario streamer deseo cambiar la contraseña
+Como usuario influencer deseo cambiar la contraseña
 Descripción: Al momento de inciar sesión, se presentará una opción de Olvide mi Contraseña, cuando le de clic, redireccionará al usuario a una nueva pantalla donde ingresará su email y su nueva contraseña.
 
 ![](Assets/webpage/4.4.2 Web Applications Wireflow Diagrams. 3.png)
 
-User Goal: Como streamer deseo visualizar mi historial contratos con microempresas.
+User Goal: Como influencer deseo visualizar mi historial contratos con microempresas.
 Descripción:
-En el presente Wireflow, se presenta el camino que deberá seguir el usuario streamer para poder visualizar su historial de contratos dentro de la plataforma. Se comenzará desde la pantalla de inicio, donde se seleccionará el perfil del usuario, finalmente se elegirá la opción de “Contracts History” para poder obtener su historial de contratos presente en Connex.
+En el presente Wireflow, se presenta el camino que deberá seguir el usuario influencer para poder visualizar su historial de contratos dentro de la plataforma. Se comenzará desde la pantalla de inicio, donde se seleccionará el perfil del usuario, finalmente se elegirá la opción de “Contracts History” para poder obtener su historial de contratos presente en Connex.
 
 ![](Assets/webpage/4.4.2 Web Applications Wireflow Diagrams. 4.png)
 
-User Goal: Como streamer deseo subir mi historial de sintonia sobre las redes sociales.
+User Goal: Como influencer deseo subir mi historial de sintonia sobre las redes sociales.
 Descripción:
-En el presente Wireflow, se presenta el camino que deberá seguir el usuario streamer para poder subir su historial de sintonia dentro de la plataforma. Se empezará desde la pantalla de inicio, luego se dirigirá al perfil de usuario e ingresará a “Contract History”; por último, se subirá el archivo en PDF. Después de ello, se podrá visualizar el historial adjuntado en Connex.
+En el presente Wireflow, se presenta el camino que deberá seguir el usuario influencer para poder subir su historial de sintonia dentro de la plataforma. Se empezará desde la pantalla de inicio, luego se dirigirá al perfil de usuario e ingresará a “Contract History”; por último, se subirá el archivo en PDF. Después de ello, se podrá visualizar el historial adjuntado en Connex.
 
 ![](Assets/webpage/4.4.2 Web Applications Wireflow Diagrams. 5.png)
 
-User Goal: Como streamer deseo visualizar el perfil de una empresa mediana
+User Goal: Como influencer deseo visualizar el perfil de una empresa mediana
 
 Descripción:
 
-En el presente Wireflow, se presenta el camino que deberá seguir el usuario streamer para poder visualizar el perfil de un doctor. Se empezará desde la pantalla de inicio, luego se dirigirá a la sección de empresas medianas y, con ello, se mostrarán los distintos médicos disponibles, se seleccionará el de su preferencia para ver su perfil de MediCare.
+En el presente Wireflow, se presenta el camino que deberá seguir el usuario influencer para poder visualizar el perfil de un doctor. Se empezará desde la pantalla de inicio, luego se dirigirá a la sección de empresas medianas y, con ello, se mostrarán los distintos médicos disponibles, se seleccionará el de su preferencia para ver su perfil de MediCare.
 
 Imagen
 
-User Goal: Como streamer deseo ver las reseñas de una empresa mediana
+User Goal: Como influencer deseo ver las reseñas de una empresa mediana
 
 Descripción:
 
-En el presente Wireflow, se presenta el camino que deberá seguir el usuario streamer para poder visualizar las reseñas de una empresa mediana. Se empezará desde la pantalla inicial, luego selecciona a un médico desde la sección de empresas medianas. Después, se ingresa al perfil del doctor seleccionado y se entrará al apartado de reseñas desde la opción “See Reviews”.
+En el presente Wireflow, se presenta el camino que deberá seguir el usuario influencer para poder visualizar las reseñas de una empresa mediana. Se empezará desde la pantalla inicial, luego selecciona a un médico desde la sección de empresas medianas. Después, se ingresa al perfil del doctor seleccionado y se entrará al apartado de reseñas desde la opción “See Reviews”.
 
 Imagen Imagen
 
-User Goal: Como streamer deseo publicar una nueva reseña a una empresa mediana
+User Goal: Como influencer deseo publicar una nueva reseña a una empresa mediana
 
 Descripción:
 
-En el presente Wireflow, se presenta el camino que deberá seguir el usuario streamer para poder escribir una reseña a una empresa mediana. Se empezará desde la pantalla inicial, después se ingresará al perfil del médico a reseñar. Luego, se entrará a través de “See reviews” al apartado de reseñas, en donde se seleccionará “Publish Review” para comenzar a escribir la reseña. Por último, se presionará “Publish” para publicarla y se brindará un mensaje de confirmación.
+En el presente Wireflow, se presenta el camino que deberá seguir el usuario influencer para poder escribir una reseña a una empresa mediana. Se empezará desde la pantalla inicial, después se ingresará al perfil del médico a reseñar. Luego, se entrará a través de “See reviews” al apartado de reseñas, en donde se seleccionará “Publish Review” para comenzar a escribir la reseña. Por último, se presionará “Publish” para publicarla y se brindará un mensaje de confirmación.
 
 Imagen
 
-User Goal: Como streamer, deseo ver las fechas disponibles en las que puedo atenderme con un doctor para agendar una cita.
+User Goal: Como influencer, deseo ver las fechas disponibles en las que puedo atenderme con un doctor para agendar una cita.
 
 Descripción:
 
@@ -581,26 +581,26 @@ Link:
 
 Segmento Objetivo: influencers
 
-User Goal: Como streamer, deseo iniciar sesión para ingresar a Connex.
-Descripción: En este wireflow, se evidencia el flujo que seguirá el streamer para iniciar sesión en Connex. Comenzará en la pantalla de login, seleccionará la opción "Streamer" e ingresará su correo electrónico y contraseña. Si los datos son correctos, podrá acceder a la plataforma; de lo contrario, se mostrarán mensajes de alerta indicando errores en el inicio de sesión.
+User Goal: Como influencer, deseo iniciar sesión para ingresar a Connex.
+Descripción: En este wireflow, se evidencia el flujo que seguirá el influencer para iniciar sesión en Connex. Comenzará en la pantalla de login, seleccionará la opción "influencer" e ingresará su correo electrónico y contraseña. Si los datos son correctos, podrá acceder a la plataforma; de lo contrario, se mostrarán mensajes de alerta indicando errores en el inicio de sesión.
 
-User Goal: Como streamer, deseo registrarme para ingresar a Connex.
-Descripción: Durante el registro, el streamer deberá ingresar sus datos, como nombre de usuario, correo electrónico y contraseña. Si se ingresan datos no válidos, se mostrarán alertas indicando los errores que deben corregirse. Al completar correctamente el formulario, se mostrará una pantalla de confirmación que indicará que el registro fue exitoso y se podrá proceder a iniciar sesión.
+User Goal: Como influencer, deseo registrarme para ingresar a Connex.
+Descripción: Durante el registro, el influencer deberá ingresar sus datos, como nombre de usuario, correo electrónico y contraseña. Si se ingresan datos no válidos, se mostrarán alertas indicando los errores que deben corregirse. Al completar correctamente el formulario, se mostrará una pantalla de confirmación que indicará que el registro fue exitoso y se podrá proceder a iniciar sesión.
 
-User Goal: Como streamer, deseo subir y gestionar mi historial de interacción en redes sociales.
-Descripción: En este wireflow, se presenta el flujo que seguirá el streamer para subir y gestionar su historial de interacción dentro de Connex. Desde la pantalla principal, accederá a su perfil y seleccionará la opción "Historial de Interacción". Podrá subir archivos en formato PDF que contengan datos sobre su rendimiento en redes sociales. Si el archivo no es compatible, se mostrará un mensaje de error.
+User Goal: Como influencer, deseo subir y gestionar mi historial de interacción en redes sociales.
+Descripción: En este wireflow, se presenta el flujo que seguirá el influencer para subir y gestionar su historial de interacción dentro de Connex. Desde la pantalla principal, accederá a su perfil y seleccionará la opción "Historial de Interacción". Podrá subir archivos en formato PDF que contengan datos sobre su rendimiento en redes sociales. Si el archivo no es compatible, se mostrará un mensaje de error.
 
-User Goal: Como streamer, deseo visualizar mi historial de contratos con empresas.
-Descripción: En este wireflow, el streamer puede acceder a su historial de contratos desde su perfil. Desde la pantalla de inicio, seleccionará "Historial de Contratos" para ver los detalles de colaboraciones pasadas y actuales con empresas. Esta vista permite al streamer revisar términos, fechas y estados de sus contratos, facilitando la gestión de sus compromisos.
+User Goal: Como influencer, deseo visualizar mi historial de contratos con empresas.
+Descripción: En este wireflow, el influencer puede acceder a su historial de contratos desde su perfil. Desde la pantalla de inicio, seleccionará "Historial de Contratos" para ver los detalles de colaboraciones pasadas y actuales con empresas. Esta vista permite al influencer revisar términos, fechas y estados de sus contratos, facilitando la gestión de sus compromisos.
 
-User Goal: Como streamer, deseo explorar y aplicar a oportunidades de colaboración con empresas.
-Descripción: En este wireflow, el streamer accede a la sección de "Oportunidades" para explorar posibles colaboraciones con empresas. Puede aplicar filtros según sus intereses y aplicar a las oportunidades que se alineen con sus objetivos. Desde esta vista, también podrá enviar propuestas y comunicarse con las empresas interesadas en sus servicios.
+User Goal: Como influencer, deseo explorar y aplicar a oportunidades de colaboración con empresas.
+Descripción: En este wireflow, el influencer accede a la sección de "Oportunidades" para explorar posibles colaboraciones con empresas. Puede aplicar filtros según sus intereses y aplicar a las oportunidades que se alineen con sus objetivos. Desde esta vista, también podrá enviar propuestas y comunicarse con las empresas interesadas en sus servicios.
 
-User Goal: Como streamer, deseo ver y editar mi perfil en Connex.
-Descripción: Este wireflow detalla cómo los influencers pueden acceder y modificar su perfil. Desde la página principal, el streamer hace clic en su foto de perfil y accede a "Información Personal". Puede revisar y editar los datos, como su biografía y enlaces a redes sociales, y debe hacer clic en "Guardar" para aplicar los cambios. Si decide no hacer modificaciones, puede salir sin guardar.
+User Goal: Como influencer, deseo ver y editar mi perfil en Connex.
+Descripción: Este wireflow detalla cómo los influencers pueden acceder y modificar su perfil. Desde la página principal, el influencer hace clic en su foto de perfil y accede a "Información Personal". Puede revisar y editar los datos, como su biografía y enlaces a redes sociales, y debe hacer clic en "Guardar" para aplicar los cambios. Si decide no hacer modificaciones, puede salir sin guardar.
 
-User Goal: Como streamer, deseo recibir notificaciones sobre nuevas oportunidades y actividad en la plataforma.
-Descripción: En este wireflow, el streamer configura sus preferencias de notificación desde su perfil. Puede optar por recibir alertas sobre nuevas colaboraciones, mensajes de empresas y actualizaciones de la plataforma. Las notificaciones se envían en tiempo real para mantener al streamer informado y ayudarle a gestionar sus oportunidades de manera eficiente.
+User Goal: Como influencer, deseo recibir notificaciones sobre nuevas oportunidades y actividad en la plataforma.
+Descripción: En este wireflow, el influencer configura sus preferencias de notificación desde su perfil. Puede optar por recibir alertas sobre nuevas colaboraciones, mensajes de empresas y actualizaciones de la plataforma. Las notificaciones se envían en tiempo real para mantener al influencer informado y ayudarle a gestionar sus oportunidades de manera eficiente.
 
 Segmento Objetivo: Influencers y Empresas Medianas
 
@@ -671,7 +671,7 @@ User representa los datos que el usuario debe completar con su información para
 | userId       | string - Identificador único del usuario.        |
 | name         | string - Nombre del usuario.                     |
 | email        | string - Correo electrónico del usuario.         |
-| role         | string - Rol del usuario en la plataforma (Influencer, Empresa, Streamer). |
+| role         | string - Rol del usuario en la plataforma (Influencer o Empresa). |
 
 
 ### **Profile**
@@ -685,7 +685,7 @@ Profile contiene detalles adicionales sobre un usuario, incluyendo su biografía
 
 
 ### **Contract**
-Contract representa un contrato o acuerdo entre un influencer o streamer y una empresa para colaborar.
+Contract representa un contrato o acuerdo entre un influencer y una empresa para colaborar.
 
 | **Atributo** | **Descripción**                                  |
 |--------------|--------------------------------------------------|
@@ -705,7 +705,7 @@ Review representa una reseña escrita por un usuario (influencer o empresa) sobr
 
 
 ### **InteractionHistory**
-InteractionHistory registra los historiales de interacción de un influencer o streamer en diferentes plataformas, incluyendo métricas de engagement.
+InteractionHistory registra los historiales de interacción de un influencer en diferentes plataformas, incluyendo métricas de engagement.
 
 | **Atributo**    | **Descripción**                               |
 |-----------------|-----------------------------------------------|
@@ -721,7 +721,7 @@ Opportunity representa una oportunidad de colaboración publicada por empresas p
 |-----------------|-----------------------------------------------|
 | opportunityId   | string - Identificador único de la oportunidad. |
 | description     | string - Descripción de la oportunidad de colaboración. |
-| requirements    | string - Requisitos específicos que debe cumplir el influencer o streamer. |
+| requirements    | string - Requisitos específicos que debe cumplir el influencer. |
 | status          | string - Estado de la oportunidad (abierta, cerrada). |
 
 
@@ -742,6 +742,7 @@ Notification maneja las notificaciones enviadas a los usuarios sobre nuevas opor
 El diagrama de base de datos presentado corresponde a la plataforma "Connex", que conecta a influencers y empresas medianas, facilitando la colaboración entre ambos grupos. El diagrama muestra la estructura de las tablas principales y sus relaciones, proporcionando una vista clara de cómo se organiza y gestiona la información dentro del sistema.
 
 Resumen de las Tablas y Relaciones:
+
 Users: Es la tabla central que almacena la información de los usuarios registrados, incluyendo influencers y empresas medianas. Está relacionada con múltiples entidades como Profiles, Contracts, Reviews, InteractionHistories, Opportunities, Notifications, y Applications, reflejando la interacción amplia de los usuarios con la plataforma.
 
 Profiles: Almacena información adicional del usuario, como biografía y enlaces a redes sociales, y tiene una relación uno a uno con la tabla Users.
