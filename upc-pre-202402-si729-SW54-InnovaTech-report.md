@@ -447,6 +447,9 @@ La página web, vista desde un navegador de escritorio, incluye secciones clave 
 
 <img src="Assets/webpage/Desktop landing page 4.png" style="width: 50%;"/>
 
+**Landing Page para Mobile Web Browser**
+La landing page vista desde un navegador móvil contiene el mismo contenido que la versión de escritorio, adaptado al tamaño del dispositivo. Un diseño responsive es valioso porque permite acceder a la misma información desde cualquier dispositivo sin problemas.
+
 ### **4.3.2. Landing Page Mock-up** 
 
 ## **4.4. Web Applications UX/UI Design** 
