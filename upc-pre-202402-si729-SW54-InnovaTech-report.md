@@ -559,63 +559,13 @@ Como influencer, el usuario desea revisar las fechas disponibles para agendar un
 
 ![](Assets/appweb/cita_brands.JPG)
 
-![Imagen](assets/4.4.2 Web Applications Wireflow Diagrams. 10.png)
-
-User Goal: Como influencer, deseo iniciar sesión para ingresar a Connex.
-Descripción: En el presente wireflow, se evidencia el flujo que seguirá el usuario influencer para poder iniciar sesión. Comenzará en la pantalla de login, seleccionará la opción "Influencer" e ingresará su DNI y contraseña para acceder a Connex.
-
-User Goal: Como influencer, deseo registrarme para ingresar a Connex.
-Descripción: En el presente wireflow, se muestra el flujo que seguirá el usuario influencer para registrarse. Comenzará en la pantalla de login, seleccionará la opción "Influencer", luego la opción "Sign Up" e ingresará los datos necesarios para completar su registro en Connex.
-
-User Goal: Como influencer, deseo cambiar mi contraseña.
-Descripción: Al momento de iniciar sesión, se presentará la opción "Olvidé mi Contraseña". Al hacer clic, el usuario será redirigido a una nueva pantalla donde ingresará su email y su nueva contraseña.
-
-User Goal: Como influencer, deseo visualizar mi historial de contratos con empresas medianas.
-Descripción: En este wireflow, se presenta el camino que deberá seguir el usuario influencer para visualizar su historial de contratos dentro de la plataforma. Se iniciará desde la pantalla principal, donde seleccionará su perfil y finalmente elegirá la opción "Contracts History" para ver el historial de contratos en Connex.
-
-User Goal: Como influencer, deseo subir mi historial de interacción en redes sociales.
-Descripción: En este wireflow, se muestra el flujo que seguirá el usuario influencer para subir su historial de interacción en la plataforma. Desde la pantalla de inicio, irá a su perfil, seleccionará “Interaction History” y subirá el archivo correspondiente en PDF. Luego podrá visualizar el historial adjuntado en Connex.
-
-User Goal: Como influencer, deseo visualizar el perfil de una empresa mediana.
-Descripción: En el presente wireflow, se muestra el proceso que seguirá el usuario influencer para ver el perfil de una empresa mediana. Desde la pantalla principal, accederá a la sección de empresas medianas, seleccionará la empresa de su interés para visualizar su perfil.
-
-User Goal: Como influencer, deseo ver las reseñas de una empresa mediana.
-Descripción: En este wireflow, se muestra el flujo para que el usuario influencer visualice reseñas de una empresa mediana. Desde la pantalla principal, selecciona la empresa de interés y accede a la opción "See Reviews" para leer las reseñas disponibles.
-
-User Goal: Como influencer, deseo publicar una nueva reseña a una empresa mediana.
-Descripción: En este wireflow, se evidencia el flujo para que el usuario influencer publique una reseña sobre una empresa mediana. Desde la pantalla principal, ingresa al perfil de la empresa, accede a la sección de reseñas y selecciona “Publish Review” para redactar y publicar su reseña.
-
 User Goal: Como influencer, deseo revisar mi perfil.
-Descripción: En este wireflow, se visualiza el proceso para que el usuario influencer revise su perfil. Solo deberá hacer clic en su foto de perfil para acceder a su información.
 
-User Goal: Como influencer, deseo editar mi información de perfil.
-Descripción: En este wireflow, se presenta el proceso para que el usuario influencer edite su información de perfil. Accederá desde su foto de perfil, seleccionará “Edit Profile”, realizará los cambios necesarios y luego presionará “Save” para guardar los cambios.
+Descripción: 
 
-User Goal: Como influencer, deseo revisar mis ingresos en la plataforma.
-Descripción: En el presente wireflow, el usuario influencer ingresará a la sección principal, luego a la sección de ingresos donde podrá aplicar filtros para visualizar un cuadro estadístico de sus ingresos y el historial de transacciones.
+En este wireflow, se visualiza el proceso para que el usuario influencer revise su perfil. Solo deberá hacer clic en su foto de perfil para acceder a su información.
 
-Segmento Objetivo: Empresas Medianas
-
-User Goal: Como empresa mediana, deseo iniciar sesión para ingresar a Connex.
-Descripción: En este wireflow, se evidencia el flujo que seguirá el usuario empresa para iniciar sesión en Connex. Comenzará en la pantalla de login, seleccionará la opción "Empresa" e ingresará su RUC y contraseña para acceder a la plataforma.
-
-User Goal: Como empresa mediana, deseo registrarme para ingresar a Connex.
-Descripción: Este wireflow muestra el flujo que seguirá el usuario empresa para registrarse en Connex. Comenzará en la pantalla de login, seleccionará la opción "Empresa" y luego la opción "Sign Up". A continuación, ingresará los datos necesarios, como RUC, nombre de la empresa, y otros detalles, para completar su registro exitosamente.
-
-User Goal: Como empresa mediana, deseo cambiar mi contraseña.
-Descripción: Al momento de iniciar sesión, se presentará la opción "Olvidé mi Contraseña". Al hacer clic en esta opción, el usuario será redirigido a una nueva pantalla donde ingresará su email registrado y establecerá una nueva contraseña.
-
-User Goal: Como empresa mediana, deseo buscar y visualizar perfiles de influencers.
-Descripción: En este wireflow, se muestra el proceso que seguirá la empresa para buscar y visualizar perfiles de influencers dentro de Connex. Desde la pantalla principal, la empresa seleccionará la sección de "Buscar Influencers", aplicará filtros según sus necesidades (como categoría, seguidores, etc.), y luego podrá ver los perfiles detallados de los influencers disponibles.
-
-User Goal: Como empresa mediana, deseo gestionar mis contratos con influencers.
-Descripción: Este wireflow detalla el flujo que seguirá el usuario empresa para gestionar sus contratos en Connex. Desde la pantalla principal, la empresa accederá a la sección "Mis Contratos", donde podrá ver el listado de contratos activos, en negociación, y completados, así como gestionar términos y condiciones de cada contrato.
-
-User Goal: Como empresa mediana, deseo visualizar reseñas de influencers.
-Descripción: En este wireflow, se presenta el camino que deberá seguir la empresa para visualizar reseñas de los influencers con los que ha trabajado. Desde su panel principal, accederá a "Reseñas de Influencers", donde podrá ver todas las reseñas, aplicar filtros, y evaluar el feedback para futuras colaboraciones.
-
-User Goal: Como empresa mediana, deseo publicar una reseña sobre un influencer.
-Descripción: En este wireflow, se detalla cómo la empresa puede publicar una reseña sobre un influencer con el que ha colaborado. Desde la pantalla principal, la empresa seleccionará el perfil del influencer, accederá a la sección de reseñas y utilizará la opción "Publicar Reseña" para escribir y enviar su opinión.
+![](Assets/appweb/vista_perfil_usuario.JPG)
 
 ### **4.4.3. Web Applications Mock-ups** 
 
