@@ -559,23 +559,16 @@ En este Sprint 2, nos hemos enfocado en consolidar las funcionalidades clave de 
 #### **5.2.2.1. Sprint Planning 2**
 
 Para el Sprint Planning 2, el equipo de Connex ha establecido como prioridad la planificación de la estructura central de la Web Application, abarcando tanto la creación y acceso al repositorio como la visualización de los canales de comunicación para la empresa. Además, hemos identificado y abordado la corrección de errores de la Landing Page, con el objetivo de mantener la coherencia en la documentación y asegurar una entrega de calidad.
+                                                                                                                                       |
 
 
-| Sprint                          | Sprint 2                                                                                                                                                     |
-| :-----------------------------  | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Sprint Planning Background      |                                                                                                                                                              |
-| Date                            |2024-10-25                                                                                                                                                    |
-| Time                            | 04:00 PM                                                                                                                                                     |
-| Location                        | Servidor de Discord del Equipo                                                                                                                               |
-| Prepared By                     | Javier Murillo, Mathias                                                                                                                                      |
-| Attendees (to planning meeting) | Javier Murillo, Mathias/Escobar Palomino, Sebastian Matias/Macavilca Quispe, Ian/Nakasone Gomes, Marco Antonio/Laban Hijar, Jorge Armando                    |
-| Sprint n Review Summary         | Observacion en el formato de la documentacion para el proyecto y correccón de errores del código y documentación.                                            |
-| Sprint n Retrospective Summary  | Se corrigió los errores del anterior del anterior sprint.                                                                                                    |
-| Sprint Goal & User Stories      |                                                                                                                                                              |
-| Sprint 1 Goal                   | -La meta de este Sprint es la planificacion de la Web Application para el startup, tanto su visualización, creacion del repositorio, acceso al repositorio y la visualización de los canales de comunicación de la empresa.
--Corrección de errores de la Landing Page y la documentación para el startup. |
-| Sprint 1 Velocity               | 21 Velocity                                                                                                                                                  |
-| Sum of Story Points             | 37 Story points                                                                                                                                              |
+Sprint # |Date |Time |Location |Prepared By |Attendees|Sprint Goal |Sprint Velocity |Sum of Story Points|
+| :- | :- | :- | :- | :- | :- |:- | :- | :- |:- | :- | :- |
+|1|28/08/2024 |7:00 pm|Reunión mediante Meet|Javier Murillo, Mathias|<p>Escobar Palomino, Sebastian. </p><p>Macavilca Quispe, Ian.</p><p>Nakasone Gomes, Marco.</p><p>Laban Hijar, Jorge.</p>|
+Elaborar y diseñar el landing page informativa para la aplicación Connex.|<p>18</p>|<p>18</p>|
+|2|24/09/2024 |10:00 pm|Reunión mediante Meet|Javier Murillo, Mathias|<p>Escobar Palomino, Sebastian. </p><p>Macavilca Quispe, Ian.</p><p>Nakasone Gomes, Marco.</p><p>Laban Hijar, Jorge.</p>|
+La meta de este Sprint es la planificacion de la Web Application para el startup, tanto su visualización, creacion del repositorio, acceso al repositorio y la visualización de los canales de comunicación de la empresa.|<p>x</p>|<p>x</p>|
+
 
 #### **5.2.2.2. Sprint Backlog 2**
 #### **5.2.2.3. Development Evidence for Sprint Review**
