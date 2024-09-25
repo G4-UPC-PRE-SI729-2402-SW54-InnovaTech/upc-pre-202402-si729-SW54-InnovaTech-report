@@ -554,7 +554,29 @@ Landing Page:
 
 ![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/s1ins1.JPG?raw=true)
 ### **5.2.2. Sprint 2**
+En este Sprint 2, nos hemos enfocado en consolidar las funcionalidades clave de nuestra Web Application para la startup Connex. El objetivo principal fue mejorar la visualización y acceso a los canales de comunicación internos, corregir errores en la Landing Page y refinar la documentación necesaria. Además, se corrigieron los errores detectados en el Sprint anterior, lo cual nos permitió avanzar con mayor claridad y solidez en el proyecto.
+
 #### **5.2.2.1. Sprint Planning 2**
+
+Para el Sprint Planning 2, el equipo de Connex ha establecido como prioridad la planificación de la estructura central de la Web Application, abarcando tanto la creación y acceso al repositorio como la visualización de los canales de comunicación para la empresa. Además, hemos identificado y abordado la corrección de errores de la Landing Page, con el objetivo de mantener la coherencia en la documentación y asegurar una entrega de calidad.
+
+
+| Sprint                          | Sprint 2                                                                                                                                                     |
+| :-----------------------------  | :----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sprint Planning Background      |                                                                                                                                                              |
+| Date                            |2024-10-25                                                                                                                                                    |
+| Time                            | 04:00 PM                                                                                                                                                     |
+| Location                        | Servidor de Discord del Equipo                                                                                                                               |
+| Prepared By                     | Javier Murillo, Mathias                                                                                                                                      |
+| Attendees (to planning meeting) | Javier Murillo, Mathias/Escobar Palomino, Sebastian Matias/Macavilca Quispe, Ian/Nakasone Gomes, Marco Antonio/Laban Hijar, Jorge Armando                    |
+| Sprint n Review Summary         | Observacion en el formato de la documentacion para el proyecto y correccón de errores del código y documentación.                                            |
+| Sprint n Retrospective Summary  | Se corrigió los errores del anterior del anterior sprint.                                                                                                    |
+| Sprint Goal & User Stories      |                                                                                                                                                              |
+| Sprint 1 Goal                   | -La meta de este Sprint es la planificacion de la Web Application para el startup, tanto su visualización, creacion del repositorio, acceso al repositorio y la visualización de los canales de comunicación de la empresa.
+-Corrección de errores de la Landing Page y la documentación para el startup. |
+| Sprint 1 Velocity               | 21 Velocity                                                                                                                                                  |
+| Sum of Story Points             | 37 Story points                                                                                                                                              |
+
 #### **5.2.2.2. Sprint Backlog 2**
 #### **5.2.2.3. Development Evidence for Sprint Review**
 #### **5.2.2.4. Testing Suite Evidence for Sprint Review**
