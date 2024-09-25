@@ -559,10 +559,8 @@ En este Sprint 2, nos hemos enfocado en consolidar las funcionalidades clave de 
 #### **5.2.2.1. Sprint Planning 2**
 
 Para el Sprint Planning 2, el equipo de Connex ha establecido como prioridad la planificación de la estructura central de la Web Application, abarcando tanto la creación y acceso al repositorio como la visualización de los canales de comunicación para la empresa. Además, hemos identificado y abordado la corrección de errores de la Landing Page, con el objetivo de mantener la coherencia en la documentación y asegurar una entrega de calidad.
-                                                                                                                                       |
-
-
-Sprint # |Date |Time |Location |Prepared By |Attendees|Sprint Goal |Sprint Velocity |Sum of Story Points|
+                                                                                                                                       
+|Sprint # |Date |Time |Location |Prepared By |Attendees|Sprint Goal |Sprint Velocity |Sum of Story Points|
 | :- | :- | :- | :- | :- | :- |:- | :- | :- |:- | :- | :- |
 |1|28/08/2024 |7:00 pm|Reunión mediante Meet|Javier Murillo, Mathias|<p>Escobar Palomino, Sebastian. </p><p>Macavilca Quispe, Ian.</p><p>Nakasone Gomes, Marco.</p><p>Laban Hijar, Jorge.</p>|
 Elaborar y diseñar el landing page informativa para la aplicación Connex.|<p>18</p>|<p>18</p>|
