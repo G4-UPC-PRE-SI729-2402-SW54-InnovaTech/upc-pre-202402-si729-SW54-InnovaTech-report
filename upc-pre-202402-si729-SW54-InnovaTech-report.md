@@ -38,6 +38,8 @@ Link del repositorio:
 
 **ABET - EAC - Student Outcome 3:** Capacidad de comunicarse efectivamente con un rango de audiencias.
 
+|Criterio Especifico|Acciones Realizadas|Conclusiones|
+|-|-|-|
 |Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Mathias Javier Murillo:** <br> **TB1:** <br> Durante la primera entrega del proyecto puede aprender como es el estudio de los competidores, el analisis de nuestros mercados objetivos y practique mis habilidades de desarrollo con la Landing Page. <br> **TP:** <br> Durante esta entrega pude implementar mis habilidades de desarrollo apoyando con el desarrollo del Web Application por el lado del frontend. |
 |Comunica por escrito con efectividad a diferentes rangos de audiencia.| **Mathias Javier Murillo:** <br> **TB1:** <br> Durante la primera entrega del proyecto desarrollo el capitulo 2, aprendiendo a como analizar a nuestros posibles competidores, creando estrategias frente a los mismos. <br> **TP:** <br> Durante esta entrega desarrollo la parte frontend del Web Application. |
 
