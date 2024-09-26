@@ -1304,7 +1304,9 @@ En el segundo sprint, el equipo se enfocó en crear una landing page atractiva y
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
 |------------|--------|-----------|----------------|---------------------|---------------------|
 |upc-pre-202402-si729-SW54-InnovaTech-landing-page | main |e35893a | Initial commit |  | Sep 24, 2024 |
-|upc-pre-202402-si729-SW54-InnovaTech-WebApplication-FrontEnd |login&register |96cc01a | Initial commit |  | Sep 24, 2024 |
+| upc-pre-202402-si729-SW54-InnovaTech-WebApplication-FrontEnd |develop|436cd01a | Initial commit |  | Sep 24, 2024 |
+| upc-pre-202402-si729-SW54-InnovaTech-WebApplication-FrontEnd |login&register |96cc01a | Initial commit |  | Sep 24, 2024 |
+| upc-pre-202402-si729-SW54-InnovaTech-WebApplication-FrontEnd |user-interface |923ee1a | Initial commit |  | Sep 24, 2024 |
 
 #### **5.2.2.5. Execution Evidence for Sprint Review**
 
