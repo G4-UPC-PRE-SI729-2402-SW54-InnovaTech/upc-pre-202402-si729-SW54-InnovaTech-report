@@ -26,6 +26,7 @@
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ------------ | ---------- | ----------- |
 | 0.0 | 20/08/2024 | Grupo 4 | Creación del documento |
+| 1.0 | 25/09/2024 | Grupo 4 | TP |
 
 
 # **Project Report Collaboration Insights**
@@ -40,6 +41,11 @@ Link del repositorio: <https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/
 # **Student Outcome**
 
 **ABET - EAC - Student Outcome 3:** Capacidad de comunicarse efectivamente con un rango de audiencias.
+
+|Criterio Especifico|Acciones Realizadas|Conclusiones|
+|-|-|-|
+|Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Mathias Javier Murillo:** <br> **TB1:** <br> Durante la primera entrega del proyecto puede aprender como es el estudio de los competidores, el analisis de nuestros mercados objetivos y practique mis habilidades de desarrollo con la Landing Page. <br> **TP:** <br> Durante esta entrega pude implementar mis habilidades de desarrollo apoyando con el desarrollo del Web Application por el lado del frontend.<br>  **Ian Macavilca Quispe:** <br> **TB1:** <br> En la primera entrega del proyecto, adquirí conocimientos sobre el análisis de competidores, el estudio de nuestros mercados objetivos, y tuve la oportunidad de mejorar mis habilidades de desarrollo al trabajar en la Landing Page.<br> **TP:** <br> En esta entrega, tuve la oportunidad de aplicar mis habilidades de desarrollo contribuyendo al desarrollo de la aplicación web, específicamente en la parte del frontend.<br> **Escobar Palomino, Sebastian:**<br> **TB1:** <br> En la primera fase del proyecto, adquirí conocimientos sobre cómo llevar a cabo un análisis de competidores y examinar nuestros mercados objetivo, además de mejorar mis habilidades de desarrollo trabajando en la Landing Page.<br> **TP:** <br> EEn esta etapa, apliqué mis habilidades técnicas colaborando en la implementación del frontend de la aplicación web.<br> **Laban Hijar, Jorge:** <br> **TB1:** <br> En la primera parte del proyecto, me familiaricé con el análisis de nuestros competidores y el estudio de los mercados clave, mientras fortalecía mis habilidades de programación trabajando en la Landing Page.<br> **TP:** <br> En esta fase, implementé mis conocimientos de desarrollo al contribuir en el desarrollo del frontend de la aplicación web.|
+|Comunica por escrito con efectividad a diferentes rangos de audiencia.| **Mathias Javier Murillo:** <br> **TB1:** <br> Durante la primera entrega del proyecto desarrollo el capitulo 2, aprendiendo a como analizar a nuestros posibles competidores, creando estrategias frente a los mismos. <br> **TP:** <br> Durante esta entrega desarrollo la parte frontend del Web Application.<br>**Ian Macavilca Quispe:** <br> **TB1:** <br> En la primera entrega del proyecto, desarrollé el capítulo 2, donde aprendí a analizar a nuestros posibles competidores y diseñé estrategias para enfrentarlos. <br> **TP:** <br> En esta entrega, me encargué de desarrollar la parte frontend de la aplicación web.<br>  **Escobar Palomino, Sebastian:** <br>**TB1:** <br> En la primera entrega del proyecto, desarrollé el capítulo 2, donde aprendí a analizar a nuestros posibles competidores y diseñé estrategias para enfrentarlos. <br> **TP:** <br> En esta entrega, me encargué de desarrollar la parte frontend de la aplicación web.<br>    **Laban Hijar, Jorge:**<br> **TB1:** <br> En la primera entrega del proyecto, desarrollé el capítulo 2, donde aprendí a analizar a nuestros posibles competidores y diseñé estrategias para enfrentarlos. <br> **TP:** <br> En esta entrega, me encargué de desarrollar la parte frontend de la aplicación web.<br> |
 
 # Contenido
 
@@ -173,8 +179,9 @@ Connex es una plataforma digital que facilita la interacción y colaboración en
 |**Escobar Palomino , Sebastian Matias (U202125968)**<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/d0f175ff041622410a361f357fed233ec57d4c16/Assets/Sebastian%20Escobar%20Palomino.png?raw=true" width="300"/>|Como estudiante de ingeniería de software, me comprometo a contribuir al máximo en el grupo y a cumplir con las entregas dentro del plazo establecido, manteniendo una comunicación efectiva con mis compañeros y aplicando mis habilidades para desarrollar las tareas asignadas en este proyecto.|
 |**Javier Murillo, Mathias (U202022211)**<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/MathiasJM.jpg?raw=true" width="300"/>|Siendo estudiante de Ingeniería de Software, me permite aportar con mis conocimientos desarrollados a lo largo de mi formación como ingeniero, esperando dar un gran apoyo y relevancia en el equipo. |
 |**Macavilca Quispe, Ian (U202121325)**<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/IanMQ.png?raw=true" width="300"/>|Como estudiante de Ingeniería de Software, mi destreza en el pensamiento lógico me habilita para abordar desafíos de manera eficaz, optimizar procesos, diseñar software robusto, comunicar de manera clara, ser resiliente ante obstáculos y colaborar efectivamente en equipos, con lo que pienso aportar al éxito y eficiencia de la startup.|
-|**Laban Hijar, Jorge Armando (U201616054)**<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/develop/Assets/JorgeLH.png?raw=true" width="300"/>|Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. En un principio escogí esa carrera porque siempre me interesó el tema de tecnología y el desarrollo de aplicaciones web.|
-|**Nakasone Gomes, Marco Antonio (U202210790)**<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/7449a5c97001b91a3cfd2bcc83d4403eedbcd415/Assets/marco.jpg" width="300"/>|Soy estudiante de Ingeniería de software, tengo cualidades como la perseverancia, que me va a ayudar a ser resiliente ante cualquier adversidad que se nos presente más adelante en el trabajo y tambien soy buen compañero de trabajo que siempre quiere lo mejor para su grupo.|
+|**Nakasone Gomes, Marco Antonio (U202210790)**<img src="https://github.com/user-attachments/assets/e7255d56-6bf7-4d20-baa3-8cb2f5e8a8c2" width="300"/>|Soy estudiante de Ingeniería de software, tengo cualidades como la perseverancia, que me va a ayudar a ser resiliente ante cualquier adversidad que se nos presente más adelante en el trabajo y tambien soy buen compañero de trabajo que siempre quiere lo mejor para su grupo.|
+|**Laban Hijar, Jorge Armandod (U201616054)**<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/JorgeLH.png?raw=true" width="300"/>| Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). A lo largo de mi carrera, he desarrollado una gran pasión por la tecnología y el desarrollo de software. Me interesa mucho cómo la tecnología puede resolver problemas complejos y mejorar la vida de las personas, y siempre busco aprender y actualizarme en las últimas tendencias del sector. |
+
 
 ## **1.2. Solution Profile** 
 ### **1.2.1. Antecedentes y problemáticas** 
@@ -1181,9 +1188,9 @@ En el primer sprint, el equipo se enfocó en crear una landing page atractiva y 
 | :- | :- | :- | :- | :- | :- | :- | :- |
 |User Story||Work Item / Task||||||
 |Id|Title|Id|Title|Descripción|Estimación (Hours)|Assigned to|Status (In -process / To - review / Done)|
-|US01|Descripción de la web|UT01|Acerca de la web|Descripción de lo que trata nuestra pagina web. |1|Mathias Javier|Done|
-|US02|Accesibilidad del contenido|UT02|Disponibilidad accesible del contenido.|Que la página muestre el contenido correctamente (imágenes y enlaces).|2|Marco Nakasone y Sebastian Escobar|Done|
-|US02|Accesibilidad del contenido|UT03|Diseño responsive de la página|Que la página se visualice correctamente en cualquier dispositivo.|3|Ian Macavilca|Done|
+|US01|Descripción de la web|UT01|Acerca de la web|Descripción de lo que trata nuestra pagina web. |4|Mathias Javier|Done|
+|US02|Accesibilidad del contenido|UT02|Disponibilidad accesible del contenido.|Que la página muestre el contenido correctamente (imágenes y enlaces).|8|Marco Nakasone y Sebastian Escobar|Done|
+|US02|Accesibilidad del contenido|UT03|Diseño responsive de la página|Que la página se visualice correctamente en cualquier dispositivo.|6|Ian Macavilca|Done|
 
 #### **5.2.1.3. Development Evidence for Sprint Review**
 
@@ -1252,14 +1259,95 @@ Landing Page:
 
 ![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/s1ins1.JPG?raw=true)
 ### **5.2.2. Sprint 2**
+En este Sprint 2, nos hemos enfocado en consolidar las funcionalidades clave de nuestra Web Application para la startup Connex. El objetivo principal fue mejorar la visualización y acceso a los canales de comunicación internos, corregir errores en la Landing Page y refinar la documentación necesaria. Además, se corrigieron los errores detectados en el Sprint anterior, lo cual nos permitió avanzar con mayor claridad y solidez en el proyecto.
+
 #### **5.2.2.1. Sprint Planning 2**
+
+Para el Sprint Planning 2, el equipo de Connex ha establecido como prioridad la planificación de la estructura central de la Web Application, abarcando tanto la creación y acceso al repositorio como la visualización de los canales de comunicación para la empresa. Además, hemos identificado y abordado la corrección de errores de la Landing Page, con el objetivo de mantener la coherencia en la documentación y asegurar una entrega de calidad.
+                                                                                                                                       
+| Sprint # | Date       | Time     | Location             | Prepared By                 | Attendees                                                                                                                   | Sprint Goal                                                                                                                      | Sprint Velocity | Sum of Story Points |
+| :-       | :-         | :-       | :-                   | :-                          | :-                                                                                                                          | :-                                                                                                                               | :-             | :-                  |
+| 1        | 28/08/2024 | 7:00 pm  | Reunión mediante Meet | Javier Murillo, Mathias      | Escobar Palomino, Sebastian.<br>Macavilca Quispe, Ian.<br>Nakasone Gomes, Marco.<br>Laban Hijar, Jorge.                      | Elaborar y diseñar el landing page informativa para la aplicación Connex.                                                        | 18             | 18                  |
+| 2        | 24/09/2024 | 10:00 pm | Reunión mediante Meet | Javier Murillo, Mathias      | Escobar Palomino, Sebastian.<br>Macavilca Quispe, Ian.<br>Nakasone Gomes, Marco.<br>Laban Hijar, Jorge.                      | La meta de este Sprint es la planificación de la Web Application para el startup, tanto su visualización, creación del repositorio, acceso al repositorio y la visualización de los canales de comunicación de la empresa. | x              | x                   |
+
+
+
 #### **5.2.2.2. Sprint Backlog 2**
+
+En el segundo sprint, el equipo se enfocó en crear una landing page atractiva y funcional, así como el desarrollo de la web aplication, organizando y asignando tareas mediante el cuadro de Sprint según las habilidades de cada miembro.
+
+|Sprint #||Sprint 1||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story||Work Item / Task||||||
+|Id|Title|Id|Title|Descripción|Estimación (Hours)|Assigned to|Status |
+|US02|Accesibilidad del contenido|UT01|Restructuración de la Pagina.|Que la página muestre el contenido correctamente (imágenes y enlaces).|4|Marco Nakasone y Sebastian Escobar|Done|
+|US03|Autentificar perfil de usuario|UT02|Crear pagina de Login|Crear página base de login.|3|Mathias Javier|Done|
+|US03|Autentificar perfil de usuario|UT03|Crear pagina de Register|Crear página base de register.|2|Mathias Javier|Done|
+|US03|Autentificar perfil de usuario|UT04|Crear pagina de Forgoten Password|Crear página base de Forgoten Password.|4|Mathias Javier|Done|
+|US03|Autentificar perfil de usuario|UT05|Rediseñar de primeras paginas base|Rediseñar las paginas de inicio y garantizar que sea responsive.|5|Ian Macavilca|Done|
+|US04|Creación de portafolios personalizados por influencers|UT06|Crear interfaz de usuario para influencer|Desarrollo de las interfaces relacionadas al portafolio de influencers|5|Sebastian Escobar|In process|
+
 #### **5.2.2.3. Development Evidence for Sprint Review**
+
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|------------|--------|-----------|----------------|---------------------|---------------------|
+| upc-pre-202402-si729-SW54-InnovaTech-WebApplication-FrontEnd | main |b64465d | Initial commit |  | Sep 24, 2024 |
+|  | main |640a2ad | chore:npm install |  | Sep 24, 2024 |
+|  | login&register |7d38211 | chore:add forgo-password components |  | Sep 25, 2024 |
+|  | login&register |689b03a | chore:add new design for login and register components |  | Sep 25, 2024 |
+|  | login&register |689b03a | chore:add new design for login and register components |  | Sep 25, 2024 |
+|  | user-interface |cd3cf9d | chore:add user-interface components |  | Sep 25, 2024 |
+
+
 #### **5.2.2.4. Testing Suite Evidence for Sprint Review**
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|------------|--------|-----------|----------------|---------------------|---------------------|
+|upc-pre-202402-si729-SW54-InnovaTech-landing-page | main |e35893a | Initial commit |  | Sep 24, 2024 |
+|upc-pre-202402-si729-SW54-InnovaTech-WebApplication-FrontEnd |login&register |96cc01a | Initial commit |  | Sep 24, 2024 |
+
 #### **5.2.2.5. Execution Evidence for Sprint Review**
+
+Durante el sprint 2 se  desarrollo la implementación del landing page, la cual incluye varias secciones donde el usuario puede acceder a información relevante sobre el producto y la startup. Asimismo, se logró un avance parcial en el desarrollo de la aplicación web, permitiendo al usuario interactuar con ciertas funcionalidades. A continuación se presentan algunas evidencias.
+
+<img src="Assets/a1.png" style="width: 100%;"/>
+
+<img src="Assets/a2.png" style="width: 100%;"/>
+
+<img src="Assets/a3.png" style="width: 100%;"/>
+
+<img src="Assets/a4.png" style="width: 100%;"/>
+
+<img src="Assets/a5.png" style="width: 100%;"/>
+
+<img src="Assets/a6.png" style="width: 100%;"/>
+
+
 #### **5.2.2.6. Services Documentation Evidence for Sprint Review**
+
+En este momento no contamos con la evidencia de las la documentación de nuestros servicios ya que al ser el segundo sprint nos hemos enfocado unicamente en el front-end y esn nuestra landing page.
+
 #### **5.2.2.7. Software Deployment Evidence for Sprint Review**
+
+Para el desarrollo de nuestra primera versión del front-end, hemos usado con conjunto de stack de tecnologías:
+
+**Git:** Es el sistema que nos ayudó permitiendonos trabajar en equipo en el desarrollo del proyecto.
+<br>**GitHub:** Plataforma para el el desarrollo en equipo.<br>
+**Git Hub Pages:** Este es el servicio que nos permite alojar nuestra landing page.<br>
+**Evidencia del Deployment:**<br>
+**Registro del usuario:**<br>
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/deployment-1-sprint2.jpg?raw=true)
+<br>**Inicio de sesión del usuario:**
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/deployment-2-sprint2.jpg?raw=true)
+<br>**Recupereción de contraseña:**
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/deployment-3-sprint2.jpg?raw=true)
+
 #### **5.2.2.8. Team Collaboration Insights during Sprint**
+**Commits del Informe:** 
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/8ea15afaf4a7b5b090562d3a345725d3642c5c7e/Assets/SS_Commits.png)
+
+**Commits del WebApplication:**
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/c94b1f172c7f8f0496fb11acdabae7a75accb06c/Assets/SS_Commits2.png)
 
 ### **5.2.3. Sprint 3**
 #### **5.2.3.1. Sprint Planning 3**
