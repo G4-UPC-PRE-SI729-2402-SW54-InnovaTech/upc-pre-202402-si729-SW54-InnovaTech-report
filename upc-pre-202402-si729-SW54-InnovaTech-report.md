@@ -613,6 +613,14 @@ Durante el sprint 2 se  desarrollo la implementación del landing page, la cual 
 En este momento no contamos con la evidencia de las la documentación de nuestros servicios ya que al ser el segundo sprint nos hemos enfocado unicamente en el front-end y esn nuestra landing page.
 
 #### **5.2.2.7. Software Deployment Evidence for Sprint Review**
+
+Para el desarrollo de nuestra primera versión del front-end, hemos usado con conjunto de stack de tecnologías:
+
+**Git:** Es el sistema que nos ayudó permitiendonos trabajar en equipo en el desarrollo del proyecto.
+**GitHub:** Plataforma para el el desarrollo en equipo.
+**Git Hub Pages:** Este es el servicio que nos permite alojar nuestra landing page.
+**Evidencia del Deployment:**
+
 #### **5.2.2.8. Team Collaboration Insights during Sprint**
 **Commits del Informe:** 
 ![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/8ea15afaf4a7b5b090562d3a345725d3642c5c7e/Assets/SS_Commits.png)
