@@ -603,6 +603,11 @@ En el segundo sprint, el equipo se enfocó en crear una landing page atractiva y
 #### **5.2.2.6. Services Documentation Evidence for Sprint Review**
 #### **5.2.2.7. Software Deployment Evidence for Sprint Review**
 #### **5.2.2.8. Team Collaboration Insights during Sprint**
+**Commits del Informe:** 
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/8ea15afaf4a7b5b090562d3a345725d3642c5c7e/Assets/SS_Commits.png)
+
+**Commits del WebApplication:**
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/c94b1f172c7f8f0496fb11acdabae7a75accb06c/Assets/SS_Commits2.png)
 
 ### **5.2.3. Sprint 3**
 #### **5.2.3.1. Sprint Planning 3**
