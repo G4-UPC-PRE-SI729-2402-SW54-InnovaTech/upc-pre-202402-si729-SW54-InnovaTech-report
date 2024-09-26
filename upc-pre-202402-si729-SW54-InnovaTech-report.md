@@ -607,6 +607,8 @@ En el segundo sprint, el equipo se enfocó en crear una landing page atractiva y
 #### **5.2.2.5. Execution Evidence for Sprint Review**
 
 Durante el sprint 2 se  desarrollo la implementación del landing page, la cual incluye varias secciones donde el usuario puede acceder a información relevante sobre el producto y la startup. Asimismo, se logró un avance parcial en el desarrollo de la aplicación web, permitiendo al usuario interactuar con ciertas funcionalidades. A continuación se presentan algunas evidencias.
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/uxcanvas.JPG?raw=true" style="width: 100%;"/>
+
 
 #### **5.2.2.6. Services Documentation Evidence for Sprint Review**
 
