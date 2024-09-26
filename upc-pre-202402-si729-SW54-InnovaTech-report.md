@@ -630,9 +630,15 @@ En este momento no contamos con la evidencia de las la documentación de nuestro
 Para el desarrollo de nuestra primera versión del front-end, hemos usado con conjunto de stack de tecnologías:
 
 **Git:** Es el sistema que nos ayudó permitiendonos trabajar en equipo en el desarrollo del proyecto.
-**GitHub:** Plataforma para el el desarrollo en equipo.
-**Git Hub Pages:** Este es el servicio que nos permite alojar nuestra landing page.
-**Evidencia del Deployment:**
+<br>**GitHub:** Plataforma para el el desarrollo en equipo.<br>
+**Git Hub Pages:** Este es el servicio que nos permite alojar nuestra landing page.<br>
+**Evidencia del Deployment:**<br>
+**Registro del usuario:**<br>
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/deployment-1-sprint2.jpg?raw=true)
+<br>**Inicio de sesión del usuario:**
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/deployment-2-sprint2.jpg?raw=true)
+<br>**Recupereción de contraseña:**
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/deployment-3-sprint2.jpg?raw=true)
 
 #### **5.2.2.8. Team Collaboration Insights during Sprint**
 **Commits del Informe:** 
