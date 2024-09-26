@@ -572,7 +572,7 @@ Para el Sprint Planning 2, el equipo de Connex ha establecido como prioridad la 
 
 #### **5.2.2.2. Sprint Backlog 2**
 
-En el segundo sprint, el equipo se enfocó en crear una landing page atractiva y funcional, organizando y asignando tareas mediante el cuadro de Sprint según las habilidades de cada miembro.
+En el segundo sprint, el equipo se enfocó en crear una landing page atractiva y funcional, así como el desarrollo de la web aplication, organizando y asignando tareas mediante el cuadro de Sprint según las habilidades de cada miembro.
 
 |Sprint #||Sprint 1||||||
 | :- | :- | :- | :- | :- | :- | :- | :- |
