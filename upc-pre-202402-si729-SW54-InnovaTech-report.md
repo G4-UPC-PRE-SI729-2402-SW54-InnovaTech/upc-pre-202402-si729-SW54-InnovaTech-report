@@ -607,7 +607,18 @@ En el segundo sprint, el equipo se enfocó en crear una landing page atractiva y
 #### **5.2.2.5. Execution Evidence for Sprint Review**
 
 Durante el sprint 2 se  desarrollo la implementación del landing page, la cual incluye varias secciones donde el usuario puede acceder a información relevante sobre el producto y la startup. Asimismo, se logró un avance parcial en el desarrollo de la aplicación web, permitiendo al usuario interactuar con ciertas funcionalidades. A continuación se presentan algunas evidencias.
+
 <img src="Assets/a1.png" style="width: 100%;"/>
+
+<img src="Assets/a2.png" style="width: 100%;"/>
+
+<img src="Assets/a3.png" style="width: 100%;"/>
+
+<img src="Assets/a4.png" style="width: 100%;"/>
+
+<img src="Assets/a5.png" style="width: 100%;"/>
+
+<img src="Assets/a6.png" style="width: 100%;"/>
 
 
 #### **5.2.2.6. Services Documentation Evidence for Sprint Review**
