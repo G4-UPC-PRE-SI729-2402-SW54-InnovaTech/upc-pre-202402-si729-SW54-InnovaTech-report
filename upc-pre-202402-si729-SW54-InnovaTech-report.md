@@ -26,6 +26,7 @@
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ------------ | ---------- | ----------- |
 | 0.0 | 20/08/2024 | Grupo 4 | Creación del documento |
+| 1.0 | 25/09/2024 | Grupo 4 | TP |
 
 
 # **Project Report Collaboration Insights**
