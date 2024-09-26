@@ -584,8 +584,19 @@ En el segundo sprint, el equipo se enfocó en crear una landing page atractiva y
 |US03|Autentificar perfil de usuario|UT05|Rediseñar de primeras paginas base|Rediseñar las paginas de inicio y garantizar que sea responsive.|5|Ian Macavilca|Done|
 |US04|Creación de portafolios personalizados por influencers|UT06|Crear interfaz de usuario para influencer|Desarrollo de las interfaces relacionadas al portafolio de influencers|5|Sebastian Escobar|In process|
 
-
 #### **5.2.2.3. Development Evidence for Sprint Review**
+
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|------------|--------|-----------|----------------|---------------------|---------------------|
+| upc-pre-202402-si729-SW54-InnovaTech-WebApplication-FrontEnd | main |b64465d | Initial commit |  | Sep 24, 2024 |
+|  | main |640a2ad | chore:npm install |  | Sep 24, 2024 |
+|  | login&register |7d38211 | chore:add forgo-password components |  | Sep 25, 2024 |
+|  | login&register |689b03a | chore:add new design for login and register components |  | Sep 25, 2024 |
+|  | login&register |689b03a | chore:add new design for login and register components |  | Sep 25, 2024 |
+|  | user-interface |cd3cf9d | chore:add user-interface components |  | Sep 25, 2024 |
+
+
 #### **5.2.2.4. Testing Suite Evidence for Sprint Review**
 #### **5.2.2.5. Execution Evidence for Sprint Review**
 #### **5.2.2.6. Services Documentation Evidence for Sprint Review**
