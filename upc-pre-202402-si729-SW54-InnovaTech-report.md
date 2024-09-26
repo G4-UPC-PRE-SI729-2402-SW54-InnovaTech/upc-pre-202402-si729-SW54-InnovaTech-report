@@ -599,7 +599,15 @@ En el segundo sprint, el equipo se enfocó en crear una landing page atractiva y
 
 
 #### **5.2.2.4. Testing Suite Evidence for Sprint Review**
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|------------|--------|-----------|----------------|---------------------|---------------------|
+|upc-pre-202402-si729-SW54-InnovaTech-landing-page | main |e35893a | Initial commit |  | Sep 24, 2024 |
+|upc-pre-202402-si729-SW54-InnovaTech-WebApplication-FrontEnd |login&register |96cc01a | Initial commit |  | Sep 24, 2024 |
+
 #### **5.2.2.5. Execution Evidence for Sprint Review**
+
+Durante el sprint 2 se  desarrollo la implementación del landing page, la cual incluye varias secciones donde el usuario puede acceder a información relevante sobre el producto y la startup. Asimismo, se logró un avance parcial en el desarrollo de la aplicación web, permitiendo al usuario interactuar con ciertas funcionalidades. A continuación se presentan algunas evidencias.
+
 #### **5.2.2.6. Services Documentation Evidence for Sprint Review**
 
 En este momento no contamos con la evidencia de las la documentación de nuestros servicios ya que al ser el segundo sprint nos hemos enfocado unicamente en el front-end y esn nuestra landing page.
