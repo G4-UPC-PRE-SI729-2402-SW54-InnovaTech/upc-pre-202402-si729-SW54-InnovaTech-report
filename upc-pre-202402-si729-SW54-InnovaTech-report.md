@@ -601,6 +601,9 @@ En el segundo sprint, el equipo se enfocó en crear una landing page atractiva y
 #### **5.2.2.4. Testing Suite Evidence for Sprint Review**
 #### **5.2.2.5. Execution Evidence for Sprint Review**
 #### **5.2.2.6. Services Documentation Evidence for Sprint Review**
+
+En este momento no contamos con la evidencia de las la documentación de nuestros servicios ya que al ser el segundo sprint nos hemos enfocado unicamente en el front-end y esn nuestra landing page.
+
 #### **5.2.2.7. Software Deployment Evidence for Sprint Review**
 #### **5.2.2.8. Team Collaboration Insights during Sprint**
 **Commits del Informe:** 
