@@ -570,6 +570,21 @@ Para el Sprint Planning 2, el equipo de Connex ha establecido como prioridad la 
 
 
 #### **5.2.2.2. Sprint Backlog 2**
+
+En el segundo sprint, el equipo se enfocó en crear una landing page atractiva y funcional, organizando y asignando tareas mediante el cuadro de Sprint según las habilidades de cada miembro.
+
+|Sprint #||Sprint 1||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story||Work Item / Task||||||
+|Id|Title|Id|Title|Descripción|Estimación (Hours)|Assigned to|Status |
+|US02|Accesibilidad del contenido|UT01|Restructuración de la Pagina.|Que la página muestre el contenido correctamente (imágenes y enlaces).|4|Marco Nakasone y Sebastian Escobar|Done|
+|US03|Autentificar perfil de usuario|UT02|Crear pagina de Login|Crear página base de login.|3|Mathias Javier|Done|
+|US03|Autentificar perfil de usuario|UT03|Crear pagina de Register|Crear página base de register.|2|Mathias Javier|Done|
+|US03|Autentificar perfil de usuario|UT04|Crear pagina de Forgoten Password|Crear página base de Forgoten Password.|4|Mathias Javier|Done|
+|US03|Autentificar perfil de usuario|UT05|Rediseñar de primeras paginas base|Rediseñar las paginas de inicio y garantizar que sea responsive.|5|Ian Macavilca|Done|
+|US04|Creación de portafolios personalizados por influencers|UT06|Crear interfaz de usuario para influencer|Desarrollo de las interfaces relacionadas al portafolio de influencers|5|Sebastian Escobar|In process|
+
+
 #### **5.2.2.3. Development Evidence for Sprint Review**
 #### **5.2.2.4. Testing Suite Evidence for Sprint Review**
 #### **5.2.2.5. Execution Evidence for Sprint Review**
