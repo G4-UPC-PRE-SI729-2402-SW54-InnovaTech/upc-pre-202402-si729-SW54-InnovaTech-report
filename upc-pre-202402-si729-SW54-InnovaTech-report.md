@@ -485,9 +485,9 @@ En el primer sprint, el equipo se enfocó en crear una landing page atractiva y 
 | :- | :- | :- | :- | :- | :- | :- | :- |
 |User Story||Work Item / Task||||||
 |Id|Title|Id|Title|Descripción|Estimación (Hours)|Assigned to|Status (In -process / To - review / Done)|
-|US01|Descripción de la web|UT01|Acerca de la web|Descripción de lo que trata nuestra pagina web. |1|Mathias Javier|Done|
-|US02|Accesibilidad del contenido|UT02|Disponibilidad accesible del contenido.|Que la página muestre el contenido correctamente (imágenes y enlaces).|2|Marco Nakasone y Sebastian Escobar|Done|
-|US02|Accesibilidad del contenido|UT03|Diseño responsive de la página|Que la página se visualice correctamente en cualquier dispositivo.|3|Ian Macavilca|Done|
+|US01|Descripción de la web|UT01|Acerca de la web|Descripción de lo que trata nuestra pagina web. |4|Mathias Javier|Done|
+|US02|Accesibilidad del contenido|UT02|Disponibilidad accesible del contenido.|Que la página muestre el contenido correctamente (imágenes y enlaces).|8|Marco Nakasone y Sebastian Escobar|Done|
+|US02|Accesibilidad del contenido|UT03|Diseño responsive de la página|Que la página se visualice correctamente en cualquier dispositivo.|6|Ian Macavilca|Done|
 
 #### **5.2.1.3. Development Evidence for Sprint Review**
 
