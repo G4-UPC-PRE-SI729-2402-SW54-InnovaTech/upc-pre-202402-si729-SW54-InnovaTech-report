@@ -607,7 +607,18 @@ En el segundo sprint, el equipo se enfocó en crear una landing page atractiva y
 #### **5.2.2.5. Execution Evidence for Sprint Review**
 
 Durante el sprint 2 se  desarrollo la implementación del landing page, la cual incluye varias secciones donde el usuario puede acceder a información relevante sobre el producto y la startup. Asimismo, se logró un avance parcial en el desarrollo de la aplicación web, permitiendo al usuario interactuar con ciertas funcionalidades. A continuación se presentan algunas evidencias.
-<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/uxcanvas.JPG?raw=true" style="width: 100%;"/>
+
+<img src="Assets/a1.png" style="width: 100%;"/>
+
+<img src="Assets/a2.png" style="width: 100%;"/>
+
+<img src="Assets/a3.png" style="width: 100%;"/>
+
+<img src="Assets/a4.png" style="width: 100%;"/>
+
+<img src="Assets/a5.png" style="width: 100%;"/>
+
+<img src="Assets/a6.png" style="width: 100%;"/>
 
 
 #### **5.2.2.6. Services Documentation Evidence for Sprint Review**
@@ -619,9 +630,15 @@ En este momento no contamos con la evidencia de las la documentación de nuestro
 Para el desarrollo de nuestra primera versión del front-end, hemos usado con conjunto de stack de tecnologías:
 
 **Git:** Es el sistema que nos ayudó permitiendonos trabajar en equipo en el desarrollo del proyecto.
-**GitHub:** Plataforma para el el desarrollo en equipo.
-**Git Hub Pages:** Este es el servicio que nos permite alojar nuestra landing page.
-**Evidencia del Deployment:**
+<br>**GitHub:** Plataforma para el el desarrollo en equipo.<br>
+**Git Hub Pages:** Este es el servicio que nos permite alojar nuestra landing page.<br>
+**Evidencia del Deployment:**<br>
+**Registro del usuario:**<br>
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/deployment-1-sprint2.jpg?raw=true)
+<br>**Inicio de sesión del usuario:**
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/deployment-2-sprint2.jpg?raw=true)
+<br>**Recupereción de contraseña:**
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/deployment-3-sprint2.jpg?raw=true)
 
 #### **5.2.2.8. Team Collaboration Insights during Sprint**
 **Commits del Informe:** 
