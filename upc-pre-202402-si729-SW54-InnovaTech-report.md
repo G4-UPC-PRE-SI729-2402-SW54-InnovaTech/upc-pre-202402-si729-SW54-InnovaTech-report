@@ -651,7 +651,13 @@ Para el desarrollo de nuestra primera versión del front-end, hemos usado con co
 #### **5.2.3.1. Sprint Planning 3**
 #### **5.2.3.2. Sprint Backlog 3**
 #### **5.2.3.3. Development Evidence for Sprint Review**
+| Repository | Branch | Commit Message | Commit ID |
+|------------|--------|----------------|-----------|
+| |  |  |  |
 #### **5.2.3.4. Testing Suite Evidence for Sprint Review**
+| Repository   | Branch  |  Commited on (Date)|
+|------|-----------------------------------|----------------------------------------|
+|  |                   |  |
 #### **5.2.2.5. Execution Evidence for Sprint Review**
 #### **5.2.2.6. Services Documentation Evidence for Sprint Review**
 #### **5.2.3.7. Software Deployment Evidence for Sprint Review**
