@@ -657,7 +657,7 @@ Para el desarrollo de nuestra primera versión del front-end, hemos usado con co
 #### **5.2.3.4. Testing Suite Evidence for Sprint Review**
 | Repository   | Branch  |  Commited on (Date)|
 |------|-----------------------------------|----------------------------------------|
-|  |                   |  |
+| https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/tree/feature/chapter5 | upc-pre-202402-si729-SW54-InnovaTech-report/main | 29/10/24 |
 #### **5.2.2.5. Execution Evidence for Sprint Review**
 #### **5.2.2.6. Services Documentation Evidence for Sprint Review**
 #### **5.2.3.7. Software Deployment Evidence for Sprint Review**
