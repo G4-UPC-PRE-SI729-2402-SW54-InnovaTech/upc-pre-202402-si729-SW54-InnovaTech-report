@@ -648,15 +648,19 @@ Para el desarrollo de nuestra primera versión del front-end, hemos usado con co
 ![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/c94b1f172c7f8f0496fb11acdabae7a75accb06c/Assets/SS_Commits2.png)
 
 ### **5.2.3. Sprint 3**
+En este Sprint 3, nos hemos enfocado en consolidar la parte lógica nuestra Web Application para nuestra startup Connex. El objetivo principal fue empezar el backend de nuestra aplicación en las que hemos agregado lógicas como la búsqueda, agregación y eliminación de usuarios influencers y empresas. También hemos corregido errores que hemos detectado en el sprint anterior, lo cual esta ayudando a que mejores cada vez más nuestro proyecto. 
+
 #### **5.2.3.1. Sprint Planning 3**
 
-En la próxima sección, se presentará el sprint #3 con la primera versión del trabajo para la entrega del proyecto, donde se mostrará la organización, distribución y resultados del landing page, fronted y backend de la aplicacion web.
+Para el Sprint Planning 3, el equipo de Connex ha establecido como prioridad la planificación del backend de nuestra Web Application, tratando de llevar acabo funcionalidades como las de agregar, eliminar y buscar, tanto usuarios influencers como empresas usuarias. A parte de eso seguimos mejorando otros aspectos de nuestro proyecto, como el frontend.  
 
-Sprint # |Date |Time |Location |Prepared By |Attendees|
-| :- | :- | :- | :- | :- | :- |
-|3|19/10/2024 |7:00 pm|Reunión mediante Meet|Javier Murillo, Mathias|<p>Escobar Palomino, Sebastian. </p><p>Macavilca Quispe, Ian.</p><p>Nakasone Gomes, Marco.</p><p>Laban Hijar, Jorge.</p>|
-|Sprint 3 Goal |Sprint 3 Velocity |Sum of Story Points||||
-|Elaborar y diseñar el landing page informativa para la aplicación Connex.|<p>18</p><p></p>|18||||
+| Sprint # | Date       | Time     | Location             | Prepared By                 | Attendees                                                                                                                   | Sprint Goal                                                                                                                      | Sprint Velocity | Sum of Story Points |
+| -------- | ---------- | -------- | -------------------- | --------------------------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | --------------- | -------------------- |
+| 1        | 28/08/2024 | 7:00 pm  | Reunión mediante Meet | Javier Murillo, Mathias      | Escobar Palomino, Sebastian.<br>Macavilca Quispe, Ian.<br>Nakasone Gomes, Marco.<br>Laban Hijar, Jorge.                      | Elaborar y diseñar el landing page informativa para la aplicación Connex.                                                        | 18              | 18                   |
+| 2        | 24/09/2024 | 10:00 pm | Reunión mediante Meet | Javier Murillo, Mathias      | Escobar Palomino, Sebastian.<br>Macavilca Quispe, Ian.<br>Nakasone Gomes, Marco.<br>Laban Hijar, Jorge.                      | La meta de este Sprint es la planificación de la Web Application para el startup, tanto su visualización, creación del repositorio, acceso al repositorio y la visualización de los canales de comunicación de la empresa. | x               | x                    |
+| 3        | 10/10/2024 | 8:00 pm  | Reunión mediante Meet | Javier Murillo, Mathias      | Escobar Palomino, Sebastian.<br>Macavilca Quispe, Ian.<br>Nakasone Gomes, Marco.<br>Laban Hijar, Jorge.                      | Consolidar la parte lógica del backend de la aplicación, integrando funcionalidades de agregar, eliminar y buscar usuarios influencers y empresas, y corregir errores identificados en el frontend del sprint anterior. | x               | x                    |
+
+
 
 #### **5.2.3.2. Sprint Backlog 3**
 
