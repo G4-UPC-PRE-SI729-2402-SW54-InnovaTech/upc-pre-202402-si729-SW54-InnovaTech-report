@@ -649,7 +649,27 @@ Para el desarrollo de nuestra primera versión del front-end, hemos usado con co
 
 ### **5.2.3. Sprint 3**
 #### **5.2.3.1. Sprint Planning 3**
+
+En la próxima sección, se presentará el sprint #3 con la primera versión del trabajo para la entrega del proyecto, donde se mostrará la organización, distribución y resultados del landing page, fronted y backend de la aplicacion web.
+
+Sprint # |Date |Time |Location |Prepared By |Attendees|
+| :- | :- | :- | :- | :- | :- |
+|3|19/10/2024 |7:00 pm|Reunión mediante Meet|Javier Murillo, Mathias|<p>Escobar Palomino, Sebastian. </p><p>Macavilca Quispe, Ian.</p><p>Nakasone Gomes, Marco.</p><p>Laban Hijar, Jorge.</p>|
+|Sprint 3 Goal |Sprint 3 Velocity |Sum of Story Points||||
+|Elaborar y diseñar el landing page informativa para la aplicación Connex.|<p>18</p><p></p>|18||||
+
 #### **5.2.3.2. Sprint Backlog 3**
+
+En el primer sprint, el equipo se enfocó en crear una landing page atractiva y funcional, organizando y asignando tareas mediante el cuadro de Sprint según las habilidades de cada miembro.
+
+|Sprint #||Sprint 1||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story||Work Item / Task||||||
+|Id|Title|Id|Title|Descripción|Estimación (Hours)|Assigned to|Status (In -process / To - review / Done)|
+|US01|Descripción de la web|UT01|Acerca de la web|Descripción de lo que trata nuestra pagina web. |4|Mathias Javier|Done|
+|US02|Accesibilidad del contenido|UT02|Disponibilidad accesible del contenido.|Que la página muestre el contenido correctamente (imágenes y enlaces).|8|Marco Nakasone y Sebastian Escobar|Done|
+|US02|Accesibilidad del contenido|UT03|Diseño responsive de la página|Que la página se visualice correctamente en cualquier dispositivo.|6|Ian Macavilca|Done|
+
 #### **5.2.3.3. Development Evidence for Sprint Review**
 | Repository | Branch | Commit Message | Commit ID |
 |------------|--------|----------------|-----------|
