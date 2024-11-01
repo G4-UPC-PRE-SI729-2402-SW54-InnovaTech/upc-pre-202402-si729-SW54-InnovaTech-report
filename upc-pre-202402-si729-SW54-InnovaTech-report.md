@@ -776,6 +776,18 @@ la aplicación web, que facilitan la comunicación entre el cliente y el servido
 - **Momento en el que Inicia: 0:00 min**
 - **Duración: 4:44 min**
 
+  
+ **Entrevistado N°3: Gianella Cardenas**
+- **Sexo: Femenino** 
+- **Edad: 23 años**
+- **Domicilio: Surco** 
+
+**Entrevista:** 
+
+- **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EQef5M4vtdRPvCTwgiPM63UBW5CBBDoyB1a-BwKBhyDAqw?e=gz8qcj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D**
+- **Momento en el que Inicia: 0:00 min**
+- **Duración: 3:28 min**
+
    ***Segmento 2: Empresas***
 
    **Entrevistado N°1: Sebastian Silva**
@@ -824,6 +836,80 @@ la aplicación web, que facilitan la comunicación entre el cliente y el servido
   ` `
 
 ### **5.3.3. Evaluaciones según Heurísticas**
+# Evaluación de Usabilidad de la Plataforma Connex Basada en la Heurística de Nielsen
+
+---
+
+### **Meta:** 
+El propósito de esta evaluación es identificar problemas de usabilidad dentro de la aplicación web Connex.
+
+**Lista de Heurísticas:** 
+Los hallazgos de esta evaluación se basan en la lista de verificación heurística de Jakob Nielsen.
+
+---
+
+### **Tareas Evaluadas**
+1. **Autenticación (Iniciar Sesión, Registro, Recuperar Contraseña)**
+2. **Panel de Control: Páginas de Inicio, Estadísticas y Configuración**
+
+### **Escala de Severidad**
+| Nivel | Descripción                                                                 |
+|-------|-----------------------------------------------------------------------------|
+| 1     | Problema superficial; fácil de superar, ocurre raramente.                   |
+| 2     | Problema menor; algo frecuente pero fácil de superar; baja prioridad.       |
+| 3     | Problema importante; frecuente, interfiere con la usabilidad; prioridad alta.|
+| 4     | Problema severo; impide completar la tarea; debe corregirse antes del lanzamiento.|
+
+---
+
+### **Problemas Identificados**
+
+---
+
+A continuación, se detallan tres problemas identificados en la evaluación heurística de la plataforma Connex.
+
+---
+
+### **Problema #01: Falta de Retroalimentación Clara en las Acciones de los Botones**
+
+- **Escala de Severidad:** 3
+- **Principio Violado:** **Visibilidad del Estado del Sistema**
+  
+- **Descripción del Problema:**  
+  La interfaz no proporciona una retroalimentación clara cuando los usuarios realizan acciones. Por ejemplo, al hacer clic en botones como "Registrar" o "Enviar Email", no hay una confirmación visual inmediata, lo que puede generar dudas sobre si la acción fue procesada correctamente.
+
+- **Recomendación:**  
+  Se recomienda agregar indicadores de retroalimentación, como mensajes de confirmación, cambios de color en los botones o un pequeño ícono de carga. Esto aumentará la confianza del usuario al saber que el sistema está procesando su solicitud.
+
+---
+
+### **Problema #02: Página de Configuración Sobrecargada**
+
+- **Escala de Severidad:** 3
+- **Principio Violado:** **Flexibilidad y Eficiencia de Uso**
+  
+- **Descripción del Problema:**  
+  La página de configuración presenta demasiada información de forma no organizada, lo cual puede resultar abrumador para los usuarios y dificulta encontrar opciones específicas, reduciendo así la eficiencia al navegar por esta sección.
+
+- **Recomendación:**  
+  Se sugiere organizar las opciones de configuración en categorías o secciones colapsables, permitiendo que el usuario expanda solo las áreas necesarias. Esto mejorará la limpieza visual y facilitará la navegación.
+
+---
+
+### **Problema #03: Ausencia de Ayuda o Guía para Usuarios Nuevos**
+
+- **Escala de Severidad:** 4
+- **Principio Violado:** **Ayuda y Documentación**
+  
+- **Descripción del Problema:**  
+  No se proporciona orientación ni ayuda visible para los nuevos usuarios, especialmente en secciones complejas como "Estadísticas" y "Configuración". Esto puede dificultar el uso inicial de la plataforma y hacer que los usuarios se sientan perdidos.
+
+- **Recomendación:**  
+  Se recomienda agregar una sección de ayuda o guías de introducción, tales como tooltips o un tutorial inicial. Esto permitirá a los nuevos usuarios entender mejor la funcionalidad de Connex y mejorar su experiencia inicial.
+
+---
+
+Estas recomendaciones buscan mejorar la usabilidad y la experiencia general del usuario en la plataforma Connex.
 
 ## **5.4. Video About-the-Product**
 
