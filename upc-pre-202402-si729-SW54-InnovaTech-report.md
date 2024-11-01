@@ -776,6 +776,52 @@ la aplicación web, que facilitan la comunicación entre el cliente y el servido
 - **Momento en el que Inicia: 0:00 min**
 - **Duración: 4:44 min**
 
+   ***Segmento 2: Empresas***
+
+   **Entrevistado N°1: Sebastian Silva**
+
+- **Sexo: Masculino** 
+- **Edad: 20 años**
+- **Domicilio: San Luis** 
+
+**Entrevista:** 
+
+- **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EbnwOJTKeXpIkwkBV9pXfB8Bq4prnQatpWrHAhGajPebCA?e=7aKDQ9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D**
+- **Momento en el que Inicia: 0:00 min**
+- **Duración: 3:17 min**
+
+  **Resumen:**
+  ` `
+
+  **Entrevistado N°2: Jose Heredia**
+
+- **Sexo: Masculino** 
+- **Edad: 20 años**
+- **Domicilio: Santa Anita** 
+
+**Entrevista:** 
+
+- **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EUIX51tSPadGlSf9V0Qlk5EB8MgvOTuJSj9Edxvav8vqPw?e=rJz1XY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D**
+- **Momento en el que Inicia: 0:00 min**
+- **Duración: 4:29 min**
+
+  **Resumen:**
+  ` `
+
+**Entrevistado N°3: Renzo Esquen**
+
+- **Sexo: Masculino** 
+- **Edad: 28 años**
+- **Domicilio: San Miguel** 
+
+**Entrevista:** 
+
+- **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EcIjIP06iwxAh3y19n7Z-ogBRQxauY-wcpq4SzBrcJAH1A?e=gxOGbX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D**
+- **Momento en el que Inicia: 0:00 min**
+- **Duración: 4:42 min**
+
+  **Resumen:**
+  ` `
 
 ### **5.3.3. Evaluaciones según Heurísticas**
 
