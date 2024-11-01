@@ -776,6 +776,8 @@ la aplicación web, que facilitan la comunicación entre el cliente y el servido
 - **Momento en el que Inicia: 0:00 min**
 - **Duración: 4:44 min**
 
+**Resumen:**
+  ` ` El influencer Diego mencionó que la aplicación Connex le parece una herramienta muy útil para gestionar su presencia en redes sociales de manera profesional. Destacó que la interfaz es intuitiva y fácil de navegar, lo cual le permite tener acceso rápido a estadísticas y configuraciones para optimizar sus campañas.
   
  **Entrevistado N°3: Gianella Cardenas**
 - **Sexo: Femenino** 
@@ -787,6 +789,9 @@ la aplicación web, que facilitan la comunicación entre el cliente y el servido
 - **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EQef5M4vtdRPvCTwgiPM63UBW5CBBDoyB1a-BwKBhyDAqw?e=gz8qcj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D**
 - **Momento en el que Inicia: 0:00 min**
 - **Duración: 3:28 min**
+
+  **Resumen:**
+  ` ` La influencer Gianella considera que Connex es una plataforma poderosa para conectar a los creadores de contenido con empresas. Opinó que la sección de estadísticas ofrece información relevante para medir el alcance y rendimiento de sus campañas, lo cual resulta esencial en su campo..
 
    ***Segmento 2: Empresas***
 
@@ -803,7 +808,9 @@ la aplicación web, que facilitan la comunicación entre el cliente y el servido
 - **Duración: 3:17 min**
 
   **Resumen:**
-  ` `
+  ` `Sebastian, dueño de una tienda de ropa , comentó que Connex le resulta una herramienta fácil de usar para conectarse con influencers que pueden darle visibilidad a su tienda. Resaltó que la sección de estadísticas le permite ver el impacto de cada colaboración, ayudándole a tomar decisiones más informadas sobre futuras campañas. Sin embargo, sugirió que sería ideal que la aplicación incluya un sistema de chat interno para comunicarse directamente con los influencers sin tener que salir de la plataforma.
+
+
 
   **Entrevistado N°2: Jose Heredia**
 
@@ -818,7 +825,7 @@ la aplicación web, que facilitan la comunicación entre el cliente y el servido
 - **Duración: 4:29 min**
 
   **Resumen:**
-  ` `
+  ` `Jose, fundador de una empresa pequeña valoró la estructura organizada de Connex y mencionó que le facilita gestionar la relación con los influencers para aumentar la visibilidad de su startup. Apreció que la plataforma permite acceder a campañas previas de otros usuarios, dándole ideas sobre cómo estructurar las suyas. Sin embargo, Luis sugirió que Connex podría beneficiarse de una actualización de diseño más moderna, con colores y estilos que hagan la experiencia visualmente más atractiva y en línea con tendencias tecnológicas.
 
 **Entrevistado N°3: Renzo Esquen**
 
@@ -833,7 +840,7 @@ la aplicación web, que facilitan la comunicación entre el cliente y el servido
 - **Duración: 4:42 min**
 
   **Resumen:**
-  ` `
+  ` `Renzo, propietario de una veterianiria groomer considera que Connex es una plataforma excelente para identificar influencers con afinidad por el sector turístico. Le gustó la opción de ver datos y gráficas sobre el alcance de las campañas, ya que le da una idea clara de los resultados. No obstante, recomendó que se añadan filtros avanzados en la búsqueda de influencers, como la posibilidad de segmentar por ubicación y demografía del público, para hacer las colaboraciones más precisas.
 
 ### **5.3.3. Evaluaciones según Heurísticas**
 # Evaluación de Usabilidad de la Plataforma Connex Basada en la Heurística de Nielsen
