@@ -758,7 +758,16 @@ la aplicación web, que facilitan la comunicación entre el cliente y el servido
 - **Momento en el que Inicia: 0:00 min**
 - **Duración: 4:30 min**
 
- **Entrevistado N°2: Gillary Ajalcriña**
+ **Entrevistado N°2: Diego Bastidas**
+- **Sexo: Masculino** 
+- **Edad: 22 años**
+- **Domicilio: Comas** 
+
+**Entrevista:** 
+
+- **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/Edy4-XjGgW1MvrmR2luyzhcBbyZZ8eX90rrsQ3wYGYO_mg?e=2QW9aP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D**
+- **Momento en el que Inicia: 0:00 min**
+- **Duración: 4:44 min**
 
 
 ### **5.3.3. Evaluaciones según Heurísticas**
