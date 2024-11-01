@@ -918,10 +918,15 @@ A continuación, se detallan tres problemas identificados en la evaluación heur
 
 Estas recomendaciones buscan mejorar la usabilidad y la experiencia general del usuario en la plataforma Connex.
 
-## **5.4. Video About-the-Product**
-El video resume el proceso de trabajo desarrollado por el equipo. En este, los miembros detallan las actividades realizadas para alcanzar los resultados estipulados por el curso. Cabe destacar que el equipo enfatiza la importancia de la comunicación, tanto oral como escrita, como un método efectivo para expresar ideas y reportar el avance del proyecto. 
+## **Video About-the-Team**
+El video resume el proceso de trabajo realizado por el equipo, en el cual los integrantes describen las actividades llevadas a cabo para alcanzar los objetivos establecidos en el curso. Cabe destacar que los miembros resaltan la importancia de la comunicación oral y escrita como una herramienta efectiva para expresar ideas y reportar el avance del proyecto.
 
 [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EUxRv8L11D1AtKyofAkAHQkBpfnPLShCd-4-0804xlHL6g?e=WGvIwF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+##  **Video About-the-Product**
+A continuación, se presenta el video "About the Product," el cual resalta el propósito, las ventajas y las características principales de la aplicación. Asimismo, incorpora testimonios de usuarios clave que respaldan la calidad del software creado.
+
+[Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EbHXsvWXM9FMmIe9S4BJeBQBbJyVh1nTtRspo6cZIj53IQ?e=Z5yTBE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 # **Conclusiones**
