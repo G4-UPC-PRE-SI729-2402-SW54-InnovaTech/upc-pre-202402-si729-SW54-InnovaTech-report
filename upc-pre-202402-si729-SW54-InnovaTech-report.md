@@ -926,7 +926,7 @@ El video resume el proceso de trabajo desarrollado por el equipo. En este, los m
 
 # **Conclusiones**
 
--A lo largo del desarrollo de la plataforma Connex, el equipo ha logrado implementar satisfactoriamente las funciones y características planeadas, creando una experiencia de usuario eficiente que facilita la conexión entre influencers y empresas.
+- A lo largo del desarrollo de la plataforma Connex, el equipo ha logrado implementar satisfactoriamente las funciones y características planeadas, creando una experiencia de usuario eficiente que facilita la conexión entre influencers y empresas.
 - La creación de la plataforma Connex ha permitido al equipo demostrar su capacidad para convertir requisitos y especificaciones en código funcional, construyendo una estructura robusta y un diseño atractivo que optimiza la interacción entre influencers y marcas.
 - La cooperación y el trabajo en equipo han sido fundamentales para el éxito del proyecto, promoviendo el intercambio de conocimientos y habilidades en el uso de herramientas avanzadas, como Angular para frontend y backend, que ha sido crucial para el desarrollo de funciones dinámicas y adaptativas.
 - Además, el uso de herramientas de diseño como Figma ha facilitado la creación de una interfaz coherente y visualmente atractiva que fortalece la imagen profesional de Connex. Asimismo, Trello ha contribuido a la organización y el seguimiento efectivo de las tareas, permitiendo al equipo mantenerse enfocado en los objetivos.
