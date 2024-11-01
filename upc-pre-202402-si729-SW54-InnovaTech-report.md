@@ -737,7 +737,7 @@ la aplicación web, que facilitan la comunicación entre el cliente y el servido
  1. ¿Que te parecio la interacción con Connex?
  1. ¿Que es lo que modificarias o añadirias?
     
- ***Segmento 2: Dueños de Mascotas***
+ ***Segmento 2: Empresas***
  1. ¿¿Que te parecio la interacción con Connex?
  1. ¿Que es lo que modificarias o añadirias?
  1. ¿Que tan facil te parecio el uso de Connex?
