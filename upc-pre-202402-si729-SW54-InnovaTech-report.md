@@ -666,7 +666,7 @@ Para el Sprint Planning 3, el equipo de Connex ha establecido como prioridad la 
 
 En el primer sprint, el equipo se enfocó en crear una landing page atractiva y funcional, organizando y asignando tareas mediante el cuadro de Sprint según las habilidades de cada miembro.
 
-|Sprint #||Sprint 1||||||
+|Sprint #||Sprint 3||||||
 | :- | :- | :- | :- | :- | :- | :- | :- |
 |User Story||Work Item / Task||||||
 |Id|Title|Id|Title|Descripción|Estimación (Hours)|Assigned to|Status (In -process / To - review / Done)|
