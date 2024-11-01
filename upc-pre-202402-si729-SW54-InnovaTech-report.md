@@ -402,7 +402,11 @@ Socialpubli es una empresa de publicidad social que pone en contacto a empresas 
 
 ## **3.3. Impact Mapping** 
 
-<img src="https://github.com/user-attachments/assets/4320b405-af36-4a38-9955-308ad29c796c" style="width: 100%;"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter3/Assets/Impact1.jpg?raw=true" style="width: 100%;"/>
+
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter3/Assets/Impact2.jpg?raw=true" style="width: 100%;"/>
+
+
 
 ## **3.4. Product Backlog** 
 
