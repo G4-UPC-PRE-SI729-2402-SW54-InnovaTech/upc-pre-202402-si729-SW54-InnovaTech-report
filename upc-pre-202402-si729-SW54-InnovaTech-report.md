@@ -732,7 +732,34 @@ la aplicación web, que facilitan la comunicación entre el cliente y el servido
 
 ## **5.3. Validation Interviews**
 ### **5.3.1. Diseño de Entrevistas**
+ ***Segmento 1: Influencers***
+ 1. ¿Utilizas alguna otra aplicación para comunicarte con otras empresas?
+ 1. ¿Que te parecio la interacción con Connex?
+ 1. ¿Que es lo que modificarias o añadirias?
+    
+ ***Segmento 2: Dueños de Mascotas***
+ 1. ¿¿Que te parecio la interacción con Connex?
+ 1. ¿Que es lo que modificarias o añadirias?
+ 1. ¿Que tan facil te parecio el uso de Connex?
+    
 ### **5.3.2. Registro de Entrevistas**
+
+ ***Segmento 1: Influencers***
+
+   **Entrevistado N°1: Gillary Ajalcriña**
+
+- **Sexo: Femenino** 
+- **Edad: 21 años**
+- **Domicilio: La Molina** 
+
+**Entrevista:** 
+-**Link: https://upcedupe-my.sharepoint.com/personal/u202125968_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202125968_upc_edu_pe%2FDocuments%2FEntrevista%20Gillary-%20Influencer%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Efd83b39b-bd64-4f8d-ab1f-3b01f7dda579&isDarkMode=false **
+- **Momento en el que Inicia: 0:00 min**
+- **Duración: 4:30 min**
+
+ **Entrevistado N°2: Gillary Ajalcriña**
+
+
 ### **5.3.3. Evaluaciones según Heurísticas**
 
 ## **5.4. Video About-the-Product**
