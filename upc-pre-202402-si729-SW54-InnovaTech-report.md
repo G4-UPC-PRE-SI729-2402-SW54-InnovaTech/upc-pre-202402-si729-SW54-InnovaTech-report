@@ -758,6 +758,13 @@ la aplicación web, que facilitan la comunicación entre el cliente y el servido
 - **Momento en el que Inicia: 0:00 min**
 - **Duración: 4:30 min**
 
+  **Resumen:**
+  ` ` La influencer Gillary le parecio muy didactica el uso de Connex pues le permitiria asi mostrar sus redes sociales a las empresas y 
+  asi poder promocionarse , de esta forma podra tener mas atencion a su publico tambien a la vez .Tambien recalco que le gustaria que se 
+  implmente un color mas calido a la aplicación para que sea mas llamativo para otras personas.
+
+  
+
  **Entrevistado N°2: Diego Bastidas**
 - **Sexo: Masculino** 
 - **Edad: 22 años**
