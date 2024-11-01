@@ -719,7 +719,7 @@ la aplicación web, que facilitan la comunicación entre el cliente y el servido
   entender cómo interactuar eficazmente con la aplicación.
 #### **5.2.3.7. Software Deployment Evidence for Sprint Review**
 #### **5.2.3.8. Team Collaboration Insights during Sprint**
-
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/ce67b0bc5b49ea1a9b68d0e1a952f8fdd7b20319/Assets/Captura%20de%20pantalla%202024-11-01%20181049.png)
 ### **5.2.4. Sprint 4**
 #### **5.2.4.1. Sprint Planning 4**
 #### **5.2.4.2. Sprint Backlog 4**
