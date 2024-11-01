@@ -840,7 +840,7 @@ la aplicación web, que facilitan la comunicación entre el cliente y el servido
 - **Duración: 4:42 min**
 
   **Resumen:**
-  ` `Renzo, propietario de una veterianiria groomer considera que Connex es una plataforma excelente para identificar influencers con afinidad por el sector turístico. Le gustó la opción de ver datos y gráficas sobre el alcance de las campañas, ya que le da una idea clara de los resultados. No obstante, recomendó que se añadan filtros avanzados en la búsqueda de influencers, como la posibilidad de segmentar por ubicación y demografía del público, para hacer las colaboraciones más precisas.
+  ` `Renzo, propietario de una veterianiria groomer considera que Connex es una plataforma excelente para identificar influencers con afinidad por el sector de salud. Le gustó la opción de ver datos y gráficas sobre el alcance de las campañas, ya que le da una idea clara de los resultados. No obstante, recomendó que se añadan filtros avanzados en la búsqueda de influencers, como la posibilidad de segmentar por ubicación y demografía del público, para hacer las colaboraciones más precisas.
 
 ### **5.3.3. Evaluaciones según Heurísticas**
 # Evaluación de Usabilidad de la Plataforma Connex Basada en la Heurística de Nielsen
