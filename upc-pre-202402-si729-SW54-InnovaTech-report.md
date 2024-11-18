@@ -767,14 +767,12 @@ Para el Sprint Planning 4, el equipo de Connex ha establecido como prioridad la 
 
 En el sprint, el equipo se enfocó en crear una landing page atractiva y funcional, organizando y asignando tareas mediante el cuadro de Sprint según las habilidades de cada miembro.
 
-|Sprint #||Sprint 3||||||
+|Sprint #||Sprint 4||||||
 | :- | :- | :- | :- | :- | :- | :- | :- |
 |User Story||Work Item / Task||||||
 |Id|Title|Id|Title|Descripción|Estimación (Hours)|Assigned to|Status (In -process / To - review / Done)|
-|US01|Descripción de la web|UT01|Acerca de la web|Descripción de lo que trata nuestra pagina web. |4|Mathias Javier|Done|
-|US02|Accesibilidad del contenido|UT02|Disponibilidad accesible del contenido.|Que la página muestre el contenido correctamente (imágenes y enlaces).|8|Marco Nakasone y Sebastian Escobar|Done|
-|US02|Accesibilidad del contenido|UT03|Diseño responsive de la página|Que la página se visualice correctamente en cualquier dispositivo.|6|Ian Macavilca|Done|
-
+|US10|Despliegue de la aplicación|UT01|Acerca de la web|Despliegue del backend con el fronted de la aplicación. |4|Mathias Javier|Done|
+|US11|Corrección de observaciones|UT02|Disponibilidad accesible del contenido.|Que la página muestre el contenido correctamente (imágenes y enlaces).|8|Marco Nakasone y Sebastian Escobar|Done|
 
 #### **5.2.4.3. Development Evidence for Sprint Review**
 
