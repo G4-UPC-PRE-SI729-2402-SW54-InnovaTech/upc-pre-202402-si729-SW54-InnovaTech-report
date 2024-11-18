@@ -26,23 +26,47 @@
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ------------ | ---------- | ----------- |
 | 0.0 | 20/08/2024 | Grupo 4 | Creación del documento |
-| 1.0 | 25/09/2024 | Grupo 4 | TP |
-
+| 0.1 | 22/08/2024 | Grupo 4 | Se agrega el Capítulo I: Introducción |
+| 0.2 | 22/08/2024 | Grupo 4 | Se agrega el Capítulo II: Requirements Elicitation & Analysis |
+| 0.3 | 22/08/2024 | Grupo 4 | Se agrega el Capítulo III: Requirements Specification |
+| 0.4 | 22/08/2024 | Grupo 4 | Se agrega el Capítulo IV: Product Design |
+| 0.5 | 22/08/2024 | Grupo 4 | Se agrega el Capítulo V: Product Implementaion, Validation & Deployment |
+| 0.6 | 23/08/2024 | Grupo 4 | Se muestra un avance de las Conclusiones, Bibliografía y Anexos |
+| 1.0 | 20/09/2024 | Grupo 4 | Empezamos el desarrollo de la entrega parcial |
+| 1.1 | 20/09/2024 | Grupo 4 | Se inicia el desarrollo del Sprint 2 |
+| 1.2 | 21/09/2024 | Grupo 4 | Se agrega el Sprint Planning 2 y Sprint Backlog 2 |
+| 1.3 | 23/09/2024 | Grupo 4 | Se agrega el Development Evidence for Sprint Review |
+! 1.4 | 25/09/2024 | Grupo 4 | Se agrega el Testing Suite Evidence, Services Documentation y Software Deployment Evidence | 
+| 1.5 | 26/09/2024 | Grupo 4 | Se agrega el Team Collaboration Insights during Sprint | 
+| 2.0 | 20/10/2024 | Grupo 4 | Empezamos el desarrollo de la TB2 | 
+| 2.1 | 21/10/2024 | Grupo 4 | Se inicia el desarrollo del Sprint 3 |
+| 2.2 | 22/10/2024 | Grupo 4 | Se agrega el Sprint Planning 3 y Sprint Backlog 3 | 
+| 2.3 | 24/10/2024 | Grupo 4 | Se agrega el Development Evidence for Sprint Review |
+| 2.4 | 25/10/2024 | Grupo 4 | Se agrega el Testing Suite Evidence y Service Documentation |
+| 2.5 | 26/10/2024 | Grupo 4 | Se agrega el Software Deployment Evidence for Sprint Review | 
+| 2.6 | 28/10/2024 | Grupo 4 | Se agrega el Team Collaboration Insights during Sprint | 
+| 3.0 | 14/11/2024 | Grupo 4 | Empezamos el desarrollo de la Entrega Final | 
+| 3.1 | 16/11/2024 | Grupo 4 | Se inicia el desarrollo del Sprint 4 | 
+| 3.2 | 18/11/2024 | Grupo 4 | Se agrega el Sprint Planning 4 y Sprint Backlog 4 | 
+| 3.3 | 18/11/2024 | Grupo 4 | Se agrega el Development Evidence for Sprint Review |
+| 3.4 | 18/11/2024 | Grupo 4 | Se agrega el Testing Suite Evidence y Service Documentation |
+| 3.5 | 18/11/2024 | Grupo 4 | Se agrega el Software Deployment Evidence for Sprint Review | 
+| 3.6 | 18/11/2024 | Grupo 4 | Se agrega el Team Collaboration Insights during Sprint | 
+| 3.7 | 18/11/2024 | Grupo 4 | Se agregan Bibliografías, Student Outcome y Realizan correcciones | 
 
 # **Project Report Collaboration Insights**
 
 **Commits del Informe**
 
 Link del repositorio: 
-
 # **Student Outcome**
 
 **ABET - EAC - Student Outcome 3:** Capacidad de comunicarse efectivamente con un rango de audiencias.
 
-|Criterio Especifico|Acciones Realizadas|Conclusiones|
-|-|-|-|
-|Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Mathias Javier Murillo:** <br> **TB1:** <br> Durante la primera entrega del proyecto puede aprender como es el estudio de los competidores, el analisis de nuestros mercados objetivos y practique mis habilidades de desarrollo con la Landing Page. <br> **TP:** <br> Durante esta entrega pude implementar mis habilidades de desarrollo apoyando con el desarrollo del Web Application por el lado del frontend.<br>  **Ian Macavilca Quispe:** <br> **TB1:** <br> En la primera entrega del proyecto, adquirí conocimientos sobre el análisis de competidores, el estudio de nuestros mercados objetivos, y tuve la oportunidad de mejorar mis habilidades de desarrollo al trabajar en la Landing Page.<br> **TP:** <br> En esta entrega, tuve la oportunidad de aplicar mis habilidades de desarrollo contribuyendo al desarrollo de la aplicación web, específicamente en la parte del frontend.<br> **Escobar Palomino, Sebastian:**<br> **TB1:** <br> En la primera fase del proyecto, adquirí conocimientos sobre cómo llevar a cabo un análisis de competidores y examinar nuestros mercados objetivo, además de mejorar mis habilidades de desarrollo trabajando en la Landing Page.<br> **TP:** <br> EEn esta etapa, apliqué mis habilidades técnicas colaborando en la implementación del frontend de la aplicación web.<br> **Laban Hijar, Jorge:** <br> **TB1:** <br> En la primera parte del proyecto, me familiaricé con el análisis de nuestros competidores y el estudio de los mercados clave, mientras fortalecía mis habilidades de programación trabajando en la Landing Page.<br> **TP:** <br> En esta fase, implementé mis conocimientos de desarrollo al contribuir en el desarrollo del frontend de la aplicación web.|
-|Comunica por escrito con efectividad a diferentes rangos de audiencia.| **Mathias Javier Murillo:** <br> **TB1:** <br> Durante la primera entrega del proyecto desarrollo el capitulo 2, aprendiendo a como analizar a nuestros posibles competidores, creando estrategias frente a los mismos. <br> **TP:** <br> Durante esta entrega desarrollo la parte frontend del Web Application.<br>**Ian Macavilca Quispe:** <br> **TB1:** <br> En la primera entrega del proyecto, desarrollé el capítulo 2, donde aprendí a analizar a nuestros posibles competidores y diseñé estrategias para enfrentarlos. <br> **TP:** <br> En esta entrega, me encargué de desarrollar la parte frontend de la aplicación web.<br>  **Escobar Palomino, Sebastian:** <br>**TB1:** <br> En la primera entrega del proyecto, desarrollé el capítulo 2, donde aprendí a analizar a nuestros posibles competidores y diseñé estrategias para enfrentarlos. <br> **TP:** <br> En esta entrega, me encargué de desarrollar la parte frontend de la aplicación web.<br>    **Laban Hijar, Jorge:**<br> **TB1:** <br> En la primera entrega del proyecto, desarrollé el capítulo 2, donde aprendí a analizar a nuestros posibles competidores y diseñé estrategias para enfrentarlos. <br> **TP:** <br> En esta entrega, me encargué de desarrollar la parte frontend de la aplicación web.<br> |
+| Criterio Específico | Acciones Realizadas | Conclusiones |
+|---------------------|---------------------|--------------|
+| **Comunica oralmente con efectividad a diferentes rangos de audiencia.** | **Mathias Javier Murillo:** <br> **TB1:** Durante la primera entrega del proyecto pude aprender cómo es el estudio de los competidores, el análisis de nuestros mercados objetivos y practiqué mis habilidades de desarrollo con la Landing Page. <br> **TP:** Durante esta entrega pude implementar mis habilidades de desarrollo apoyando con el desarrollo del Web Application por el lado del frontend. <br> **TB2:** Durante este entregable pude apoyar en el desarrollo del backend para nuestra Web Application. <br> **TF:** Durante este entregable he apoyado en el despliegue de la Web Application por parte del Frontend y Backend. <br> **Ian Macavilca Quispe:** <br> **TB1:** En la primera entrega del proyecto, adquirí conocimientos sobre el análisis de competidores, el estudio de nuestros mercados objetivos, y tuve la oportunidad de mejorar mis habilidades de desarrollo al trabajar en la Landing Page. <br> **TP:** En esta entrega, tuve la oportunidad de aplicar mis habilidades de desarrollo contribuyendo al desarrollo de la aplicación web, específicamente en la parte del frontend. <br> **TB2:** <br> **TF:** <br> **Escobar Palomino, Sebastian:** <br> **TB1:** En la primera fase del proyecto, adquirí conocimientos sobre cómo llevar a cabo un análisis de competidores y examinar nuestros mercados objetivo, además de mejorar mis habilidades de desarrollo trabajando en la Landing Page. <br> **TP:** En esta etapa, apliqué mis habilidades técnicas colaborando en la implementación del frontend de la aplicación web. <br> **TB2:** <br> **TF:** <br> **Laban Hijar, Jorge:** <br> **TB1:** En la primera parte del proyecto, me familiaricé con el análisis de nuestros competidores y el estudio de los mercados clave, mientras fortalecía mis habilidades de programación trabajando en la Landing Page. <br> **TP:** En esta fase, implementé mis conocimientos de desarrollo al contribuir en el desarrollo del frontend de la aplicación web. <br> **TB2:** <br> **TF:** <br> | A lo largo de las entregas del proyecto, he mejorado mis habilidades para comunicarme de manera efectiva tanto en el análisis de los competidores como en el desarrollo técnico. Mi capacidad de transmitir mis avances y tareas realizadas ha sido clave para mantener al equipo alineado y enfocado en los objetivos del proyecto. <br> En esta fase, pude aplicar lo aprendido en las entregas anteriores, lo que me permitió comunicar mis ideas y colaboraciones de manera efectiva con el equipo. La coordinación para el desarrollo de la Web Application fue clave para asegurar la calidad del trabajo realizado. <br> A lo largo de las fases del proyecto, he aprendido a comunicarme de manera efectiva con mi equipo y expresar claramente los avances en cada etapa. Esta habilidad ha sido esencial para avanzar de manera fluida en las tareas del proyecto. <br> El desarrollo de la Web Application y el análisis de los competidores fueron elementos fundamentales en el proyecto, y mi habilidad para comunicar avances técnicos y coordinarme con el equipo resultó ser esencial para mantener el flujo de trabajo de manera efectiva. |
+| **Comunica por escrito con efectividad a diferentes rangos de audiencia.** | **Mathias Javier Murillo:** <br> **TB1:** Durante la primera entrega del proyecto desarrollé el capítulo 2, aprendiendo cómo analizar a nuestros posibles competidores, creando estrategias frente a los mismos. <br> **TP:** Durante esta entrega desarrollé la parte frontend del Web Application. <br> **TB2:** Durante esta entrega se desarrolló el backend del Web Application. <br> **TF:** Durante esta entrega, se desplegó la Web Application por parte del Frontend y Backend. <br> **Ian Macavilca Quispe:** <br> **TB1:** En la primera entrega del proyecto, desarrollé el capítulo 2, donde aprendí a analizar a nuestros posibles competidores y diseñé estrategias para enfrentarlos. <br> **TP:** En esta entrega, me encargué de desarrollar la parte frontend de la aplicación web. <br> **TB2:** <br> **TF:** <br> **Escobar Palomino, Sebastian:** <br> **TB1:** En la primera entrega del proyecto, desarrollé el capítulo 2, donde aprendí a analizar a nuestros posibles competidores y diseñé estrategias para enfrentarlos. <br> **TP:** En esta entrega, me encargué de desarrollar la parte frontend de la aplicación web. <br> **TB2:** <br> **TF:** <br> **Laban Hijar, Jorge:** <br> **TB1:** En la primera entrega del proyecto, desarrollé el capítulo 2, donde aprendí a analizar a nuestros posibles competidores y diseñé estrategias para enfrentarlos. <br> **TP:** En esta entrega, me encargué de desarrollar la parte frontend de la aplicación web. <br> **TB2:** <br> **TF:** <br> | A lo largo de las entregas, desarrollé una comunicación escrita clara y concisa para documentar el análisis de los competidores y los avances en el desarrollo de la aplicación web. Esta capacidad fue crucial para mantener a todo el equipo informado y asegurar una ejecución efectiva de las tareas. <br> El desarrollo de la documentación escrita me permitió organizar y comunicar de manera efectiva los detalles del proyecto, especialmente en lo que respecta a las estrategias frente a competidores y las implementaciones de la aplicación web. <br> La escritura fue esencial para documentar los avances en el proyecto y ayudar a alinear al equipo en las fases posteriores, permitiendo la correcta implementación y la colaboración entre frontend y backend. <br> La documentación escrita fue clave para transmitir ideas de manera organizada y precisa, facilitando la comprensión de los avances y acciones a tomar en el desarrollo de la Web Application. |
 
 # Contenido
 
@@ -974,6 +998,37 @@ A continuación, se presenta el video "About the Product," el cual resalta el pr
 
 
 # **Bibliografía**
+
+1. Aglowid IT Solutions. (2024). **Top 12 Angular best practices to adapt in 2024**. *Aglowid IT Solutions*. [https://aglowiditsolutions.com](https://aglowiditsolutions.com)
+2. C# Corner. (2024). **Using trackBy with ngFor to optimize rendering**. *C# Corner*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
+3. C# Corner. (2024). **Implementing lazy loading in Angular for performance improvements**. *C# Corner*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
+4. C# Corner. (2024). **Handling Observables to prevent memory leaks in Angular**. *C# Corner*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
+5. Aglowid IT Solutions. (2024). **The single responsibility principle in Angular development**. *Aglowid IT Solutions*. [https://aglowiditsolutions.com](https://aglowiditsolutions.com)
+6. C# Corner. (2024). **State management with Angular: NGRX and NGXS**. *C# Corner*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
+7. Angular.io. (2024). **Best practices for component folder structure in Angular**. *Angular*. [https://angular.io](https://angular.io)
+8. Aglowid IT Solutions. (2024). **Maximizing Angular CLI for efficient development**. *Aglowid IT Solutions*. [https://aglowiditsolutions.com](https://aglowiditsolutions.com)
+9. Aglowid IT Solutions. (2024). **Consistency in Angular file and class naming conventions**. *Aglowid IT Solutions*. [https://aglowiditsolutions.com](https://aglowiditsolutions.com)
+10. C# Corner. (2024). **Managing Angular environment files for various stages**. *C# Corner*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
+11. Aglowid IT Solutions. (2024). **Optimizing Angular templates for better performance**. *Aglowid IT Solutions*. [https://aglowiditsolutions.com](https://aglowiditsolutions.com)
+12. Aglowid IT Solutions. (2024). **Breaking large components into manageable sizes in Angular**. *Aglowid IT Solutions*. [https://aglowiditsolutions.com](https://aglowiditsolutions.com)
+13. C# Corner. (2024). **Using linting for improved code quality in Angular**. *C# Corner*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
+14. C# Corner. (2024). **CDK virtual scrolling for handling long lists in Angular**. *C# Corner*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
+15. Aglowid IT Solutions. (2024). **Preventing memory leaks when using Angular Observables**. *Aglowid IT Solutions*. [https://aglowiditsolutions.com](https://aglowiditsolutions.com)
+16. **Firebase Documentation**. (2024). *Firebase Functions documentation*. [https://firebase.google.com/docs/functions](https://firebase.google.com/docs/functions)
+17. **Google Cloud Platform**. (2024). *Best practices for Firebase security*. [https://cloud.google.com/firestore/docs/security](https://cloud.google.com/firestore/docs/security)
+18. **DigitalOcean Community**. (2024). *Managing Firebase Functions with Node.js*. [https://www.digitalocean.com/community/tutorials](https://www.digitalocean.com/community/tutorials)
+19. **Firebase**. (2024). *Deploying Firebase functions*. [https://firebase.google.com/docs/functions/deploy](https://firebase.google.com/docs/functions/deploy)
+20. **C# Corner**. (2024). *Using Firebase with Node.js to Build Scalable Backend Solutions*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
+21. **Medium**. (2024). *Optimizing Firebase Cloud Functions for large-scale applications*. [https://medium.com](https://medium.com)
+22. **TutorialsPoint**. (2024). *Setting up Firebase with Node.js backend*. [https://www.tutorialspoint.com/firebase](https://www.tutorialspoint.com/firebase)
+23. **Firebase Documentation**. (2024). *Firebase Firestore security rules*. [https://firebase.google.com/docs/firestore/security/get-started](https://firebase.google.com/docs/firestore/security/get-started)
+24. **DigitalOcean Community**. (2024). *Integrating Firebase Authentication for Web Applications*. [https://www.digitalocean.com/community/tutorials](https://www.digitalocean.com/community/tutorials)
+25. **Medium**. (2024). *Deploying full-stack applications with Firebase Hosting*. [https://medium.com](https://medium.com)
+26. **C# Corner**. (2024). *Using Firebase Firestore for real-time data handling*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
+27. **Firebase**. (2024). *Serverless backend with Firebase Functions*. [https://firebase.google.com/docs/functions](https://firebase.google.com/docs/functions)
+28. **Google Cloud**. (2024). *Using Firebase Hosting with CI/CD pipelines*. [https://cloud.google.com](https://cloud.google.com)
+29. **TutorialsPoint**. (2024). *Firebase for backend integration with Angular applications*. [https://www.tutorialspoint.com](https://www.tutorialspoint.com)
+30. **C# Corner**. (2024). *Managing Firebase environment variables for staging and production*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
 
 # **Anexos**
 1. Despliegue del Landing Page: <https://g4-upc-pre-si729-2402-sw54-innovatech.github.io/upc-pre-202402-si729-SW54-InnovaTech-landing-page/>
