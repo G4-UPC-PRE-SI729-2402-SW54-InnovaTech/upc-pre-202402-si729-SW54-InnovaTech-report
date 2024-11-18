@@ -941,6 +941,37 @@ A continuación, se presenta el video "About the Product," el cual resalta el pr
 
 # **Bibliografía**
 
+1. Aglowid IT Solutions. (2024). **Top 12 Angular best practices to adapt in 2024**. *Aglowid IT Solutions*. [https://aglowiditsolutions.com](https://aglowiditsolutions.com)
+2. C# Corner. (2024). **Using trackBy with ngFor to optimize rendering**. *C# Corner*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
+3. C# Corner. (2024). **Implementing lazy loading in Angular for performance improvements**. *C# Corner*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
+4. C# Corner. (2024). **Handling Observables to prevent memory leaks in Angular**. *C# Corner*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
+5. Aglowid IT Solutions. (2024). **The single responsibility principle in Angular development**. *Aglowid IT Solutions*. [https://aglowiditsolutions.com](https://aglowiditsolutions.com)
+6. C# Corner. (2024). **State management with Angular: NGRX and NGXS**. *C# Corner*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
+7. Angular.io. (2024). **Best practices for component folder structure in Angular**. *Angular*. [https://angular.io](https://angular.io)
+8. Aglowid IT Solutions. (2024). **Maximizing Angular CLI for efficient development**. *Aglowid IT Solutions*. [https://aglowiditsolutions.com](https://aglowiditsolutions.com)
+9. Aglowid IT Solutions. (2024). **Consistency in Angular file and class naming conventions**. *Aglowid IT Solutions*. [https://aglowiditsolutions.com](https://aglowiditsolutions.com)
+10. C# Corner. (2024). **Managing Angular environment files for various stages**. *C# Corner*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
+11. Aglowid IT Solutions. (2024). **Optimizing Angular templates for better performance**. *Aglowid IT Solutions*. [https://aglowiditsolutions.com](https://aglowiditsolutions.com)
+12. Aglowid IT Solutions. (2024). **Breaking large components into manageable sizes in Angular**. *Aglowid IT Solutions*. [https://aglowiditsolutions.com](https://aglowiditsolutions.com)
+13. C# Corner. (2024). **Using linting for improved code quality in Angular**. *C# Corner*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
+14. C# Corner. (2024). **CDK virtual scrolling for handling long lists in Angular**. *C# Corner*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
+15. Aglowid IT Solutions. (2024). **Preventing memory leaks when using Angular Observables**. *Aglowid IT Solutions*. [https://aglowiditsolutions.com](https://aglowiditsolutions.com)
+16. **Firebase Documentation**. (2024). *Firebase Functions documentation*. [https://firebase.google.com/docs/functions](https://firebase.google.com/docs/functions)
+17. **Google Cloud Platform**. (2024). *Best practices for Firebase security*. [https://cloud.google.com/firestore/docs/security](https://cloud.google.com/firestore/docs/security)
+18. **DigitalOcean Community**. (2024). *Managing Firebase Functions with Node.js*. [https://www.digitalocean.com/community/tutorials](https://www.digitalocean.com/community/tutorials)
+19. **Firebase**. (2024). *Deploying Firebase functions*. [https://firebase.google.com/docs/functions/deploy](https://firebase.google.com/docs/functions/deploy)
+20. **C# Corner**. (2024). *Using Firebase with Node.js to Build Scalable Backend Solutions*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
+21. **Medium**. (2024). *Optimizing Firebase Cloud Functions for large-scale applications*. [https://medium.com](https://medium.com)
+22. **TutorialsPoint**. (2024). *Setting up Firebase with Node.js backend*. [https://www.tutorialspoint.com/firebase](https://www.tutorialspoint.com/firebase)
+23. **Firebase Documentation**. (2024). *Firebase Firestore security rules*. [https://firebase.google.com/docs/firestore/security/get-started](https://firebase.google.com/docs/firestore/security/get-started)
+24. **DigitalOcean Community**. (2024). *Integrating Firebase Authentication for Web Applications*. [https://www.digitalocean.com/community/tutorials](https://www.digitalocean.com/community/tutorials)
+25. **Medium**. (2024). *Deploying full-stack applications with Firebase Hosting*. [https://medium.com](https://medium.com)
+26. **C# Corner**. (2024). *Using Firebase Firestore for real-time data handling*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
+27. **Firebase**. (2024). *Serverless backend with Firebase Functions*. [https://firebase.google.com/docs/functions](https://firebase.google.com/docs/functions)
+28. **Google Cloud**. (2024). *Using Firebase Hosting with CI/CD pipelines*. [https://cloud.google.com](https://cloud.google.com)
+29. **TutorialsPoint**. (2024). *Firebase for backend integration with Angular applications*. [https://www.tutorialspoint.com](https://www.tutorialspoint.com)
+30. **C# Corner**. (2024). *Managing Firebase environment variables for staging and production*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
+
 # **Anexos**
 1. Despliegue del Landing Page: <https://g4-upc-pre-si729-2402-sw54-innovatech.github.io/upc-pre-202402-si729-SW54-InnovaTech-landing-page/>
 2. Figma con los Wireframes, MockUps y User Flow Diagrams, tanto del Landing como del Web Application: <https://www.figma.com/design/uXYz1dq5QRdRAHkwtRY8bz/InnovaTech?node-id=6-185&t=Ko92iM4B2N0ar8xW-1>
