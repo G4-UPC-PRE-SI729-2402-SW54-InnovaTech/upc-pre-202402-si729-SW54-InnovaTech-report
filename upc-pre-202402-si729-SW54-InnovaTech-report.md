@@ -33,7 +33,7 @@
 
 **Commits del Informe**
 
-Link del repositorio: 
+Link del repositorio: <https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/532a1891008a1c625da053571bcef4ccc6099b96/upc-pre-202402-si729-SW54-InnovaTech-report.md>
 
 # **Student Outcome**
 
