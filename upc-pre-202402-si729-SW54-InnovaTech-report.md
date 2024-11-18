@@ -26,8 +26,33 @@
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ------------ | ---------- | ----------- |
 | 0.0 | 20/08/2024 | Grupo 4 | Creación del documento |
-| 1.0 | 25/09/2024 | Grupo 4 | TP |
-
+| 0.1 | 22/08/2024 | Grupo 4 | Se agrega el Capítulo I: Introducción |
+| 0.2 | 22/08/2024 | Grupo 4 | Se agrega el Capítulo II: Requirements Elicitation & Analysis |
+| 0.3 | 22/08/2024 | Grupo 4 | Se agrega el Capítulo III: Requirements Specification |
+| 0.4 | 22/08/2024 | Grupo 4 | Se agrega el Capítulo IV: Product Design |
+| 0.5 | 22/08/2024 | Grupo 4 | Se agrega el Capítulo V: Product Implementaion, Validation & Deployment |
+| 0.6 | 23/08/2024 | Grupo 4 | Se muestra un avance de las Conclusiones, Bibliografía y Anexos |
+| 1.0 | 20/09/2024 | Grupo 4 | Empezamos el desarrollo de la entrega parcial |
+| 1.1 | 20/09/2024 | Grupo 4 | Se inicia el desarrollo del Sprint 2 |
+| 1.2 | 21/09/2024 | Grupo 4 | Se agrega el Sprint Planning 2 y Sprint Backlog 2 |
+| 1.3 | 23/09/2024 | Grupo 4 | Se agrega el Development Evidence for Sprint Review |
+! 1.4 | 25/09/2024 | Grupo 4 | Se agrega el Testing Suite Evidence, Services Documentation y Software Deployment Evidence | 
+| 1.5 | 26/09/2024 | Grupo 4 | Se agrega el Team Collaboration Insights during Sprint | 
+| 2.0 | 20/10/2024 | Grupo 4 | Empezamos el desarrollo de la TB2 | 
+| 2.1 | 21/10/2024 | Grupo 4 | Se inicia el desarrollo del Sprint 3 |
+| 2.2 | 22/10/2024 | Grupo 4 | Se agrega el Sprint Planning 3 y Sprint Backlog 3 | 
+| 2.3 | 24/10/2024 | Grupo 4 | Se agrega el Development Evidence for Sprint Review |
+| 2.4 | 25/10/2024 | Grupo 4 | Se agrega el Testing Suite Evidence y Service Documentation |
+| 2.5 | 26/10/2024 | Grupo 4 | Se agrega el Software Deployment Evidence for Sprint Review | 
+| 2.6 | 28/10/2024 | Grupo 4 | Se agrega el Team Collaboration Insights during Sprint | 
+| 3.0 | 14/11/2024 | Grupo 4 | Empezamos el desarrollo de la Entrega Final | 
+| 3.1 | 16/11/2024 | Grupo 4 | Se inicia el desarrollo del Sprint 4 | 
+| 3.2 | 18/11/2024 | Grupo 4 | Se agrega el Sprint Planning 4 y Sprint Backlog 4 | 
+| 3.3 | 18/11/2024 | Grupo 4 | Se agrega el Development Evidence for Sprint Review |
+| 3.4 | 18/11/2024 | Grupo 4 | Se agrega el Testing Suite Evidence y Service Documentation |
+| 3.5 | 18/11/2024 | Grupo 4 | Se agrega el Software Deployment Evidence for Sprint Review | 
+| 3.6 | 18/11/2024 | Grupo 4 | Se agrega el Team Collaboration Insights during Sprint | 
+| 3.7 | 18/11/2024 | Grupo 4 | Se agregan Bibliografías, Student Outcome y Realizan correcciones | 
 
 # **Project Report Collaboration Insights**
 
