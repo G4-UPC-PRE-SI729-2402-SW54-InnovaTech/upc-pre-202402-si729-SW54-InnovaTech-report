@@ -373,7 +373,7 @@ Socialpubli es una empresa de publicidad social que pone en contacto a empresas 
  - Nombres y Apellidos: Gonzalo Navarro
  - Edad: 27 años
  - Distrito: Magadalena
- - Evidencia de la reunión: <img src="Assets/Entrevista1.png" width="100%"/>
+ - Evidencia de la reunión: <img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/Entrevista1.png?raw=true" width="100%"/>
  - Url de stream: <https://upcedupe.sharepoint.com/:v:/s/InnovaTech/EXVzM1Ijf6NGttX5r8txQEcBH4LF8op1HRvIuUdXHr_xSQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jLyT5a>
  - Timming y duración: 1:43 - 3:36
  - Resumen de la entrevista: 
@@ -383,7 +383,7 @@ La entrevista fue realizada a Gonzalo Navarro, tiene 27 años y reside en Magdal
  - Nombres y Apellidos: Ricky Villanueva
  - Edad: 24 años
  - Distrito: La Victoria
- - Evidencia de la reunión: <img src="Assets/Entrevista2.png" width="100%"/>
+ - Evidencia de la reunión: <img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/Entrevista2.png?raw=true" width="100%"/>
  - Url de stream: <https://upcedupe.sharepoint.com/:v:/s/InnovaTech/EXVzM1Ijf6NGttX5r8txQEcBH4LF8op1HRvIuUdXHr_xSQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jLyT5a>
  - Timming y duración: 0:00 - 1:43
  - Resumen de la entrevista:
@@ -394,7 +394,7 @@ La entrevista fue realizada a Ricky Villanueva, tiene 24 años y reside en La Vi
  - Nombres y Apellidos: Lara Aguirre
  - Edad: 21 años
  - Distrito: San Isidro
- - Evidencia de la reunión: <img src="Assets/Entrevista3.png" width="100%"/>
+ - Evidencia de la reunión: <img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/Entrevista3.png?raw=true" width="100%"/>
  - Url de stream: <https://upcedupe.sharepoint.com/:v:/s/InnovaTech/EXVzM1Ijf6NGttX5r8txQEcBH4LF8op1HRvIuUdXHr_xSQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=jLyT5a>
  - Timming y duración: 3:36 - 4:49
  - Resumen de la entrevista:
@@ -464,11 +464,11 @@ Implementar estas características en Connex podría aumentar significativamente
 
 **User Persona: Influencer:**
 <br>
-<img src="Assets/UserPersona-Influencer.png" width="100%"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/UserPersona-Influencer.png?raw=true" width="100%"/>
 <br>
 **User Persona: Empresa**
 <br>
-<img src="Assets/UserPersona-Empresa.png" width="100%"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/UserPersona-Empresa.png?raw=true" width="100%"/>
 ### **2.3.2. User Task Matrix** 
 **Creadores de contenido para Redes Sociales (Influencers)**
 |  |  User 1  | User 2 | User 3  | User 4 |
@@ -501,9 +501,9 @@ Implementar estas características en Connex podría aumentar significativamente
 - Se implementan programas de referidos, bonificaciones o acceso a funciones premium como motivación pra invitar a nuevos usuarios.
 ### **2.3.4. Empathy Mapping** 
 **Empathy Map Segmento: Influencers** <br>
-<img src="Assets/Empathy Map Influencer.png" width="100%"/> <br>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/Empathy%20Map%20Influencer.png?raw=true" width="100%"/> <br>
 **Empathy Map Segmento: Empresas** <br>
-<img src="Assets/Empathy Map Empresa.png" width="100%"/> <br>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/Empathy%20Map%20Empresa.png?raw=true" width="100%"/> <br>
 ### **2.3.5. As-is Scenario Mapping** 
 
 ## Influencers
@@ -582,22 +582,38 @@ Este documento define el Lenguaje Ubicuo (Ubiquitous Language) que se utilizará
 
 ## **3.2. User Stories** 
 
+**Epics:**
+| Epics ID | Título                                      | Descripción                                                                                                                                     | Relacionado con (Epics ID) |
+|----------|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|
+| EP-001   | Plataforma de Gestión de Influencers       | Desarrollar una plataforma que permita a las empresas gestionar y colaborar con influencers, asegurando una comunicación fluida y acuerdos claros. Esto incluirá la capacidad de filtrar influencers y gestionar colaboraciones en un entorno centralizado. |EP-001       |
+| EP-002   | Personalización y Herramientas para Influencers | Crear herramientas que permitan a los influencers personalizar su perfil y portafolio, así como recibir oportunidades de colaboración relevantes. Se busca facilitar la presentación de métricas y el contacto con empresas. |EP-002              |
+| EP-003   | Análisis y Reportes de Rendimiento        | Implementar un sistema de análisis que proporcione reportes detallados sobre el rendimiento de las campañas de influencers, permitiendo a las empresas ajustar sus estrategias basándose en datos precisos y en tiempo real. | EP-003              |
+| EP-004   | Registro y Autenticación de Usuarios      | Desarrollar un sistema de registro y autenticación que facilite la incorporación de nuevos usuarios, ya sean empresas o influencers, asegurando un proceso rápido y seguro que fomente el uso de la plataforma. | EP-004                      |
+| EP-005   | Comunicación Eficiente entre Usuarios      | Implementar un sistema de mensajería interna que permita la comunicación directa y eficiente entre empresas e influencers, mejorando la coordinación y el seguimiento de las colaboraciones. | EP-005              |
+
+
+
+**User Stories:**
+
 | User Story ID | Título                                       | Descripción                                                                                                                                          | Criterios de Aceptación                                                                                                                                                     | Relación (EPIC ID) |
 |---------------|---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
-| US01          | Filtrado avanzado de influencers            | Como empresa usuaria de Connex, quiero poder filtrar influencers por criterios específicos como audiencia, sector, y ubicación, para asegurarme de que selecciono a los más adecuados para mi campaña. | Los usuarios pueden aplicar múltiples filtros simultáneamente. Los resultados se actualizan en tiempo real al aplicar los filtros. Los filtros incluyen categorías como demografía de la audiencia, ubicación geográfica, sector y nivel de influencia. | EP-001             |
-| US02          | Creación de portafolios personalizados por influencers | Como influencer en Connex, quiero crear y personalizar mi portafolio para mostrar mis métricas de rendimiento, para atraer a marcas relevantes. | Los influencers pueden agregar y editar contenido en su portafolio (videos, fotos, estadísticas). El portafolio muestra métricas clave como alcance, engagement y demografía de la audiencia. Los influencers pueden actualizar su portafolio en tiempo real. | EP-002             |
-| US03          | Gestión de acuerdos de colaboración         | Como empresa usuaria de Connex, quiero gestionar acuerdos de colaboración con influencers dentro de la plataforma, para mantener todo centralizado y organizado. | Los acuerdos pueden ser creados, editados y almacenados en la plataforma. Ambas partes pueden revisar y firmar acuerdos digitalmente. Los términos clave del acuerdo (plazos, entregables, pagos) son fácilmente visibles. | EP-001             |
-| US04          | Comunicación integrada entre empresas e influencers | Como usuario de Connex, quiero comunicarme directamente con influencers o empresas a través de la plataforma, para coordinar detalles de colaboración sin necesidad de utilizar herramientas externas. | La plataforma incluye un sistema de mensajería interna. Las conversaciones se pueden etiquetar y organizar por campaña o colaboración. Notificaciones automáticas alertan a los usuarios de nuevos mensajes. | EP-001             |
-| US05          | Análisis de rendimiento de campañas         | Como empresa usuaria de Connex, quiero analizar el rendimiento de mis campañas de influencers dentro de la plataforma, para medir su efectividad y ajustar futuras estrategias. | La plataforma ofrece reportes detallados con métricas de rendimiento como alcance, engagement y conversión. Los reportes pueden ser exportados en formatos como PDF o CSV. Los resultados de las campañas se actualizan en tiempo real. | EP-003             |
-| US06          | Notificaciones de oportunidades de colaboración | Como influencer en Connex, quiero recibir notificaciones de nuevas oportunidades de colaboración que se alineen con mi perfil, para aprovechar rápidamente las mejores ofertas. | Los influencers reciben notificaciones automáticas basadas en las preferencias y categorías que han seleccionado. Las oportunidades relevantes se destacan en el dashboard del usuario. Los influencers pueden ajustar la frecuencia y tipo de notificaciones que reciben. | EP-002             |
-| US07          | Registro de nuevas empresas e influencers    | Como nuevo usuario de Connex, quiero registrarme fácilmente en la plataforma, ya sea como empresa o influencer, para empezar a utilizar sus servicios rápidamente. | El proceso de registro es simple y rápido, requiriendo solo la información esencial. Los usuarios pueden registrarse usando su correo electrónico o cuentas de redes sociales. Los nuevos usuarios reciben una guía inicial sobre cómo utilizar la plataforma. | EP-004             |
-| US08          | Dashboard personalizado para usuarios       | Como usuario de Connex, quiero un dashboard personalizado que muestre las métricas, oportunidades y actividades más relevantes para mí, para gestionar mi cuenta de manera eficiente. | El dashboard muestra un resumen de las campañas activas, oportunidades y métricas clave. Los usuarios pueden personalizar qué elementos ven en su dashboard. Las actualizaciones y notificaciones recientes son destacadas en el dashboard. | EP-003             |
-| US09          | Sistema de evaluación y feedback post-colaboración | Como usuario de Connex, quiero poder evaluar y dejar feedback después de una colaboración, para mejorar la calidad de futuras interacciones en la plataforma. | Los usuarios pueden calificar y dejar comentarios sobre la experiencia de la colaboración. Los resultados de las evaluaciones se reflejan en los perfiles de las empresas e influencers. El sistema de evaluación es confidencial y asegura la autenticidad del feedback. | EP-002             |
-| US10          | Herramienta de búsqueda de influencers emergentes | Como empresa usuaria de Connex, quiero tener acceso a una herramienta que me permita descubrir influencers emergentes con alto potencial, para aprovechar su crecimiento y relevancia antes que mis competidores. | La herramienta identifica influencers emergentes basados en tendencias de crecimiento y engagement. Los resultados pueden ser filtrados por sector, audiencia y geografía. Las empresas reciben alertas sobre influencers que muestran un rápido aumento en popularidad. | EP-001             |
+| US01          | Filtrado avanzado de influencers            | Como empresa usuaria de Connex, quiero poder filtrar influencers por criterios específicos como audiencia, sector, y ubicación, para asegurarme de que selecciono a los más adecuados para mi campaña. | 1. Los usuarios pueden aplicar al menos tres filtros simultáneamente. <br> 2. Los resultados se actualizan en menos de 2 segundos al aplicar los filtros. | EP-001             |
+| US02          | Creación de portafolios personalizados por influencers | Como influencer en Connex, quiero crear y personalizar mi portafolio para mostrar mis métricas de rendimiento, para atraer a marcas relevantes. | 1. Los influencers pueden agregar y editar contenido en su portafolio (videos, fotos, estadísticas) en un máximo de 5 minutos. <br> 2. El portafolio muestra métricas clave actualizadas cada 24 horas.| EP-002             |
+| US03          | Gestión de acuerdos de colaboración         | Como empresa usuaria de Connex, quiero gestionar acuerdos de colaboración con influencers dentro de la plataforma, para mantener todo centralizado y organizado. | 1. Los acuerdos pueden ser creados y almacenados en menos de 5 minutos. <br> 2. Ambas partes pueden revisar y firmar acuerdos digitalmente en un plazo de 24 horas.| EP-001             |
+| US04          | Comunicación integrada entre empresas e influencers | Como usuario de Connex, quiero comunicarme directamente con influencers o empresas a través de la plataforma, para coordinar detalles de colaboración sin necesidad de utilizar herramientas externas. | 1. La plataforma incluye un sistema de mensajería interna que permite conversaciones de al menos 100 mensajes por día. <br> 2. Las conversaciones se pueden etiquetar y organizar por campaña o colaboración.  | EP-001             |
+| US05          | Análisis de rendimiento de campañas         | Como empresa usuaria de Connex, quiero analizar el rendimiento de mis campañas de influencers dentro de la plataforma, para medir su efectividad y ajustar futuras estrategias. | 1. La plataforma ofrece reportes detallados con métricas de rendimiento cada 24 horas. <br> 2. Los reportes pueden ser exportados en formatos como PDF o CSV en menos de 1 minuto.  | EP-003             |
+| US06          | Notificaciones de oportunidades de colaboración | Como influencer en Connex, quiero recibir notificaciones de nuevas oportunidades de colaboración que se alineen con mi perfil, para aprovechar rápidamente las mejores ofertas. | 1. Los influencers reciben notificaciones automáticas dentro de 5 minutos basadas en las preferencias seleccionadas. <br> 2. Las oportunidades relevantes se destacan en el dashboard del usuario de manera diaria.              |
+| US07          | Registro de nuevas empresas e influencers    | Como nuevo usuario de Connex, quiero registrarme fácilmente en la plataforma, ya sea como empresa o influencer, para empezar a utilizar sus servicios rápidamente. | 1. El proceso de registro es simple y no debe superar los 5 minutos, requiriendo solo la información esencial. <br> 2. Los usuarios pueden registrarse usando su correo electrónico o cuentas de redes sociales.  | EP-004             |
+| US08          | Dashboard personalizado para usuarios       | Como usuario de Connex, quiero un dashboard personalizado que muestre las métricas, oportunidades y actividades más relevantes para mí, para gestionar mi cuenta de manera eficiente. | 1. El dashboard muestra un resumen de las campañas activas, oportunidades y métricas clave en tiempo real. <br> 2. Los usuarios pueden personalizar qué elementos ven en su dashboard dentro de los primeros 10 minutos de uso.  | EP-003             |
+| US09          | Sistema de evaluación y feedback post-colaboración | Como usuario de Connex, quiero poder evaluar y dejar feedback después de una colaboración, para mejorar la calidad de futuras interacciones en la plataforma. | 1. Los usuarios pueden calificar y dejar comentarios sobre la experiencia de la colaboración en un máximo de 5 minutos. <br> 2. Los resultados de las evaluaciones se reflejan en los perfiles de las empresas e influencers en un plazo de 24 horas.  | EP-002             |
+| US10          | Herramienta de búsqueda de influencers emergentes | Como empresa usuaria de Connex, quiero tener acceso a una herramienta que me permita descubrir influencers emergentes con alto potencial, para aprovechar su crecimiento y relevancia antes que mis competidores. | 1. La herramienta identifica al menos 10 influencers emergentes basados en tendencias de crecimiento y engagement cada semana. <br> 2. Los resultados pueden ser filtrados por sector, audiencia y geografía.  | EP-001             |
+
 
 ## **3.3. Impact Mapping** 
 
-<img src="https://github.com/user-attachments/assets/4320b405-af36-4a38-9955-308ad29c796c" style="width: 100%;"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter3/Assets/Impact1.jpg?raw=true" style="width: 100%;"/>
+
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter3/Assets/Impact2.jpg?raw=true" style="width: 100%;"/>
 
 ## **3.4. Product Backlog** 
 
@@ -626,19 +642,19 @@ La tipografía organiza el lenguaje visual de las plataformas, garantizando legi
 
 **Head**
 
-<img src="Assets/webpage/Head.png" style="width: 50%;"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/webpage/Head.png?raw=true" style="width: 50%;"/>
 
 **Body**
 
-<img src="Assets/webpage/Body.png" style="width: 50%;"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/webpage/Body.png?raw=true" style="width: 50%;"/>
 
 **Colors**
 
-<img src="Assets/webpage/Colors.png" style="width: 50%;"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/webpage/Colors.png?raw=true" style="width: 50%;"/>
 
 **Spacing**
 
-<img src="Assets/webpage/Spacing.png" style="width: 50%;"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/webpage/Spacing.png?raw=true" style="width: 50%;"/>
 
 **Color Primario:** El azul como color primario transmite confianza, seguridad y profesionalismo, mientras que el blanco aporta simplicidad, pureza y limpieza, creando una combinación visual que inspira seriedad y accesibilidad en la plataforma.
 
@@ -656,7 +672,7 @@ El nombre "Connex" es una combinación estratégica que refleja la esencia de la
 
 A continuación, se presenta el logo o marca de nuestra solución propuesta.
 
-<img src="Assets/webpage/logo.JPG?raw=true" style="width: 50%;"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/webpage/logo.JPG?raw=true" style="width: 50%;"/>
 
 
 ### **4.1.2. Web Style Guidelines** 
@@ -746,28 +762,28 @@ Después de iniciar sesión, los usuarios accederán a un menú jerárquico que 
 
 La página web, vista desde un navegador de escritorio, incluye secciones clave como una descripción de la página y sus principales apartados. También ofrece un formulario para contactar a los desarrolladores a través de correo electrónico.
 
-<img src="Assets/webpage/Desktop landing page 1.png" style="width: 50%;"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/webpage/Desktop%20landing%20page%201.png?raw=true" style="width: 50%;"/>
 
-<img src="Assets/webpage/Desktop landing page 2.png" style="width: 50%;"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/webpage/Desktop%20landing%20page%202.png?raw=true" style="width: 50%;"/>
 
-<img src="Assets/webpage/Desktop landing page 3.png" style="width: 50%;"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/webpage/Desktop%20landing%20page%203.png?raw=true" style="width: 50%;"/>
 
-<img src="Assets/webpage/Desktop landing page 4.png" style="width: 50%;"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/webpage/Desktop%20landing%20page%204.png?raw=true" style="width: 50%;"/>
 
 **Landing Page para Mobile Web Browser**
 
 La landing page vista desde un navegador móvil contiene el mismo contenido que la versión de escritorio, adaptado al tamaño del dispositivo. Un diseño responsive es valioso porque permite acceder a la misma información desde cualquier dispositivo sin problemas.
 
 
-<img src="Assets/webpage/Mobile1.png" style="width: 50%;"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/webpage/Mobile1.png?raw=true" style="width: 50%;"/>
 
-<img src="Assets/webpage/Mobile 2.png" style="width: 50%;"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/webpage/Mobile%202.png?raw=true" style="width: 50%;"/>
 
-<img src="Assets/webpage/Mobile 3.png" style="width: 50%;"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/webpage/Mobile%203.png?raw=true" style="width: 50%;"/>
 
-<img src="Assets/webpage/Mobile 4.png" style="width: 50%;"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/webpage/Mobile%204.png?raw=true" style="width: 50%;"/>
 
-<img src="Assets/webpage/Mobile 5.png" style="width: 50%;"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/webpage/Mobile%205.png?raw=true" style="width: 50%;"/>
 
 
 ### **4.3.2. Landing Page Mock-up** 
@@ -776,27 +792,27 @@ La landing page vista desde un navegador móvil contiene el mismo contenido que 
 
 El wireframe de la versión desktop fue útil para organizar los elementos. Con esa base, se creó el mock-up de la landing page, utilizando la misma paleta de colores y tipografía previamente definida.
 
-<img src="Assets/webpage/MockUp Landing 1.png" style="width: 50%;"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/webpage/MockUp%20Landing%201.png?raw=true" style="width: 50%;"/>
 
-<img src="Assets/webpage/MockUp Landing 2.png" style="width: 50%;"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/webpage/MockUp%20Landing%202.png?raw=true" style="width: 50%;"/>
 
-<img src="Assets/webpage/MockUp Landing 3.png" style="width: 50%;"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/webpage/MockUp%20Landing%203.png?raw=true" style="width: 50%;"/>
 
-<img src="Assets/webpage/MockUp Landing 4.png" style="width: 50%;"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/webpage/MockUp%20Landing%204.png?raw=true" style="width: 50%;"/>
 
 **Landing Page para Mobile Web Browser**
 
 El mock-up para la landing page móvil mantiene los mismos elementos, con una tipografía y contraste de colores que aseguran una lectura fácil en ambos dispositivos.
 
-<img src="Assets/webpage/MockUp mobile 1.png" style="width: 50%;"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/webpage/MockUp%20mobile%201.png?raw=true" style="width: 50%;"/>
 
-<img src="Assets/webpage/MockUp mobile 2.png" style="width: 50%;"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/webpage/MockUp%20mobile%202.png?raw=true" style="width: 50%;"/>
 
-<img src="Assets/webpage/MockUp mobile 3.png" style="width: 50%;"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/webpage/MockUp%20mobile%203.png?raw=true" style="width: 50%;"/>
 
-<img src="Assets/webpage/MockUp mobile 4.png" style="width: 50%;"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/webpage/MockUp%20mobile%204.png?raw=true" style="width: 50%;"/>
 
-<img src="Assets/webpage/MockUp mobile 5.png" style="width: 50%;"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/webpage/MockUp%20mobile%205.png?raw=true" style="width: 50%;"/>
 
 ## **4.4. Web Applications UX/UI Design** 
 ### **4.4.1. Web Applications Wireframes** 
@@ -827,9 +843,9 @@ Componentes y Activos:
 Las pantallas de componentes y activos muestran elementos reutilizables dentro de la interfaz de usuario, asegurando una experiencia consistente y cohesiva en toda la aplicación.
 Estos wireframes ofrecen una visión clara y funcional del diseño de la aplicación web de Connex, centrada en la facilidad de uso y la eficiencia para los usuarios, desde el acceso y configuración del perfil hasta la gestión completa de interacciones y colaboraciones. Este diseño iterativo sirve como base para el desarrollo y refinamiento continuo de la plataforma.
 
-![](Assets/appweb/web_applications_wireframe1.JPG)
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/webpage/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%201.png?raw=true)
 
-![](Assets/appweb/web_applications_wireframe2.JPG)
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/webpage/4.4.2%20Web%20Applications%20Wireflow%20Diagrams.%202.png?raw=true)
 
 [Enlace a Figma: InnovaTech](https://www.figma.com/design/uXYz1dq5QRdRAHkwtRY8bz/InnovaTech?node-id=6-185&node-type=CANVAS&t=pS1JXoGyCpEdOoio-0)
 
@@ -841,25 +857,25 @@ User Goal:
 Como usuario influencer, deseo iniciar sesión para ingresar a Connex.
 Descripción: En el presente wireflow, se evidencia el flujo que seguirá el usuario influencer para poder iniciar sesión. Iniciará en el login, seleccionará la opción influencer e ingresará su DNI y contraseña, para poder ingresar a Connex.
 
-![](Assets/appweb/iniciar_sesion.JPG)
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/appweb/iniciar_sesion.JPG?raw=true)
 
 User Goal:
 Como usuario influencer, deseo registrarme para ingresar a Connex.
 Descripción: Em el presente wireflow, se evidencia el flujo que seguirá el usuario influencer para poder registrarse. Iniciará el login, seleccionará la opción stremar y luego seleccionará la opción Sign Up e ingresará sus datos necesarios para poder registrarse exitosamente.
 
-![](Assets/appweb/registro_usuario.JPG)
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/appweb/registro_usuario.JPG?raw=true)
 
 User Goal:
 Como usuario influencer deseo cambiar la contraseña
 Descripción: Al momento de inciar sesión, se presentará una opción de Olvide mi Contraseña, cuando le de clic, redireccionará al usuario a una nueva pantalla donde ingresará su email y su nueva contraseña.
 
-![](Assets/appweb/cambiar_contraseña.JPG)
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/appweb/cambiar_contrase%C3%B1a.JPG?raw=true)
 
 User Goal: Como influencer deseo subir mi historial de sintonia sobre las redes sociales.
 Descripción:
 En el presente Wireflow, se presenta el camino que deberá seguir el usuario influencer para poder subir su historial de sintonia dentro de la plataforma. Se empezará desde la pantalla de inicio, luego se dirigirá al perfil de usuario e ingresará a “Contract History”; por último, se subirá el archivo en PDF. Después de ello, se podrá visualizar el historial adjuntado en Connex.
 
-![](Assets/appweb/influencer_history.JPG)
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/appweb/influencer_history.JPG?raw=true)
 
 User Goal: Como influencer deseo ver las reseñas de una empresa mediana
 
@@ -873,7 +889,7 @@ Descripción:
 
 Como influencer, el usuario desea publicar una nueva reseña sobre una empresa mediana en la plataforma Connex para compartir su experiencia de colaboración y proporcionar retroalimentación que pueda ayudar a otros influencers a tomar decisiones informadas.
 
-![](Assets/appweb/calificar_empresa.JPG)
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/appweb/calificar_empresa.JPG?raw=true)
 
 User Goal: Como influencer, deseo ver las fechas disponibles en las que puedo atenderme con un representate de una marca para agendar una cita.
 
@@ -881,7 +897,7 @@ Descripción:
 
 Como influencer, el usuario desea revisar las fechas disponibles para agendar una cita con un representante de una marca a través de la plataforma Connex. Este proceso facilita la coordinación de reuniones y colaboraciones, permitiendo al influencer seleccionar un horario conveniente para ambas partes.
 
-![](Assets/appweb/cita_brands.JPG)
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/appweb/cita_brands.JPG?raw=true)
 
 User Goal: Como influencer, deseo revisar mi perfil.
 
@@ -889,7 +905,7 @@ Descripción:
 
 En este wireflow, se visualiza el proceso para que el usuario influencer revise su perfil. Solo deberá hacer clic en su foto de perfil para acceder a su información.
 
-![](Assets/appweb/vista_perfil_usuario.JPG)
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/appweb/vista_perfil_usuario.JPG?raw=true)
 
 ### **4.4.3. Web Applications Mock-ups** 
 
@@ -968,26 +984,26 @@ Link: <https://www.figma.com/design/uXYz1dq5QRdRAHkwtRY8bz/InnovaTech?node-id=0-
 
 El Diagrama de Contexto muestra la plataforma "Connex" y su interacción con los actores externos principales: Influencers y Empresas Medianas. Los influencers utilizan la plataforma para gestionar sus perfiles, contratos y reseñas, mientras que las empresas medianas se conectan con Connex para buscar y gestionar contratos con influencers. Este diagrama proporciona una vista general del sistema y cómo interactúa con sus usuarios externos.
 
-![](Assets/diagramaC4_contexto.png)
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/diagramaC4_contexto.png?raw=true)
 
 ### **4.6.2. Software Architecture Container Diagrams** 
 
 El Diagrama de Contenedores detalla la arquitectura interna de "Connex", mostrando sus principales componentes: Landing Page, Aplicación Web, Aplicación Móvil, API Backend, Base de Datos, Servicio de Autenticación y Servicio de Almacenamiento de Archivos. La Landing Page actúa como el punto de entrada inicial para los usuarios, redirigiéndolos a las aplicaciones web y móvil. Las aplicaciones web y móvil interactúan con el Backend API para procesar la lógica de negocio, mientras que la Base de Datos almacena la información y los servicios de autenticación y almacenamiento manejan la seguridad y los archivos de los usuarios, respectivamente.
 
-![](Assets/diagramaC4_contenedores.png)
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/diagramaC4_contenedores.png?raw=true)
 
 ### **4.6.3. Software Architecture Components Diagrams** 
 
 El Diagrama de Componentes se centra en los componentes específicos dentro del Backend API de "Connex". Los principales módulos incluyen la Gestión de Usuarios, Gestión de Contratos, Gestión de Reseñas, Gestión de Historiales de Interacción y el Servicio de Notificaciones. Estos componentes manejan las funcionalidades clave de la plataforma, como la administración de perfiles, contratos, reseñas y la interacción de los usuarios con la plataforma. Las aplicaciones web y móvil interactúan con estos componentes a través del Backend API para ofrecer una experiencia completa a los usuarios.
 
-![](Assets/diagramaC4_componentes.png)
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/diagramaC4_componentes.png?raw=true)
 
 ## **4.7. Software Object-Oriented Design** 
 ### **4.7.1. Class Diagrams** 
 
 El Diagrama de Clases muestra la estructura detallada de las clases principales dentro del sistema "Connex". Incluye las clases: User, Profile, Contract, Review y InteractionHistory, con sus atributos y métodos clave. Las relaciones entre las clases, como asociaciones y composiciones, destacan cómo los diferentes elementos del sistema interactúan entre sí. Por ejemplo, un User puede tener un Profile, participar en múltiples Contracts, escribir Reviews y subir InteractionHistories. Este diagrama es esencial para comprender la estructura de datos y las relaciones en el sistema.
 
-![](Assets/diagrama_de_clases1.png)
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/diagrama_de_clases1.png?raw=true)
 
 ### **4.7.2. Class Dictionary** 
 
@@ -1089,7 +1105,7 @@ Applications: Registra las aplicaciones de los influencers a las oportunidades p
 
 Este diseño de base de datos está estructurado para gestionar eficientemente la interacción y los datos entre los diferentes actores dentro de Connex, asegurando que las funcionalidades clave, como la gestión de contratos, revisiones, y aplicaciones, estén bien integradas y conectadas.
 
-![](Assets/Diagrama_base_datos.png)
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/Diagrama_base_datos.png?raw=true)
 
 Link: [Lucidchart Diagrama de Base de Datos](https://lucid.app/lucidchart/65a43a21-9804-49d7-b14e-95a3f8bfaf1b/edit?viewport_loc=-775%2C-423%2C3307%2C1495%2C0_0&invitationId=inv_d5c4b7d2-a8bb-4b2a-a85c-4617c1a2402a) 
 
@@ -1310,17 +1326,17 @@ En el segundo sprint, el equipo se enfocó en crear una landing page atractiva y
 
 Durante el sprint 2 se  desarrollo la implementación del landing page, la cual incluye varias secciones donde el usuario puede acceder a información relevante sobre el producto y la startup. Asimismo, se logró un avance parcial en el desarrollo de la aplicación web, permitiendo al usuario interactuar con ciertas funcionalidades. A continuación se presentan algunas evidencias.
 
-<img src="Assets/a1.png" style="width: 100%;"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/a1.png?raw=true" style="width: 100%;"/>
 
-<img src="Assets/a2.png" style="width: 100%;"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/a2.png?raw=true" style="width: 100%;"/>
 
-<img src="Assets/a3.png" style="width: 100%;"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/a3.png?raw=true" style="width: 100%;"/>
 
-<img src="Assets/a4.png" style="width: 100%;"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/a4.png?raw=true" style="width: 100%;"/>
 
-<img src="Assets/a5.png" style="width: 100%;"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/a5.png?raw=true" style="width: 100%;"/>
 
-<img src="Assets/a6.png" style="width: 100%;"/>
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/main/Assets/a6.png?raw=true" style="width: 100%;"/>
 
 
 #### **5.2.2.6. Services Documentation Evidence for Sprint Review**
