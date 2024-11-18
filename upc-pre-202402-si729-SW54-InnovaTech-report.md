@@ -718,16 +718,50 @@ la aplicación web, que facilitan la comunicación entre el cliente y el servido
   ya que permite a otros desarrolladores integrarse con facilidad y 
   entender cómo interactuar eficazmente con la aplicación.
 #### **5.2.3.7. Software Deployment Evidence for Sprint Review**
+
+
+
 #### **5.2.3.8. Team Collaboration Insights during Sprint**
 ![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/ce67b0bc5b49ea1a9b68d0e1a952f8fdd7b20319/Assets/Captura%20de%20pantalla%202024-11-01%20181049.png)
+
 ### **5.2.4. Sprint 4**
+
+En este Sprint 4, nos hemos enfocado en consolidar la parte lógica nuestra Web Application para nuestra startup Connex. El objetivo principal fue desplegar el backend con el fronted de nuestra aplicación. Por último, hemos mejorado algunos aspectos que hemos detectado en el sprint anterior, lo cual esta ayudando a que mejores cada vez más nuestro proyecto. 
+
 #### **5.2.4.1. Sprint Planning 4**
+
+Para el Sprint Planning 4, el equipo de Connex ha establecido como prioridad la planificación de desplegar el backend con el fronted de nuestra aplicación. A parte de eso seguimos mejorando otros aspectos de nuestro proyecto, como el frontend.  
+
+| Sprint # | Date       | Time     | Location             | Prepared By                 | Attendees                                                                                                                   | Sprint Goal                                                                                                                      | Sprint Velocity | Sum of Story Points |
+| -------- | ---------- | -------- | -------------------- | --------------------------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | --------------- | -------------------- |
+| 1        | 28/08/2024 | 7:00 pm  | Reunión mediante Meet | Javier Murillo, Mathias      | Escobar Palomino, Sebastian.<br>Macavilca Quispe, Ian.<br>Nakasone Gomes, Marco.<br>Laban Hijar, Jorge.                      | Elaborar y diseñar el landing page informativa para la aplicación Connex.                                                        | 18              | 18                   |
+| 2        | 24/09/2024 | 10:00 pm | Reunión mediante Meet | Javier Murillo, Mathias      | Escobar Palomino, Sebastian.<br>Macavilca Quispe, Ian.<br>Nakasone Gomes, Marco.<br>Laban Hijar, Jorge.                      | La meta de este Sprint es la planificación de la Web Application para el startup, tanto su visualización, creación del repositorio, acceso al repositorio y la visualización de los canales de comunicación de la empresa. | x               | x                    |
+| 3        | 10/10/2024 | 8:00 pm  | Reunión mediante Meet | Javier Murillo, Mathias      | Escobar Palomino, Sebastian.<br>Macavilca Quispe, Ian.<br>Nakasone Gomes, Marco.<br>Laban Hijar, Jorge.                      | Consolidar la parte lógica del backend de la aplicación, integrando funcionalidades de agregar, eliminar y buscar a usuarios influencers y empresas. También agregar el regisntro de campañas. Por último, mejorar algunos aspectos que hemos identificados en el frontend del sprint anterior. | 20               | 20                    |
+| 4        | 17/11/2024 | 3:00 pm  | Reunión mediante Meet | Javier Murillo, Mathias      | Escobar Palomino, Sebastian.<br>Macavilca Quispe, Ian.<br>Nakasone Gomes, Marco.<br>Laban Hijar, Jorge.                      | Desplegar el backend con el fronted de nuestra aplicación. Por último, mejorar algunos aspectos que hemos identificados en el frontend del sprint anterior. | 20               | 20                    |
+
 #### **5.2.4.2. Sprint Backlog 4**
+
+En el sprint, el equipo se enfocó en crear una landing page atractiva y funcional, organizando y asignando tareas mediante el cuadro de Sprint según las habilidades de cada miembro.
+
+|Sprint #||Sprint 3||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story||Work Item / Task||||||
+|Id|Title|Id|Title|Descripción|Estimación (Hours)|Assigned to|Status (In -process / To - review / Done)|
+|US01|Descripción de la web|UT01|Acerca de la web|Descripción de lo que trata nuestra pagina web. |4|Mathias Javier|Done|
+|US02|Accesibilidad del contenido|UT02|Disponibilidad accesible del contenido.|Que la página muestre el contenido correctamente (imágenes y enlaces).|8|Marco Nakasone y Sebastian Escobar|Done|
+|US02|Accesibilidad del contenido|UT03|Diseño responsive de la página|Que la página se visualice correctamente en cualquier dispositivo.|6|Ian Macavilca|Done|
+
+
 #### **5.2.4.3. Development Evidence for Sprint Review**
+
 #### **5.2.4.4. Testing Suite Evidence for Sprint Review**
+
 #### **5.2.4.5. Execution Evidence for Sprint Review**
+
 #### **5.2.4.6. Services Documentation Evidence for Sprint Review**
+
 #### **5.2.4.7. Software Deployment Evidence for Sprint Review**
+
 #### **5.2.4.8. Team Collaboration Insights during Sprint**
 
 ## **5.3. Validation Interviews**
@@ -927,7 +961,6 @@ El video resume el proceso de trabajo realizado por el equipo, en el cual los in
 A continuación, se presenta el video "About the Product," el cual resalta el propósito, las ventajas y las características principales de la aplicación. Asimismo, incorpora testimonios de usuarios clave que respaldan la calidad del software creado.
 
 [Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EbHXsvWXM9FMmIe9S4BJeBQBbJyVh1nTtRspo6cZIj53IQ?e=Z5yTBE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
 
 # **Conclusiones**
 
