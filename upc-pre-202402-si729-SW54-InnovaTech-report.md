@@ -1366,36 +1366,406 @@ Para el desarrollo de nuestra primera versión del front-end, hemos usado con co
 ![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/c94b1f172c7f8f0496fb11acdabae7a75accb06c/Assets/SS_Commits2.png)
 
 ### **5.2.3. Sprint 3**
+En este Sprint 3, nos hemos enfocado en consolidar la parte lógica nuestra Web Application para nuestra startup Connex. El objetivo principal fue empezar el backend de nuestra aplicación en las que hemos agregado lógicas como la búsqueda, agregación y eliminación de usuarios influencers y empresas, hemos agregado también el registro de las campañas. Por ultimo hemos mejorado algunos aspectos que hemos detectado en el sprint anterior, lo cual esta ayudando a que mejores cada vez más nuestro proyecto. 
+
 #### **5.2.3.1. Sprint Planning 3**
+
+Para el Sprint Planning 3, el equipo de Connex ha establecido como prioridad la planificación del backend de nuestra Web Application, tratando de llevar acabo funcionalidades como las de agregar, eliminar y buscar, tanto usuarios influencers como empresas usuarias. A parte de eso seguimos mejorando otros aspectos de nuestro proyecto, como el frontend.  
+
+| Sprint # | Date       | Time     | Location             | Prepared By                 | Attendees                                                                                                                   | Sprint Goal                                                                                                                      | Sprint Velocity | Sum of Story Points |
+| -------- | ---------- | -------- | -------------------- | --------------------------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | --------------- | -------------------- |
+| 1        | 28/08/2024 | 7:00 pm  | Reunión mediante Meet | Javier Murillo, Mathias      | Escobar Palomino, Sebastian.<br>Macavilca Quispe, Ian.<br>Nakasone Gomes, Marco.<br>Laban Hijar, Jorge.                      | Elaborar y diseñar el landing page informativa para la aplicación Connex.                                                        | 18              | 18                   |
+| 2        | 24/09/2024 | 10:00 pm | Reunión mediante Meet | Javier Murillo, Mathias      | Escobar Palomino, Sebastian.<br>Macavilca Quispe, Ian.<br>Nakasone Gomes, Marco.<br>Laban Hijar, Jorge.                      | La meta de este Sprint es la planificación de la Web Application para el startup, tanto su visualización, creación del repositorio, acceso al repositorio y la visualización de los canales de comunicación de la empresa. | x               | x                    |
+| 3        | 10/10/2024 | 8:00 pm  | Reunión mediante Meet | Javier Murillo, Mathias      | Escobar Palomino, Sebastian.<br>Macavilca Quispe, Ian.<br>Nakasone Gomes, Marco.<br>Laban Hijar, Jorge.                      | Consolidar la parte lógica del backend de la aplicación, integrando funcionalidades de agregar, eliminar y buscar a usuarios influencers y empresas. También agregar el regisntro de campañas. Por ultimo mejorar algunos aspectos que hemos identificados en el frontend del sprint anterior. | 20               | 20                    |
+
+
+
 #### **5.2.3.2. Sprint Backlog 3**
+
+En el primer sprint, el equipo se enfocó en crear una landing page atractiva y funcional, organizando y asignando tareas mediante el cuadro de Sprint según las habilidades de cada miembro.
+
+|Sprint #||Sprint 3||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story||Work Item / Task||||||
+|Id|Title|Id|Title|Descripción|Estimación (Hours)|Assigned to|Status (In -process / To - review / Done)|
+|US01|Descripción de la web|UT01|Acerca de la web|Descripción de lo que trata nuestra pagina web. |4|Mathias Javier|Done|
+|US02|Accesibilidad del contenido|UT02|Disponibilidad accesible del contenido.|Que la página muestre el contenido correctamente (imágenes y enlaces).|8|Marco Nakasone y Sebastian Escobar|Done|
+|US02|Accesibilidad del contenido|UT03|Diseño responsive de la página|Que la página se visualice correctamente en cualquier dispositivo.|6|Ian Macavilca|Done|
+
 #### **5.2.3.3. Development Evidence for Sprint Review**
+| Repository | Branch | Commit Message | Commit ID |
+|------------|--------|----------------|-----------|
+|InnovaTech-Web-services |development  |feat: Add Users Entities |1ce32a8  |
+|InnovaTech-Web-services |development  |feat: Add UserController |9936b08  |
+|InnovaTech-Web-services |profile  |feat: Add Profile Managment |fbf27ce  |
+|InnovaTech-Web-services |campaign  |feat: Add Registration Entity for Campaign |9eb362b  |
+|InnovaTech-Web-services |campaign  |feat: Add CampaignController |6454ef0  |
 #### **5.2.3.4. Testing Suite Evidence for Sprint Review**
-#### **5.2.2.5. Execution Evidence for Sprint Review**
-#### **5.2.2.6. Services Documentation Evidence for Sprint Review**
+| Repository   | Branch  |  Commited on (Date)|
+|------|-----------------------------------|----------------------------------------|
+|[ https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/tree/feature/chapter5](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/tree/main) | upc-pre-202402-si729-SW54-InnovaTech-report/main | 29/10/24 |
+#### **5.2.3.5. Execution Evidence for Sprint Review**
+Durante el sprint 3 se  desarrollo de webservices. Asimismo, 
+se continuo con el avance en el desarrollo de la aplicación web, 
+permitiendo al usuario interactuar con ciertas funcionalidades del frontend. 
+A continuación se presentan algunas evidencias.
+
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/a1.png?raw=true" style="width: 100%;"/>
+
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/a2.png?raw=true" style="width: 100%;"/>
+
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/a3.png?raw=true" style="width: 100%;"/>
+
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/a4.png?raw=true" style="width: 100%;"/>
+
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/a5.png?raw=true" style="width: 100%;"/>
+
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/a6.png?raw=true" style="width: 100%;"/>
+
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/a7.PNG?raw=true" style="width: 100%;"/>
+
+#### **5.2.3.6. Services Documentation Evidence for Sprint Review**
+Diseñamos los endpoints como puntos de acceso específicos dentro de 
+la aplicación web, que facilitan la comunicación entre el cliente y el servidor.
+ Cada endpoint cuenta con una URL única y, al recibir una solicitud, el servidor
+  la procesa y responde de acuerdo con la función específica asignada. 
+  De este modo, funcionan como controladores que distribuyen las solicitudes 
+  hacia distintas áreas de la aplicación, permitiendo desde la presentación de 
+  información hasta la ejecución de operaciones en la base de datos. 
+  La documentación de estos endpoints fue una prioridad para nosotros, 
+  ya que permite a otros desarrolladores integrarse con facilidad y 
+  entender cómo interactuar eficazmente con la aplicación.
 #### **5.2.3.7. Software Deployment Evidence for Sprint Review**
+
+
+
 #### **5.2.3.8. Team Collaboration Insights during Sprint**
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/ce67b0bc5b49ea1a9b68d0e1a952f8fdd7b20319/Assets/Captura%20de%20pantalla%202024-11-01%20181049.png)
 
 ### **5.2.4. Sprint 4**
+
+En este Sprint 4, nos hemos enfocado en consolidar la parte lógica nuestra Web Application para nuestra startup Connex. El objetivo principal fue desplegar el backend con el fronted de nuestra aplicación. Por último, hemos mejorado algunos aspectos que hemos detectado en el sprint anterior, lo cual esta ayudando a que mejores cada vez más nuestro proyecto. 
+
 #### **5.2.4.1. Sprint Planning 4**
+
+Para el Sprint Planning 4, el equipo de Connex ha establecido como prioridad la planificación de desplegar el backend con el fronted de nuestra aplicación. A parte de eso seguimos mejorando otros aspectos de nuestro proyecto, como el frontend.  
+
+| Sprint # | Date       | Time     | Location             | Prepared By                 | Attendees                                                                                                                   | Sprint Goal                                                                                                                      | Sprint Velocity | Sum of Story Points |
+| -------- | ---------- | -------- | -------------------- | --------------------------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | --------------- | -------------------- |
+| 1        | 28/08/2024 | 7:00 pm  | Reunión mediante Meet | Javier Murillo, Mathias      | Escobar Palomino, Sebastian.<br>Macavilca Quispe, Ian.<br>Nakasone Gomes, Marco.<br>Laban Hijar, Jorge.                      | Elaborar y diseñar el landing page informativa para la aplicación Connex.                                                        | 18              | 18                   |
+| 2        | 24/09/2024 | 10:00 pm | Reunión mediante Meet | Javier Murillo, Mathias      | Escobar Palomino, Sebastian.<br>Macavilca Quispe, Ian.<br>Nakasone Gomes, Marco.<br>Laban Hijar, Jorge.                      | La meta de este Sprint es la planificación de la Web Application para el startup, tanto su visualización, creación del repositorio, acceso al repositorio y la visualización de los canales de comunicación de la empresa. | x               | x                    |
+| 3        | 10/10/2024 | 8:00 pm  | Reunión mediante Meet | Javier Murillo, Mathias      | Escobar Palomino, Sebastian.<br>Macavilca Quispe, Ian.<br>Nakasone Gomes, Marco.<br>Laban Hijar, Jorge.                      | Consolidar la parte lógica del backend de la aplicación, integrando funcionalidades de agregar, eliminar y buscar a usuarios influencers y empresas. También agregar el regisntro de campañas. Por último, mejorar algunos aspectos que hemos identificados en el frontend del sprint anterior. | 20               | 20                    |
+| 4        | 17/11/2024 | 3:00 pm  | Reunión mediante Meet | Javier Murillo, Mathias      | Escobar Palomino, Sebastian.<br>Macavilca Quispe, Ian.<br>Nakasone Gomes, Marco.<br>Laban Hijar, Jorge.                      | Desplegar el backend con el fronted de nuestra aplicación. Por último, mejorar algunos aspectos que hemos identificados en el frontend del sprint anterior. | 20               | 20                    |
+
 #### **5.2.4.2. Sprint Backlog 4**
+
+En el sprint, el equipo se enfocó en crear una landing page atractiva y funcional, organizando y asignando tareas mediante el cuadro de Sprint según las habilidades de cada miembro.
+
+|Sprint #||Sprint 4||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story||Work Item / Task||||||
+|Id|Title|Id|Title|Descripción|Estimación (Hours)|Assigned to|Status (In -process / To - review / Done)|
+|US10|Despliegue de la aplicación|UT01|Acerca de la web|Despliegue del backend con el fronted de la aplicación. |4|Mathias Javier|Done|
+|US11|Corrección de observaciones|UT02|Disponibilidad accesible del contenido.|Que la página muestre el contenido correctamente (imágenes y enlaces).|8|Marco Nakasone y Sebastian Escobar|Done|
+
 #### **5.2.4.3. Development Evidence for Sprint Review**
+
+| Repository | Branch | Commit Message | Commit ID |
+|------------|--------|----------------|-----------|
+|InnovaTech-Web-services |development  |feat: Add Users Entities |1ce32a8  |
+|InnovaTech-Web-services |development  |feat: Add UserController |9936b08  |
+|InnovaTech-Web-services |profile  |feat: Add Profile Managment |fbf27ce  |
+|InnovaTech-Web-services |campaign  |feat: Add Registration Entity for Campaign |9eb362b  |
+|InnovaTech-Web-services |campaign  |feat: Add CampaignController |6454ef0  |
+
 #### **5.2.4.4. Testing Suite Evidence for Sprint Review**
+
+| Repository   | Branch  |  Commited on (Date)|
+|------|-----------------------------------|----------------------------------------|
+|[ https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/tree/feature/chapter5](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/tree/main) | upc-pre-202402-si729-SW54-InnovaTech-report/main | 29/10/24 |
+
 #### **5.2.4.5. Execution Evidence for Sprint Review**
+
+Durante el sprint 4 se realizó el desarrollo de webservices. Asimismo, 
+se continuo con el avance en el desarrollo de la aplicación web, 
+permitiendo al usuario interactuar con ciertas funcionalidades del frontend. 
+A continuación se presentan algunas evidencias.
+
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/a1.png?raw=true" style="width: 100%;"/>
+
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/a2.png?raw=true" style="width: 100%;"/>
+
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/a3.png?raw=true" style="width: 100%;"/>
+
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/a4.png?raw=true" style="width: 100%;"/>
+
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/a5.png?raw=true" style="width: 100%;"/>
+
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/a6.png?raw=true" style="width: 100%;"/>
+
+<img src="https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/feature/chapter5/Assets/a7.PNG?raw=true" style="width: 100%;"/>
+
+
 #### **5.2.4.6. Services Documentation Evidence for Sprint Review**
+
+Diseñamos los endpoints como puntos de acceso específicos dentro de 
+la aplicación web, que facilitan la comunicación entre el cliente y el servidor.
+ Cada endpoint cuenta con una URL única y, al recibir una solicitud, el servidor
+  la procesa y responde de acuerdo con la función específica asignada. 
+  De este modo, funcionan como controladores que distribuyen las solicitudes 
+  hacia distintas áreas de la aplicación, permitiendo desde la presentación de 
+  información hasta la ejecución de operaciones en la base de datos. 
+  La documentación de estos endpoints fue una prioridad para nosotros, 
+  ya que permite a otros desarrolladores integrarse con facilidad y 
+  entender cómo interactuar eficazmente con la aplicación.
+
 #### **5.2.4.7. Software Deployment Evidence for Sprint Review**
+
 #### **5.2.4.8. Team Collaboration Insights during Sprint**
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/4e6b9659584d308221c6118dcb75d0863aa9cac1/Assets/reports/insights%20tf.jpg)
 
 ## **5.3. Validation Interviews**
 ### **5.3.1. Diseño de Entrevistas**
+ ***Segmento 1: Influencers***
+ 1. ¿Utilizas alguna otra aplicación para comunicarte con otras empresas?
+ 1. ¿Que te parecio la interacción con Connex?
+ 1. ¿Que es lo que modificarias o añadirias?
+    
+ ***Segmento 2: Empresas***
+ 1. ¿¿Que te parecio la interacción con Connex?
+ 1. ¿Que es lo que modificarias o añadirias?
+ 1. ¿Que tan facil te parecio el uso de Connex?
+    
 ### **5.3.2. Registro de Entrevistas**
-### **5.3.3. Evaluaciones según Heurísticas**
 
-## **5.4. Video About-the-Product**
+ ***Segmento 1: Influencers***
+
+   **Entrevistado N°1: Gillary Ajalcriña**
+
+- **Sexo: Femenino** 
+- **Edad: 21 años**
+- **Domicilio: La Molina** 
+
+**Entrevista:** 
+
+- **Link: https://upcedupe-my.sharepoint.com/personal/u202125968_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202125968_upc_edu_pe%2FDocuments%2FEntrevista%20Gillary-%20Influencer%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Efd83b39b-bd64-4f8d-ab1f-3b01f7dda579&isDarkMode=false**
+- **Momento en el que Inicia: 0:00 min**
+- **Duración: 4:30 min**
+
+  **Resumen:**
+  ` ` La influencer Gillary le parecio muy didactica el uso de Connex pues le permitiria asi mostrar sus redes sociales a las empresas y 
+  asi poder promocionarse , de esta forma podra tener mas atencion a su publico tambien a la vez .Tambien recalco que le gustaria que se 
+  implmente un color mas calido a la aplicación para que sea mas llamativo para otras personas.
+
+  
+
+ **Entrevistado N°2: Diego Bastidas**
+- **Sexo: Masculino** 
+- **Edad: 22 años**
+- **Domicilio: Comas** 
+
+**Entrevista:** 
+
+- **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/Edy4-XjGgW1MvrmR2luyzhcBbyZZ8eX90rrsQ3wYGYO_mg?e=2QW9aP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D**
+- **Momento en el que Inicia: 0:00 min**
+- **Duración: 4:44 min**
+
+**Resumen:**
+  ` ` El influencer Diego mencionó que la aplicación Connex le parece una herramienta muy útil para gestionar su presencia en redes sociales de manera profesional. Destacó que la interfaz es intuitiva y fácil de navegar, lo cual le permite tener acceso rápido a estadísticas y configuraciones para optimizar sus campañas.
+  
+ **Entrevistado N°3: Gianella Cardenas**
+- **Sexo: Femenino** 
+- **Edad: 23 años**
+- **Domicilio: Surco** 
+
+**Entrevista:** 
+
+- **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EQef5M4vtdRPvCTwgiPM63UBW5CBBDoyB1a-BwKBhyDAqw?e=gz8qcj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D**
+- **Momento en el que Inicia: 0:00 min**
+- **Duración: 3:28 min**
+
+  **Resumen:**
+  ` ` La influencer Gianella considera que Connex es una plataforma poderosa para conectar a los creadores de contenido con empresas. Opinó que la sección de estadísticas ofrece información relevante para medir el alcance y rendimiento de sus campañas, lo cual resulta esencial en su campo..
+
+   ***Segmento 2: Empresas***
+
+   **Entrevistado N°1: Sebastian Silva**
+
+- **Sexo: Masculino** 
+- **Edad: 20 años**
+- **Domicilio: San Luis** 
+
+**Entrevista:** 
+
+- **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EbnwOJTKeXpIkwkBV9pXfB8Bq4prnQatpWrHAhGajPebCA?e=7aKDQ9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D**
+- **Momento en el que Inicia: 0:00 min**
+- **Duración: 3:17 min**
+
+  **Resumen:**
+  ` `Sebastian, dueño de una tienda de ropa , comentó que Connex le resulta una herramienta fácil de usar para conectarse con influencers que pueden darle visibilidad a su tienda. Resaltó que la sección de estadísticas le permite ver el impacto de cada colaboración, ayudándole a tomar decisiones más informadas sobre futuras campañas. Sin embargo, sugirió que sería ideal que la aplicación incluya un sistema de chat interno para comunicarse directamente con los influencers sin tener que salir de la plataforma.
+
+
+
+  **Entrevistado N°2: Jose Heredia**
+
+- **Sexo: Masculino** 
+- **Edad: 20 años**
+- **Domicilio: Santa Anita** 
+
+**Entrevista:** 
+
+- **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EUIX51tSPadGlSf9V0Qlk5EB8MgvOTuJSj9Edxvav8vqPw?e=rJz1XY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D**
+- **Momento en el que Inicia: 0:00 min**
+- **Duración: 4:29 min**
+
+  **Resumen:**
+  ` `Jose, fundador de una empresa pequeña valoró la estructura organizada de Connex y mencionó que le facilita gestionar la relación con los influencers para aumentar la visibilidad de su startup. Apreció que la plataforma permite acceder a campañas previas de otros usuarios, dándole ideas sobre cómo estructurar las suyas. Sin embargo, Luis sugirió que Connex podría beneficiarse de una actualización de diseño más moderna, con colores y estilos que hagan la experiencia visualmente más atractiva y en línea con tendencias tecnológicas.
+
+**Entrevistado N°3: Renzo Esquen**
+
+- **Sexo: Masculino** 
+- **Edad: 28 años**
+- **Domicilio: San Miguel** 
+
+**Entrevista:** 
+
+- **Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EcIjIP06iwxAh3y19n7Z-ogBRQxauY-wcpq4SzBrcJAH1A?e=gxOGbX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D**
+- **Momento en el que Inicia: 0:00 min**
+- **Duración: 4:42 min**
+
+  **Resumen:**
+  ` `Renzo, propietario de una veterianiria groomer considera que Connex es una plataforma excelente para identificar influencers con afinidad por el sector de salud. Le gustó la opción de ver datos y gráficas sobre el alcance de las campañas, ya que le da una idea clara de los resultados. No obstante, recomendó que se añadan filtros avanzados en la búsqueda de influencers, como la posibilidad de segmentar por ubicación y demografía del público, para hacer las colaboraciones más precisas.
+
+### **5.3.3. Evaluaciones según Heurísticas**
+# Evaluación de Usabilidad de la Plataforma Connex Basada en la Heurística de Nielsen
+
+---
+
+### **Meta:** 
+El propósito de esta evaluación es identificar problemas de usabilidad dentro de la aplicación web Connex.
+
+**Lista de Heurísticas:** 
+Los hallazgos de esta evaluación se basan en la lista de verificación heurística de Jakob Nielsen.
+
+---
+
+### **Tareas Evaluadas**
+1. **Autenticación (Iniciar Sesión, Registro, Recuperar Contraseña)**
+2. **Panel de Control: Páginas de Inicio, Estadísticas y Configuración**
+
+### **Escala de Severidad**
+| Nivel | Descripción                                                                 |
+|-------|-----------------------------------------------------------------------------|
+| 1     | Problema superficial; fácil de superar, ocurre raramente.                   |
+| 2     | Problema menor; algo frecuente pero fácil de superar; baja prioridad.       |
+| 3     | Problema importante; frecuente, interfiere con la usabilidad; prioridad alta.|
+| 4     | Problema severo; impide completar la tarea; debe corregirse antes del lanzamiento.|
+
+---
+
+### **Problemas Identificados**
+
+---
+
+A continuación, se detallan tres problemas identificados en la evaluación heurística de la plataforma Connex.
+
+---
+
+### **Problema #01: Falta de Retroalimentación Clara en las Acciones de los Botones**
+
+- **Escala de Severidad:** 3
+- **Principio Violado:** **Visibilidad del Estado del Sistema**
+  
+- **Descripción del Problema:**  
+  La interfaz no proporciona una retroalimentación clara cuando los usuarios realizan acciones. Por ejemplo, al hacer clic en botones como "Registrar" o "Enviar Email", no hay una confirmación visual inmediata, lo que puede generar dudas sobre si la acción fue procesada correctamente.
+
+- **Recomendación:**  
+  Se recomienda agregar indicadores de retroalimentación, como mensajes de confirmación, cambios de color en los botones o un pequeño ícono de carga. Esto aumentará la confianza del usuario al saber que el sistema está procesando su solicitud.
+
+---
+
+### **Problema #02: Página de Configuración Sobrecargada**
+
+- **Escala de Severidad:** 3
+- **Principio Violado:** **Flexibilidad y Eficiencia de Uso**
+  
+- **Descripción del Problema:**  
+  La página de configuración presenta demasiada información de forma no organizada, lo cual puede resultar abrumador para los usuarios y dificulta encontrar opciones específicas, reduciendo así la eficiencia al navegar por esta sección.
+
+- **Recomendación:**  
+  Se sugiere organizar las opciones de configuración en categorías o secciones colapsables, permitiendo que el usuario expanda solo las áreas necesarias. Esto mejorará la limpieza visual y facilitará la navegación.
+
+---
+
+### **Problema #03: Ausencia de Ayuda o Guía para Usuarios Nuevos**
+
+- **Escala de Severidad:** 4
+- **Principio Violado:** **Ayuda y Documentación**
+  
+- **Descripción del Problema:**  
+  No se proporciona orientación ni ayuda visible para los nuevos usuarios, especialmente en secciones complejas como "Estadísticas" y "Configuración". Esto puede dificultar el uso inicial de la plataforma y hacer que los usuarios se sientan perdidos.
+
+- **Recomendación:**  
+  Se recomienda agregar una sección de ayuda o guías de introducción, tales como tooltips o un tutorial inicial. Esto permitirá a los nuevos usuarios entender mejor la funcionalidad de Connex y mejorar su experiencia inicial.
+
+---
+
+Estas recomendaciones buscan mejorar la usabilidad y la experiencia general del usuario en la plataforma Connex.
+
+## **Video About-the-Team**
+El video resume el proceso de trabajo realizado por el equipo, en el cual los integrantes describen las actividades llevadas a cabo para alcanzar los objetivos establecidos en el curso. Cabe destacar que los miembros resaltan la importancia de la comunicación oral y escrita como una herramienta efectiva para expresar ideas y reportar el avance del proyecto.
+
+[Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EUxRv8L11D1AtKyofAkAHQkBpfnPLShCd-4-0804xlHL6g?e=WGvIwF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+##  **Video About-the-Product**
+A continuación, se presenta el video "About the Product," el cual resalta el propósito, las ventajas y las características principales de la aplicación. Asimismo, incorpora testimonios de usuarios clave que respaldan la calidad del software creado.
+
+[Link](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202125968_upc_edu_pe/EbHXsvWXM9FMmIe9S4BJeBQBbJyVh1nTtRspo6cZIj53IQ?e=Z5yTBE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 # **Conclusiones**
 
+- A lo largo del desarrollo de la plataforma Connex, el equipo ha logrado implementar satisfactoriamente las funciones y características planeadas, creando una experiencia de usuario eficiente que facilita la conexión entre influencers y empresas.
+- La creación de la plataforma Connex ha permitido al equipo demostrar su capacidad para convertir requisitos y especificaciones en código funcional, construyendo una estructura robusta y un diseño atractivo que optimiza la interacción entre influencers y marcas.
+- La cooperación y el trabajo en equipo han sido fundamentales para el éxito del proyecto, promoviendo el intercambio de conocimientos y habilidades en el uso de herramientas avanzadas, como Angular para frontend y backend, que ha sido crucial para el desarrollo de funciones dinámicas y adaptativas.
+- Además, el uso de herramientas de diseño como Figma ha facilitado la creación de una interfaz coherente y visualmente atractiva que fortalece la imagen profesional de Connex. Asimismo, Trello ha contribuido a la organización y el seguimiento efectivo de las tareas, permitiendo al equipo mantenerse enfocado en los objetivos.
+- Este desarrollo inicial ha sentado una base firme para el crecimiento de la plataforma en futuras fases, asegurando una infraestructura tecnológica estable y escalable.
+- La aplicación de una metodología ágil ha permitido al equipo adaptarse rápidamente a los desafíos y cambios, optimizando el proceso de desarrollo y garantizando la calidad en cada etapa.
+-Este proyecto refleja el compromiso del equipo por posicionar a Connex como una plataforma líder en la conexión entre influencers y empresas, proporcionando una herramienta profesional y moderna que impulsa el crecimiento de ambos sectores.
+
+
 # **Bibliografía**
+
+1. Aglowid IT Solutions. (2024). **Top 12 Angular best practices to adapt in 2024**. *Aglowid IT Solutions*. [https://aglowiditsolutions.com](https://aglowiditsolutions.com)
+2. C# Corner. (2024). **Using trackBy with ngFor to optimize rendering**. *C# Corner*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
+3. C# Corner. (2024). **Implementing lazy loading in Angular for performance improvements**. *C# Corner*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
+4. C# Corner. (2024). **Handling Observables to prevent memory leaks in Angular**. *C# Corner*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
+5. Aglowid IT Solutions. (2024). **The single responsibility principle in Angular development**. *Aglowid IT Solutions*. [https://aglowiditsolutions.com](https://aglowiditsolutions.com)
+6. C# Corner. (2024). **State management with Angular: NGRX and NGXS**. *C# Corner*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
+7. Angular.io. (2024). **Best practices for component folder structure in Angular**. *Angular*. [https://angular.io](https://angular.io)
+8. Aglowid IT Solutions. (2024). **Maximizing Angular CLI for efficient development**. *Aglowid IT Solutions*. [https://aglowiditsolutions.com](https://aglowiditsolutions.com)
+9. Aglowid IT Solutions. (2024). **Consistency in Angular file and class naming conventions**. *Aglowid IT Solutions*. [https://aglowiditsolutions.com](https://aglowiditsolutions.com)
+10. C# Corner. (2024). **Managing Angular environment files for various stages**. *C# Corner*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
+11. Aglowid IT Solutions. (2024). **Optimizing Angular templates for better performance**. *Aglowid IT Solutions*. [https://aglowiditsolutions.com](https://aglowiditsolutions.com)
+12. Aglowid IT Solutions. (2024). **Breaking large components into manageable sizes in Angular**. *Aglowid IT Solutions*. [https://aglowiditsolutions.com](https://aglowiditsolutions.com)
+13. C# Corner. (2024). **Using linting for improved code quality in Angular**. *C# Corner*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
+14. C# Corner. (2024). **CDK virtual scrolling for handling long lists in Angular**. *C# Corner*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
+15. Aglowid IT Solutions. (2024). **Preventing memory leaks when using Angular Observables**. *Aglowid IT Solutions*. [https://aglowiditsolutions.com](https://aglowiditsolutions.com)
+16. **Firebase Documentation**. (2024). *Firebase Functions documentation*. [https://firebase.google.com/docs/functions](https://firebase.google.com/docs/functions)
+17. **Google Cloud Platform**. (2024). *Best practices for Firebase security*. [https://cloud.google.com/firestore/docs/security](https://cloud.google.com/firestore/docs/security)
+18. **DigitalOcean Community**. (2024). *Managing Firebase Functions with Node.js*. [https://www.digitalocean.com/community/tutorials](https://www.digitalocean.com/community/tutorials)
+19. **Firebase**. (2024). *Deploying Firebase functions*. [https://firebase.google.com/docs/functions/deploy](https://firebase.google.com/docs/functions/deploy)
+20. **C# Corner**. (2024). *Using Firebase with Node.js to Build Scalable Backend Solutions*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
+21. **Medium**. (2024). *Optimizing Firebase Cloud Functions for large-scale applications*. [https://medium.com](https://medium.com)
+22. **TutorialsPoint**. (2024). *Setting up Firebase with Node.js backend*. [https://www.tutorialspoint.com/firebase](https://www.tutorialspoint.com/firebase)
+23. **Firebase Documentation**. (2024). *Firebase Firestore security rules*. [https://firebase.google.com/docs/firestore/security/get-started](https://firebase.google.com/docs/firestore/security/get-started)
+24. **DigitalOcean Community**. (2024). *Integrating Firebase Authentication for Web Applications*. [https://www.digitalocean.com/community/tutorials](https://www.digitalocean.com/community/tutorials)
+25. **Medium**. (2024). *Deploying full-stack applications with Firebase Hosting*. [https://medium.com](https://medium.com)
+26. **C# Corner**. (2024). *Using Firebase Firestore for real-time data handling*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
+27. **Firebase**. (2024). *Serverless backend with Firebase Functions*. [https://firebase.google.com/docs/functions](https://firebase.google.com/docs/functions)
+28. **Google Cloud**. (2024). *Using Firebase Hosting with CI/CD pipelines*. [https://cloud.google.com](https://cloud.google.com)
+29. **TutorialsPoint**. (2024). *Firebase for backend integration with Angular applications*. [https://www.tutorialspoint.com](https://www.tutorialspoint.com)
+30. **C# Corner**. (2024). *Managing Firebase environment variables for staging and production*. [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com)
 
 # **Anexos**
 1. Despliegue del Landing Page: <https://g4-upc-pre-si729-2402-sw54-innovatech.github.io/upc-pre-202402-si729-SW54-InnovaTech-landing-page/>
-2. Figma con los Wireframes, MockUps y User Flow Diagrams, tanto del Landing como del Web Application: <https://www.figma.com/design/uXYz1dq5QRdRAHkwtRY8bz/InnovaTech?node-id=6-185&t=Ko92iM4B2N0ar8xW-1>
+2. Figma con los Wireframes, MockUps y User Flow Diagrams, tanto del Landing como del Web Application: <
