@@ -776,15 +776,59 @@ En el sprint, el equipo se enfocó en crear una landing page atractiva y funcion
 
 #### **5.2.4.3. Development Evidence for Sprint Review**
 
+| Repository | Branch | Commit Message | Commit ID |
+|------------|--------|----------------|-----------|
+|InnovaTech-Web-services |development  |feat: Add Users Entities |1ce32a8  |
+|InnovaTech-Web-services |development  |feat: Add UserController |9936b08  |
+|InnovaTech-Web-services |profile  |feat: Add Profile Managment |fbf27ce  |
+|InnovaTech-Web-services |campaign  |feat: Add Registration Entity for Campaign |9eb362b  |
+|InnovaTech-Web-services |campaign  |feat: Add CampaignController |6454ef0  |
+
 #### **5.2.4.4. Testing Suite Evidence for Sprint Review**
+
+| Repository   | Branch  |  Commited on (Date)|
+|------|-----------------------------------|----------------------------------------|
+|[ https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/tree/feature/chapter5](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/tree/main) | upc-pre-202402-si729-SW54-InnovaTech-report/main | 29/10/24 |
 
 #### **5.2.4.5. Execution Evidence for Sprint Review**
 
+Durante el sprint 4 se realizó el desarrollo de webservices. Asimismo, 
+se continuo con el avance en el desarrollo de la aplicación web, 
+permitiendo al usuario interactuar con ciertas funcionalidades del frontend. 
+A continuación se presentan algunas evidencias.
+
+<img src="Assets/a1.png" style="width: 100%;"/>
+
+<img src="Assets/a2.png" style="width: 100%;"/>
+
+<img src="Assets/a3.png" style="width: 100%;"/>
+
+<img src="Assets/a4.png" style="width: 100%;"/>
+
+<img src="Assets/a5.png" style="width: 100%;"/>
+
+<img src="Assets/a6.png" style="width: 100%;"/>
+
+<img src="Assets/a7.PNG" style="width: 100%;"/>
+
+
 #### **5.2.4.6. Services Documentation Evidence for Sprint Review**
+
+Diseñamos los endpoints como puntos de acceso específicos dentro de 
+la aplicación web, que facilitan la comunicación entre el cliente y el servidor.
+ Cada endpoint cuenta con una URL única y, al recibir una solicitud, el servidor
+  la procesa y responde de acuerdo con la función específica asignada. 
+  De este modo, funcionan como controladores que distribuyen las solicitudes 
+  hacia distintas áreas de la aplicación, permitiendo desde la presentación de 
+  información hasta la ejecución de operaciones en la base de datos. 
+  La documentación de estos endpoints fue una prioridad para nosotros, 
+  ya que permite a otros desarrolladores integrarse con facilidad y 
+  entender cómo interactuar eficazmente con la aplicación.
 
 #### **5.2.4.7. Software Deployment Evidence for Sprint Review**
 
 #### **5.2.4.8. Team Collaboration Insights during Sprint**
+![](https://github.com/G4-UPC-PRE-SI729-2402-SW54-InnovaTech/upc-pre-202402-si729-SW54-InnovaTech-report/blob/4e6b9659584d308221c6118dcb75d0863aa9cac1/Assets/reports/insights%20tf.jpg)
 
 ## **5.3. Validation Interviews**
 ### **5.3.1. Diseño de Entrevistas**
